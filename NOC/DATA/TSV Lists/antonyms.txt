@@ -1,0 +1,3668 @@
+Root	Antonym
+elongated	stunted
+thinskinned	thickskinned
+tactful	tactless
+orphaned	privileged
+laconic	glib, garrulous, talkative, gossipy, chatty, long-winded, forthcoming
+impudent	biddable, polite, obedient
+unorganized	organized
+willing	unwilling
+noncontagious	infectious
+inclusive	exclusive
+uncut	cut
+bald	bushy, hirsute, hairy, furred, handsome, furry
+clairvoyant	blind
+ephemeral	eternal, permanent
+lecherous	chaste
+vivid	colourless, colorless
+imperceptible	perceptible
+disenfranchised	influential
+songful	shrill
+trusted	untrustworthy
+true	untruthful, false
+fluid	petrified, clunky
+directional	undirected
+vacuous	substantial
+appetising	unappetizing
+charmless	charming
+edgy	smooth
+unwieldy	portable, usable, handy
+whirling	motionless
+compulsive	laidback
+expressionless	articulate
+seaworthy	unseaworthy
+fiery	mild
+fragile	steely, hardy, rugged, robust, reinforced, armored, vigorous, fortified, strong, sturdy, resilient, endurable, bulletproof, unbreakable, powerful, indestructible
+uncoloured	colorful
+traumatic	relaxing
+ill	healthy
+vanilla	exotic
+trite	quirky, original
+frank	coy
+fervent	passionless
+flying	earthbound
+conversational	tightlipped
+selfeffacing	arrogant
+functional	useless, obsolete, decorative, nonfunctional
+basic	peripheral, intricate, incidental, elaborate
+intelligent	dumb, unintelligent, silly, brainless, stupid, moronic
+tanned	untanned, pale, pallid
+merry	distressed, uncomfortable, gloomy, angry, joyless, despairing, lonely, desolate, disgruntled, bitter, sad, unfortunate, troubled, miserable
+tuneful	untuneful, shrill, unmelodious, tuneless
+urbane	childish, unsophisticated
+close_minded	openminded
+confrontational	diffident
+euphoric	distressed, unhappy
+reviled	honored, adored, celebrated, venerated, worshipped, revered, august
+sagging	pert
+itchy	soothing
+sterile	fertile, fecund
+onedimensional	twodimensional, multifaceted, threedimensional
+skilful	clumsy, unskilled
+schematic	unconventional
+lowborn	kingly, titled, noble
+competitive	noncompetitive
+impressive	inconspicuous, dull, trivial, inconsequential, unsubstantial, pathetic, irrelevant, silly, trifling, petty, unimpressive, flimsy
+whipped	pampered, spoiled
+scruffy	handsome
+undeniable	deniable
+south	north
+withered	handsome
+solicitous	inattentive, uncaring
+caring	ruthless, heartless, mean, brutal, savage, unconcerned, predatory, uncaring, cruel, coldblooded
+obsequious	arrogant, haughty, dominant
+broken	functioning
+predictable	tricky, unpredictable, unforeseeable, dramatic
+disarranged	ordered
+uncultivated	courtly, chivalrous
+dire	wonderful
+vanquished	conquering, triumphant, jubilant, winning
+bushy	bald, hairless
+ruthless	caring, compassionate
+enslaved	unconstrained, emancipated, liberated, carefree, unrestrained, free
+attainable	unreachable, unattainable
+shackled	unconstrained, emancipated, liberated, carefree, unrestrained, free
+shrewd	daft, clueless, naive, guileless, brainless
+inky	clear
+aboriginal	nonnative
+innocent	guilty, culpable
+religious	secular, irreligious
+conquering	vanquished, demoralized, disgraced, battered, deposed, shamed, losing, dethroned, retreating, conquered, powerless, toppled, defeated, crushed, nonviolent
+ethical	unethical
+vain	modest
+honorable	dishonourable, deceptive, corrupt, treacherous, dishonorable, despicable, ignoble, unscrupulous, evil, underhanded, sleazy, selfish, self-serving, cynical, dishonest, trashy, dissolute, depraved, contemptible, conniving, devious, unprofessional, deceitful, crooked, cruel, scummy, crass
+dishonourable	honorable
+purposeful	purposeless, aimless
+pleased	displeased, disappointed
+young	old, grizzled
+vertical	horizontal
+unprotected	protected, armored, secure, defensive
+inconspicuous	impressive, eminent, conspicuous, famous
+affectionate	gruff, unloving
+tight	leaky, loose
+mellifluous	hoarse, guttural
+persuadable	immovable
+disorganised	organized
+frisky	lifeless, inert
+lordly	wretched, lowly, humble, destitute, inferior, impoverished
+warty	beautiful
+cloudy	sunny, clear
+incoherent	lucid, focused, orderly, logical, united, determined, coherent, unified, consistent, cohesive
+frightened	indomitable, valiant, undaunted, daring, fearless, courageous, bold, powerful, crusading
+anointed	impure, unholy, profane, cursed, outcast
+unsystematic	systematic
+measured	unmeasured
+indistinct	resonant, recognizable, individual, distinct
+whacky	grave
+feckless	responsible
+easily-satisfied	ravenous
+complacent	protected, besieged, anxious, paranoid, defensive, camouflaged
+fluent	dyslexic, inarticulate
+uncomplimentary	flattering
+hideous	beautiful, handsome, attractive
+cunning	naive, guileless
+soporific	dazzling, enervating
+knowing	perplexed
+secondary	primary
+colourless	vivid, colorful, colourful
+frail	overpowering, fearsome, rugged, robust, reinforced, armored, mighty, dreaded, fortified, threatening, strong, husky
+gaudy	chic, sombre, somber, elegant
+wimpy	strong, brawny
+pro-choice	prolife
+artistic	crass
+perky	droopy, lethargic, sluggish
+equivalent	unequal
+earthly	heavenly
+shabby	swanky, sartorial, dapper, tidy, sophisticated
+intuitive	blind
+structured	unstructured
+gifted	untalented, talentless
+legible	illegible
+just	unjust, inequitable, unfair
+registered	unregistered
+laughable	grave, dignified, serious
+authentic	imitative, fake, phony
+suave	clumsy, childish, unsophisticated
+standing	sitting
+addictive	bland
+asymmetrical	symmetric, symmetrical
+honest	deceptive, corrupt, dishonorable, duplicitous, dishonest, untruthful, shifty, sneaky, conniving
+affirming	negative
+kosher	invalid
+criminal	decriminalized
+decriminalized	criminal, illegal, proscribed, transgressing
+proscribed	decriminalized, legal
+mousy	aggressive
+sunny	cloudy
+inauspicious	auspicious, promising
+underachieving	accomplished
+grudging	extravagant, generous
+organized	unorganized, disorganised, unorganised, chaotic, messy, disordered, disorganized
+leaky	tight, gastight, watertight, airtight
+oppressed	unconstrained, carefree, unrestrained, free
+nurturing	lethal
+devoted	self_serving, indifferent, narcissistic, selfish, faithless, inconsiderate, venal, skeptical
+stressful	leisurely, relaxing
+finegrained	coarse_grained
+corrosive	harmless
+heartless	caring, softhearted
+disgusting	yummy, savory, worthy, delectable, palatable, handsome, majestic, sexy, tasty, delicious, magnificent, cute, picturesque
+punishing	rewarding
+touchy	insensitive
+sound	unsound
+hitech	lowtech
+glib	laconic
+peripheral	basic, central
+leisurely	stressful, authoritarian
+unprovocative	provocative
+insulting	dignified, flattering
+inaudible	audible
+onstage	offstage
+sincere	ignoble, insincere
+groovy	unfashionable
+homey	uncomfortable
+pricey	inexpensive
+frightening	inviting
+icy	warm
+weird	normal
+oldfashioned	modern
+distressed	merry, euphoric, happy, joyful
+imaginative	unimaginative, hackneyed
+hoarse	mellifluous
+topsyturvy	orderly
+directionless	focussed
+eccentric	conservative
+unrelenting	casual
+fleeing	attacking, rampaging
+uncivil	polite
+arrogant	selfeffacing, obsequious, meek, modest, self-effacing, humble, magnanimous, unassuming, respectful, docile, bashful, gracious, submissive, obedient
+diffuse	focused, concentrated, hard, focussed
+aidback	authoritarian
+possessed	dispossessed
+questionable	unquestionable
+prolific	barren, unproductive
+crestfallen	optimistic
+virulent	benign
+noticed	unnoticed
+bothersome	relaxing
+moody	happy, even-tempered
+swanky	shabby
+appetizing	unappetising, unappetizing
+reliant	independent
+pious	faithless, impious
+sagacious	ignorant
+adulterating	purifying
+uncouth	courtly, genial, chivalrous, sophisticated, cultured
+horizontal	vertical, perpendicular, inclined, sheer
+unedifying	enlightening, edifying
+depressive	lighthearted
+corporate	communist
+tropical	cold
+nonresidential	residential
+concise	prolix, convoluted
+dicey	certain
+deceptive	honorable, honest
+worldly	unworldly
+dilute	concentrated, undiluted
+impossible	possible
+unwelcoming	salubrious
+thankless	grateful
+wideopen	closed
+dismissive	congratulatory, open_minded
+elected	unelected
+inevitable	avertible, avoidable
+spotted	clear-skinned
+trenchant	uninformative
+incommodious	commodious, convenient
+trim	fat
+sober	pissed, stoned, intoxicated, groggy, drunk, inebriated, playful
+adjustable	fixed
+dour	joyous
+meek	arrogant, cowardly, prestigious, haughty, defiant, assertive, daring, gruff, fierce, lofty, bold, powerful, commanding, menacing
+susceptible	invulnerable, insusceptible
+clandestine	public
+unable	able
+bottomless	shallow
+forceful	mild-mannered, weak
+remorseful	remorseless
+law_abiding	felonious
+flaccid	strong, stiff, erect
+unhappy	euphoric, glad, content, happy, contented, joyful, delighted, fortunate
+manly	feminine, unmanlike, girlish, unmanly
+concealing	revealing
+enduring	temporary
+overpowering	frail, charming, underwhelming, delicate, outnumbered, empty-handed, demure, powerless, weak, vulnerable, defenseless
+distinguished	undistinguished
+obligatory	optional
+non-contagious	contagious
+protected	unprotected, complacent, unguarded, insecure, vulnerable, defenseless
+impure	anointed, kingly, titled, clean, demure, noble, pure
+goofy	serious
+pokerfaced	expressive
+thunderous	peaceful, calm
+old	young, new, immature
+undernourished	muscular
+clarion	mute
+ill-defined	clear
+squishy	solid, hard
+unfunny	comical, humorous, funny, amusing
+piercing	blunt
+chic	gaudy
+unimaginative	imaginative, creative, dashing
+disobedient	dutiful, obedient
+steely	fragile
+honored	reviled, lowly, ignominious, disgraced, unpopular, dishonored, despised, contemptible, unwanted, hated, outcast
+unsurprising	shocking, surprising, startling
+gooey	solid
+short-lived	perennial
+disposable	irreplaceable, everlasting, indispensable
+tremendous	insignificant
+unaware	aware
+wretched	lordly, rich, privileged, majestic, wealthy, magnificent
+craggy	smooth
+maternal	uncaring
+staunch	weak
+eagle_eyed	crosseyed
+petite	huge
+self_serving	devoted
+unhallowed	consecrated, holy
+serene	disruptive, devastating, aggressive
+scorching	cold
+damned	consecrated, holy, beloved
+extravagant	grudging, miserly, thrifty, penny-pinching, poor, cheap
+perceptive	unseeing, unperceptive
+sinewy	flabby
+dominating	deposed, dethroned, toppled
+turbulent	calm
+certain	dicey, tenuous
+slight	substantial, unstoppable
+charming	charmless, overpowering, tiresome, obnoxious, rude, threatening, violent, insensitive, noxious, annoying, boorish, crass
+underwhelming	overpowering, overbearing, overwhelming
+amoral	moral
+unholy	anointed, consecrated, holy
+brisk	slow
+premeditated	spontaneous, random, unplanned, reflexive
+crippling	insignificant
+impartial	partisan, prejudiced, political, brainwashed, discriminating, discriminatory, unfair
+lackluster	magnificent
+balmy	devastating, cold
+negative	affirming, positive, affirmative
+peculiar	undistinguished
+respectable	unrespectable, disreputable
+unabashed	abashed
+perfumed	stagnant, rank, noxious
+popular	lonely, unpopular, lonesome, alienated
+mean	caring, worthy, generous
+sandy	concrete
+timid	raucous, bold
+vague	definite, detailed, defined, definitive, specified, specific, welldefined
+stranded	saved
+rapid	slow
+incapable	capable
+fastidious	sloppy, untidy
+spiky	smooth
+nervewracking	enjoyable
+glad	unhappy, melancholy, sad
+nosey	indifferent
+horrible	handsome
+wrong	correct, right
+rough-hewn	cleancut
+beakless	beaked
+visual	verbal
+pissed	sober
+square	round, circular, rounded
+hightech	lowtech, primitive
+fetching	unattractive
+junky	nourishing
+green	ripe, dreaded, mature
+anachronistic	modern, stylish
+gullible	untrusting, skeptical, incredulous
+unmarked	marked
+dictatorial	democratic
+quantitative	qualitative
+metallic	nonmetallic
+unremarkable	remarkable, eminent, pronounced, noticeable, tumultuous, alarming, grand, majestic, emphatic, provocative, fascinating, famous, evocative, notable
+manual	automatic
+antsy	relaxed
+kind	unkind, brutal, vicious, cruel
+seedy	respected, seedless
+teetotal	alcoholic
+harsh	tender, fine, gay, soft, gentle, mellow
+unqualified	qualified, respected
+bristly	smooth
+fearsome	frail, domesticated, harmless, unthreatening, friendly, docile, contemptible, cuddly, cute
+demoralized	conquering, vigorous, enthusiastic, energetic, winning, motivated
+considerate	overbearing, mindless, inconsiderate, unthinking
+refined	coarse, gritty, unrefined, crude
+nonabsorbent	absorbent
+intricate	basic, simple
+ignorant	sagacious, authoritative, knowledgeable, insightful, kingly, titled, poised, noble, erudite, wise, cultured, allknowing
+untanned	tanned
+unorganised	organized
+constrictive	spacious
+explicable	inexplicable, incomprehensible
+fertile	sterile, barren, infertile
+adored	reviled, lowly, ignominious, disgraced, unpopular, despised, contemptible, unwanted, hated, outcast
+wispy	dense
+unmusical	melodious, musical, melodic
+inaccurate	accurate
+miserly	extravagant, generous
+forthright	withdrawn, camouflaged
+poetical	prosaic
+impervious	porous, vulnerable
+tightlipped	conversational, talkative, effusive
+democratic	dictatorial, tyrannical, autocratic, undemocratic
+bracing	gentle
+depressing	uplifting, fortunate
+choppy	smooth
+earthbound	flying
+inglorious	glorious
+forgetful	aware, mindful, recollective, retentive
+singleminded	unfocussed
+cowering	defiant, assertive, daring, gruff, fierce, bold, commanding
+evanescent	dull
+limitless	limited
+positive	negative
+bulky	portable, svelte
+lowly	lordly, honored, adored, celebrated, regal, prestigious, venerated, exalted, kingly, revered, imperious, august, grand, noble, lofty, deified, royal, magnificent
+sharp	toothless, dull, blunt, fuzzy
+controversial	uncontroversial, boring, mundane, accepted
+brilliant	dull, colorless
+done	unfinished
+undramatic	dramatic
+blameless	guilty
+variable	steady, unchanging
+divergent	convergent
+corrupt	honorable, honest, worthy, godly, pure
+coarse_grained	finegrained
+incompressible	compressible
+overworked	pampered, spoiled
+contaminating	cleansing, purifying
+nonreflective	reflective
+fat-free	fatty, fat
+briny	bland
+fixed	adjustable, removable, moving, changing
+welcoming	xenophobic, forbidding, dank, stifling, uninviting, camouflaged
+felonious	law_abiding
+chesty	flat-chested
+barren	prolific, fertile, fruitful, lush, sumptuous, woody, plentiful, verdant
+methodical	disorganized
+wavy	smooth
+softcore	hardcore
+pale	tanned, colorful, burnt, tawny, swarthy, reddened, tan, crimson, scarlet, red, reddish
+clumsy	skilful, suave, stealthy, skilled, dainty, graceful, poised, skillful, deft, handy, adept, dexterous, adroit
+grim	gay, handsome, pleasant
+delicate	overpowering, hardy, rugged, robust, hard, brutish, hardened
+piquant	bland
+striking	banal, mundane
+dreary	dashing, joyful
+ramshackle	organised
+uncomfortable	merry, homey, heated, happy, luxurious, plush, luxuriant, comfy, comfortable, cozy, cosy
+partisan	impartial, united, unbiased, neutral
+unoccupied	occupied
+creative	unimaginative, uncreative
+planned	random, unplanned
+great	insignificant, meaningless, trivial, minor, inconsequential, helpless, harmless, mediocre, tiny, pathetic, irrelevant, silly, powerless, trifling, weak, terrible, worthless, frivolous, mundane, small, unimportant, uninteresting, puny
+overbearing	underwhelming, considerate, unintrusive, undemanding, thoughtful, diplomatic
+unrigged	rigged
+odd	commonplace
+lifeless	frisky, relentless, electric, vigorous, fresh, rambunctious, spunky, dashing, lively, alive, vibrant, spirited, exuberant, vivacious
+plebeian	patrician
+sharpsighted	blind
+meditative	unthinking
+precise	imprecise
+denounced	blessed, admired, respected
+blessed	unfortunate, cursed, denounced
+unadaptable	adaptable
+continual	sporadic
+contaminated	clean
+lasting	temporary, impermanent
+cumbersome	portable, handy
+variegated	homogeneous
+theatrical	unscripted
+childish	urbane, suave, adult, sophisticated, wise, mature
+xenophobic	welcoming
+proletariat	aristocratic
+indecipherable	obvious
+historical	passe
+crazed	sane
+formidable	insignificant, trivial, helpless, harmless, pathetic, powerless, contemptible, worthless
+inseparable	disjoint
+outdated	modern, fashionable, current
+jarring	soothing
+extensive	limited
+gloomy	merry, dandy, rosy, happy, jolly, contented, joyful, delighted
+undedicated	dedicated
+big	little, small
+rowdy	wellbehaved, placid
+grammatical	ungrammatical
+flaky	pristine
+genteel	brutish, crass
+promiscuous	celibate, chaste
+working	useless
+stylised	convoluted
+insolent	biddable
+untroubled	insecure, troubled
+tardy	punctual, prompt
+tolerable	unbearable
+pointed	pointless
+brown	colorless
+incessant	infrequent
+uninhibited	inhibited
+spontaneous	premeditated, staged, ritualistic, versed
+humourous	humorless, humourless
+legitimate	legitimate, illegitimate
+watchful	unobservant
+disadvantaged	rich
+unfeminine	womanly
+tasteless	spicy, fruity, poised, dignified, tasteful, tasty
+discontinuous	uninterrupted, continuous, lineal
+forbidding	welcoming
+solvent	bankrupt
+gymnastic	stiff
+implicit	explicit
+upbeat	melancholy, morose, macabre
+colorful	uncoloured, colourless, pale, grey, gray, colorless, uncolored, drab
+indifferent	devoted, nosey, doting, dedicated, jealous, choosy, committed, hooked, determined, insistent, avid, supportive, tenacious, fanatic, zealous, eager, fascinated, crusading, curious
+leggy	short-legged
+psychic	blind
+jolting	smooth
+grey	colorful
+wary	unwary
+functioning	broken
+uninterrupted	discontinuous
+stealthy	clumsy, obvious, unsubtle
+spicy	tasteless, bland
+warm	icy, chill, chilly, frosty, frigid, cool, cold
+feminine	manly, burly, masculine, macho, unwomanly
+incredible	everyday, credible, mundane, believable
+authoritative	ignorant
+precious	worthless
+clammy	dry
+abhorrent	desirable
+flakey	smooth
+flighty	lethargic
+invulnerable	susceptible, besieged, weakened, vulnerable, defenseless
+shocking	unsurprising, handsome, boring, banal
+airless	airy, windy
+advantageous	detrimental, harmful, disadvantageous
+spineless	mighty, fighting, strong, upstanding, rampaging, powerful
+portable	unwieldy, bulky, cumbersome, immovable, hefty, immoveable, unmovable
+mortal	immortal
+angry	merry, calm, happy
+lethal	nurturing, harmless, lifesustaining
+discrete	indiscrete
+thrifty	extravagant, unsparing, wasteful
+equal	unequal
+celebrated	reviled, lowly, ignominious, disgraced, unpopular, despised, contemptible, unwanted, hated, outcast
+unknown	renowned, determinate
+homosexual	heterosexual
+treacherous	honorable, trustworthy
+factual	false
+dreamy	realistic
+impractical	pragmatic, practical
+regal	lowly, humble, powerless, undignified, crude, cheap
+shaky	steady
+incomplete	complete, total, comprehensive
+softhearted	heartless, hardheaded
+constricting	relaxing
+uncompromising	conciliatory, flexible, compromising
+ripe	green, unripe, unripened, immature
+urgent	unimportant
+venomous	friendly
+qualified	unqualified
+commendable	ignoble
+lucky	unfortunate, cursed, unlucky, luckless
+peaceful	thunderous, belligerent, hostile, volcanic, pugilistic
+joyless	merry, joyous, delightful, festive
+advanced	elementary, primitive
+organised	ramshackle, undisciplined, chaotic, disorganized
+tiresome	charming, enjoyable
+reigning	cowed, deposed, subservient, fawning, dethroned, subjugated, servile, toppled, subordinate, submissive, obedient
+inexpensive	pricey, costly, expensive
+convergent	divergent
+eastern	western
+temporary	enduring, lasting, permanent, persistent
+intriguing	boring
+ethereal	substantial
+crusty	soft
+decrepit	handsome
+lightweight	mighty, crushing, dense, heavyweight
+dandy	gloomy
+self_effacing	selfaggrandizing
+relentless	lifeless, toothless, ineffective, purposeless, lazy, feeble, ineffectual, aimless
+prophetic	uninformative
+stressed	relaxed
+various	uniform
+guttural	mellifluous
+distressing	fortunate
+ignominious	honored, adored, celebrated, venerated, revered, august
+static	animated, dynamic, wayfaring
+sleek	misbegotten, fluffy
+inelegant	poised, elegant, handsome
+lawful	unlawful
+nonreflecting	reflective
+unreserved	reserved
+pitiable	magisterial, magnificent
+dishonorable	honorable, honest, glorious, honourable
+camp	masculine, butch
+educated	uneducated
+muscular	undernourished, skinny, stringy, flabby, gaunt
+alert	drowsy, clueless, unalert
+inquisitive	inattentive
+horrifying	handsome, comforting
+unruffled	ruffled
+gray	colorful
+efficient	unproductive, inefficient
+impeccable	disreputable
+disgraced	conquering, honored, adored, celebrated, venerated, worshipped, revered, august, winning
+unofficial	official
+despicable	honorable, prestigious, admirable, worthy, handsome, lofty, beloved
+virtuous	ignoble, wicked
+arty	artless
+hot	freezing, snowy, frozen, cool, cold
+mannered	instinctive
+burnt	pale
+doting	indifferent
+unlivable	livable
+imprecise	precise, exact
+inflexible	flexible
+calm	thunderous, turbulent, angry, disturbed, worried, furious, agitated, breathless, livid, stormy, volcanic, raging, devastating, jittery, incendiary, anxious, skittish
+unintrusive	overbearing, intrusive, invasive
+lucid	incoherent
+systematic	unsystematic, disorganized
+vegetarian	bloodthirsty, carnivorous
+stagnant	perfumed, aromatic, fresh, fragrant, pure
+brief	lengthy
+incongruous	meaningful, sensible
+minuscule	huge
+removable	fixed
+shallow	bottomless, penetrating, deep
+extreme	bland
+constrained	unconstrained, emancipated, liberated
+toothless	sharp, relentless, toothed
+unfinished	done
+involved	uninvolved
+sparing	unsparing, spendthrift
+unforgettable	forgettable
+rotten	peachy, fresh, worthy
+bloodless	bloody
+adaptable	unadaptable, stubborn
+prepared	unprepared
+skilled	clumsy, unskilled, incompetent
+burly	feminine, skinny, puny
+uncommunicative	talkative, communicative
+continuous	discontinuous
+legal	illegal, unlawful
+unsociable	gregarious, sociable
+mischievous	well-behaved
+unintegrated	integrated
+incidental	basic, core
+bad	good
+uncongenial	congenial
+nonphilosophical	philosophical
+prolife	pro-choice
+indentured	unconstrained, carefree, unrestrained, free
+catholic	agnostic
+classy	vulgar, trashy
+tinkering	dedicated, professional
+conciliatory	uncompromising, implacable
+dedicated	undedicated, indifferent, tinkering
+tethered	untethered
+elite	low_level
+cleansing	contaminating, filthy
+cosmopolitan	provincial
+scented	odorless
+alcoholic	teetotal, nonalcoholic
+purposeles	intent
+nonliteral	literal
+foul-natured	goodnatured
+inhibited	uninhibited
+ignoble	honorable, sincere, commendable, virtuous, brave, exalted, kingly, heroic, titled, graceful, glorious, worthy, courageous, dignified, noble, humanitarian, elevated, inspiring, righteous, infallible, generous, selfless, pure, important
+jealous	indifferent
+swift	rambling, slowmoving, slow, plodding, sluggish
+crafty	naive
+drowsy	alert
+hardy	fragile, delicate, tender, sensitive, weak
+present	absent
+punctual	tardy
+manacled	unconstrained, carefree, unrestrained, free
+inadvisable	prudent
+dumb	intelligent, clever, ingenious, godly, smart
+effectual	ineffective, ineffectual
+neglected	privileged
+daunting	easy
+unscrupulous	honorable, scrupulous
+narcissistic	devoted
+uncalculating	calculative
+thoughtprovoking	uninspiring
+shady	bright, respected
+portentous	insignificant
+massive	tiny
+planted	unplanted
+north	south
+dull	impressive, evanescent, sharp, brilliant, shining, boisterous, shimmery, heady, funky, blinding, dashing, lively, radiant, glowing, luminous, atmospheric, bright, sparkly, sporty, flashy, exhilarating, lustrous, spruce, exciting
+proficient	incompetent
+ill-tempered	goodnatured
+twodimensional	onedimensional
+undisturbed	disturbed, devastating
+battered	conquering, winning
+unconstrained	enslaved, shackled, oppressed, constrained, indentured, manacled, unfree, caged, chained, trapped
+sartorial	shabby, tattered
+cowed	reigning, leading, ruling
+muted	loud, audible
+inedible	delectable, edible
+sinuous	arthritic, stiff
+reverent	irreverent
+dispossessed	possessed
+hospitable	inhospitable
+openminded	close_minded
+euphonious	cacophonous
+faddish	eternal, timeless
+detached	attached
+charging	retreating
+stationary	mobile
+spry	flatfooted, immobile, arthritic
+unrecognizable	recognizable
+mournful	joyful
+clean-handed	guilty
+hip	unfashionable
+rosy	gloomy
+pessimistic	irrepressible, optimistic
+innumerate	numerate
+vulgar	classy, courtly, chivalrous, poised, sophisticated, dignified, aristocratic
+conclusive	inconclusive
+unwholesome	wholesome
+consecrated	unhallowed, damned, unholy, blasphemous, ungodly, cursed, impious
+ingenuous	disingenuous, suspicious, sly, artful
+colorless	vivid, brilliant, brown, colorful, blue, reddened, purple, yellow, golden, orange, pink, violet, colourful
+yummy	disgusting
+trained	uneducated, unskilled, untrained, inexperienced, talentless
+consuming	insignificant
+resonant	indistinct
+evil	honorable, good, decent, godly, blameless, innocent, pure
+mediate	immediate
+unexciting	stimulating, exciting
+evangelical	shy
+involuntary	voluntary
+plucked	feathery
+heated	uncomfortable
+sacred	profane
+insatiable	undemanding, satisfied
+remote	near, intimate, close
+leathery	soft_skinned
+useless	functional, working, worthy, efficacious
+fecund	sterile
+broke	rich, wealthy
+nonmetallic	metallic
+healthy	ill, sick, sickly, unhealthy, unfit, fattening, diseased
+grungy	handsome
+despairing	merry, happy, optimistic
+gluttonous	abstemious
+exploited	pampered, undeveloped, spoiled
+unglazed	glazed
+weighty	weightless
+fatalistic	optimistic
+innocuous	eminent, harmful, noxious, famous, important
+duplicitous	honest, upfront
+sunken	puffy, hefty
+blasphemous	consecrated, holy
+clearcut	convoluted
+recognizable	indistinct, unrecognizable
+spiritless	spirited
+listless	determined, energetic
+deafening	quiet
+lightheaded	heavy
+ergonomic	inefficient
+undefeated	defeated
+intrusive	unintrusive, noninvasive
+surprising	unsurprising
+biological	artificial, mechanical
+philosophical	nonphilosophical, nonphilosophic
+low-level	dominant
+obnoxious	charming, charismatic
+microscopic	huge
+nonslippery	slippery, slippy
+dissonant	sonorous, musical
+high-level	lowlevel
+staged	spontaneous, unscripted
+changeable	immutable, changeless, unalterable, unchanging, unchangeable
+meaningful	incongruous, meaningless, nonsensical
+clear-skinned	spotted, spotty
+unappealing	erotic, appealing, alluring, sympathetic, likable, handsome, likeable, enticing, tantalising
+faint	incandescent
+compliant	defiant, noncompliant, assertive, commanding
+superstitious	rational
+greedy	selfless, restrained
+dated	modern
+even	uneven
+wonderful	dire, awful
+rich	wretched, disadvantaged, broke, skint, downtrodden, humble, desperate, destitute, powerless, malnourished, homeless, impoverished, underprivileged, jobless, poor, miserable, lean
+immortal	mortal
+leading	cowed, subservient, fawning, subjugated, servile, subordinate, following, submissive, obedient
+trembling	indomitable, valiant, undaunted, daring, fearless, courageous, bold
+congenial	uncongenial, authoritarian
+decorous	indelicate, crass
+helpful	unhelpful
+unclear	clear, well-defined
+scarey	soothing, comforting
+unclean	kingly, titled, clean, handsome, noble, godly
+blind	clairvoyant, intuitive, sharpsighted, psychic, farseeing, visionary, sharpeyed, sighted
+archaic	modern, fashionable
+spotless	spattered, filthy, muddy
+lyrical	shrill, cacophonous
+damaging	harmless, fortunate
+discreet	indiscreet, imposing
+absorbing	watertight
+gregarious	unsociable, gruff, antisocial
+fantastic	banal, mundane
+holey	whole
+unreal	substantial, real, natural
+scared	mighty, brave, valiant, daring, fearless, courageous, fierce, bold, powerful, intrepid
+stoned	sober
+insignificant	tremendous, crippling, great, formidable, portentous, consuming, prestigious, mighty, noticeable, magisterial, totemic, grand, awesome, lofty, majestic, significant, magnificent, important
+irreplaceable	disposable, replaceable, expendable
+self-centered	altruistic, selfless
+meaningless	great, meaningful, grand
+unrewarding	rewarding, lucrative
+unencumbered	encumbered
+compelling	boring
+calloused	smooth
+quirky	trite, conventional
+rocky	smooth
+epicurean	unsophisticated
+amiable	hostile, gruff
+rugged	fragile, frail, delicate
+remarkable	unremarkable
+peachy	rotten
+dapper	shabby
+empty	charged, stuffed, full, packed
+eminent	inconspicuous, unremarkable, innocuous, anonymous, unimpressive
+congested	vacant
+tricky	predictable, simple
+exotic	vanilla, mundane
+disturbed	calm, undisturbed
+unenlightened	enlightened
+unformed	developed
+scarce	abundant
+definite	vague, indefinite
+joyous	dour, joyless
+instant	unresponsive
+immediate	mediate
+undemanding	overbearing, insatiable, demanding
+humped	flat
+worried	calm, happy
+outrageous	unobtrusive
+bustling	deserted
+untrusting	gullible
+possible	impossible
+robust	fragile, frail, delicate
+horny	passionless
+jumpy	steady
+graceless	graceful, poised
+cuttingedge	old_fashioned
+wholesome	unwholesome, unsavory, naughty
+minimal	maximal
+thin-skinned	hardshelled
+deposed	conquering, dominating, reigning, controlling, enthroned, dominant, domineering, triumphant, ruling, crowned, powerful, commanding, throned
+candid	camouflaged, coy
+excited	passionless, unexcited
+brooding	lighthearted
+tender	harsh, hardy, pernicious, threatening, tough
+scratchy	soothing
+faithful	unfaithful, disloyal
+inaccessible	accessible
+fruitful	barren, infertile
+reassuring	disconcerting, worrying, worrisome
+mordant	glum
+pointless	pointed, successful, majestic
+tenuous	certain
+incorrect	correct
+satisfied	insatiable, hungry
+automatic	manual
+queasy	comfortable
+conformist	subversive
+cautious	reckless, intrepid
+towering	stunted
+shaggy	bare
+crowded	uncrowded
+emotionless	emotive, emotional
+unaccommodating	accommodating
+loathsome	handsome, attractive
+neat	messy, untidy
+skeptical	gullible, trusting, devoted
+futile	successful, promising
+near	remote
+broad	narrow
+nutritious	fattening
+shining	dull
+aromatic	stagnant, rank, noxious, foul-smelling
+blue	colorless
+lowlevel	high-level
+nervous	happy, carefree
+userfriendly	unusable, incomprehensible
+uncoordinated	coordinated
+unerring	sloppy
+naked	reinforced, robed, overdressed
+furious	calm
+cowardly	meek, brave, fighting, valiant, heroic, courageous, bold
+mercurial	thoughtful
+erotic	unappealing
+unsexy	sexy
+inanimate	animated, animate
+wimpish	indomitable
+trivial	impressive, great, formidable, prestigious, grand, awesome, lofty, significant, important
+charged	empty
+choosy	indifferent
+marked	unmarked
+passe	historical, contentious
+unmoving	moving
+confining	luxurious, spacious
+controlling	deposed, dethroned, toppled
+reinforced	fragile, frail, naked, soft, unguarded, insecure, softened, weakened, vulnerable, defenseless
+tempting	off-putting, unattractive
+inadequate	worthy, adequate
+appealing	unappealing, unsightly, threatening, slimy, despised, annoying, unsympathetic, unwanted, unlikable, unlikeable
+captive	free
+unwise	prudent
+obscene	prudish
+scattered	regimented
+dumpy	beautiful
+haunting	forgettable
+prestigious	meek, lowly, despicable, insignificant, trivial, subservient, humble, inferior, worthless, poor, unimportant, submissive
+astute	mindless, clueless, thoughtless
+self-centred	altruistic, selfless
+deformed	handsome
+addicted	free
+limp	firm, magisterial, lively, rigid, stiff, crisp, powerful, sporty
+armored	fragile, unprotected, frail, dainty, unguarded, vulnerable, tinny, flimsy
+brittle	sturdy, durable
+unsightly	appealing, exquisite, graceful, radiant, beautiful, handsome, pretty, attractive, cute
+impermanent	lasting, eternal, permanent
+assuming	unassuming
+insensible	sensitive, sensible
+pampered	whipped, overworked, exploited, modest, self-effacing, humble, abused, exhausted, malnourished, unspoiled, harried, poor, overburdened, traumatized
+luscious	dessicated
+motionless	whirling, bouncy, active
+mutable	immutable, changeless
+uncommitted	committed, attached, determined
+overseas	domestic
+inconsiderable	considerable
+gifted]	untalented
+musty	fresh
+hands-off	manipulative
+western	eastern
+salient	irrelevant
+taxing	easy
+enthralling	boring
+rewarding	punishing, unrewarding
+maladroit	agile, adroit
+unnatural	natural
+flawed	faultless, flawless
+infamous	respected, beloved, famous
+minor	great, sweeping, worldshaking, grand, major, encompassing
+brunette	blond, blonde
+unnoticeable	noticeable
+streamlined	clunky
+acrobatic	arthritic, stiff
+overstated	understated
+unmeasured	measured
+secular	religious
+new	old, worn
+verbal	visual, mathematical
+irrevocable	reversible, revokable
+rigged	unrigged, fair
+garrulous	laconic
+liquid	frozen
+savoury	unsavory, unsavoury
+serrated	smooth
+inconsequential	impressive, great, mighty, grand, respected, significant, important
+substantive	unsubstantial
+hazardous	safe
+polygamous	monogamous
+valueless	valuable
+freezing	hot
+ineffective	relentless, effectual, mighty, overwhelming, powerful, efficacious, magnificent, effective
+distinguishable	indistinguishable, undistinguishable
+unintelligent	intelligent, smart, clever
+reliable	slippery, unreliable, undependable
+fledged	unfledged
+chubby	skinny
+demanding	undemanding
+agitated	calm, relaxed
+mathematical	verbal
+focused	incoherent, diffuse, flustered, muddled, unfocused, bloated, unfocussed, disorganized
+desiccated	moist
+crippled	sporty
+odious	fragrant
+digestible	indigestible
+dispensable	indispensable
+unreceptive	receptive
+content	unhappy, discontented, discontent
+conscientious	lazy, conscienceless, shiftless, unconscientious
+nonconductive	conductive
+blond	brunette
+lovable	threatening, unlovable, hateful, unlikable, nasty
+provident	improvident
+toxic	nontoxic, beneficial
+inhuman	humane, human
+svelte	bulky
+unmanlike	manly
+restrictive	unrestrictive
+simple	intricate, tricky, complicated, elaborate, convoluted, complex
+unfathomable	fathomable, knowable
+courtly	uncultivated, uncouth, vulgar, rude, undiplomatic, belligerent, disrespectful, impolite, oafish, uncultured, crude, boorish, crass
+nonfat	fat
+intoxicated	sober
+disoriented	focussed, orientated
+subservient	reigning, leading, prestigious, exalted, dominant, autonomous, domineering, ruling, lofty, royal, commanding
+impersonal	personal
+populous	deserted, sparse
+cocky	diffident
+unpredictable	predictable, deterministic, predetermined
+geometric	disorderly
+soggy	firm, crispy, crisp, dry, crunchy
+parttime	full-time
+loud	muted, mute, quiet, silent
+selfevident	non_obvious
+commonplace	odd, rare, amazing, singular, bizarre
+lonely	merry, popular, happy, beloved
+tactless	tactful, diplomatic
+violable	inviolable
+dark	illuminated, light, bright, luminescent
+stinky	fragrant
+delusional	sane
+unshapely	shapely
+privileged	orphaned, wretched, neglected, destitute, impoverished, abandoned, underprivileged, troubled, poor, excluded, deprived
+clear-thinking	confused
+patient	impatient
+unsophisticated	urbane, suave, epicurean, intellectual, sophisticated, cultural
+chill	warm
+unquestionable	questionable
+penetrating	shallow, superficial
+tense	relaxed
+meticulous	sloppy
+venerated	reviled, lowly, ignominious, disgraced, unpopular, despised, contemptible, unwanted, hated, outcast
+wistful	banal
+unjustified	justified
+lost	successful, found, saved
+visible	unseeable, invisible
+altruistic	self-centered, self-centred, selfish, self_indulgent, egocentric, egoistical
+disturbing	relaxing, tranquil, restful, heartwarming, calming, comforting
+inconsistent	consistent
+dissuasive	persuasive
+mighty	frail, spineless, lightweight, scared, insignificant, inconsequential, ineffective, helpless, harmless, impotent, pathetic, feeble, sickly, powerless, weak, low_level, contemptible, flimsy, puny
+unconditioned	learned
+undiscerning	discerning
+integrated	unintegrated, segregated, nonintegrated
+gnarled	beautiful, handsome
+modest	vain, arrogant, pampered, haughty, immodest, proud, pretentious, conceited, boastful, smug, spoiled, pompous, selfrighteous
+thrilling	boring
+acute	mild, obtuse
+stern	yielding
+felicitous	infelicitous
+desolate	merry, happy
+differentiated	uniform
+movable	immovable
+hardheaded	softhearted
+truthful	untruthful, false
+unscheduled	scheduled
+catchy	forgettable
+nonmusical	musical
+surviving	extinct
+flammable	fireproof
+stately	humble, low-key
+well-behaved	mischievous, troublesome, unruly, naughty
+intangible	substantial, physical, tangible
+unrestrictive	restrictive
+mottled	uniform
+scripted	unscripted
+disgruntled	merry, happy
+dusty	clean
+modern	oldfashioned, anachronistic, outdated, dated, archaic, twee, old-fashioned, quaint, traditional, ancient, obsolete, neoclassical, antiquated, classic, outmoded, antique
+benevolent	malicious
+petrified	fluid
+uninterested	interested
+talkative	laconic, tightlipped, uncommunicative, mum, enigmatic, voiceless, taciturn
+immutable	changeable, mutable, malleable
+local	alien, international, general
+curved	straight
+dressy	casual
+selfindulgent	selfless
+tawny	pale
+outnumbered	overpowering, overwhelming, intimidating, superior
+critical	noncritical, uncritical
+irresolute	resolute
+shocked	unperturbed
+scrupulous	unscrupulous, scandalous
+skinny	muscular, burly, chubby, orotund, voluptuous, fleshy, fat, statuesque, plump, stout, brawny
+dank	welcoming, inviting, fragrant, airy
+crushing	lightweight
+mildmannered	ferocious
+pitiless	sympathetic
+stingy	charitable, ample, generous
+insubordinate	biddable, obedient
+gastight	leaky
+unsavory	wholesome, savoury, savory, inoffensive
+unlined	lined
+irregular	periodic, regular
+succulent	dry
+committed	indifferent, uncommitted, unattached
+talented	untalented, talentless, incompetent
+damp	dry
+domesticated	fearsome, dreaded, feral, untamed, rampaging, powerful, menacing, wild
+monotonous	uneven, eventful
+grumpy	gay, pleasant
+pragmatic	impractical, idealistic
+voracious	restrained
+stewed	raw, dry
+raunchy	chaste
+concave	convex
+loved	hated, unloved
+spattered	spotless
+beaked	beakless
+drained	lively
+insidious	beneficial
+overgrown	stunted
+verbose	terse
+shortsighted	farsighted
+viable	unworkable
+secure	unprotected, unsafe
+pliable	unworkable
+girlish	manly
+cheesy	sophisticated
+feathery	plucked
+fawning	reigning, leading, dominant, ruling
+disingenuous	ingenuous, artless, earnest
+photogenic	ugly
+minute	huge
+bedraggled	exalted, lofty, royal
+twee	modern
+exact	imprecise, inexact
+unapologetic	sorry
+supernatural	natural
+unreflective	introspective, broody
+bloodthirsty	vegetarian
+soiled	clean
+relaxed	antsy, stressed, agitated, tense, frantic, uneasy, skittish
+shamed	conquering, winning
+prescient	unseeing
+offensive	harmless, mild, savory, inoffensive
+long	short
+impressionable	cynical
+flat-chested	chesty, voluptuous
+mechanized	organic
+unsuitable	suitable
+swarthy	pale
+cheery	depressed
+nonconducting	conductive
+hackneyed	imaginative, novel
+unsuccessful	successful
+sweltering	cold
+scrawny	overweight, brawny
+straightforward	complicated, convoluted, labyrinthine
+coarse	refined, fine, kingly, titled, poised, noble, subtle
+receptive	unreceptive
+suitable	unsuitable
+dreaded	frail, green, domesticated, harmless, unthreatening, friendly, unripe, docile, unfledged, unripened, beloved, impish, cuddly, immature, cute
+symmetric	asymmetrical, asymmetric, unbalanced
+haughty	obsequious, meek, modest, self-effacing, humble, magnanimous, unassuming, respectful, docile, bashful, gracious, submissive, obedient
+plausible	implausible
+melancholy	glad, upbeat, happy
+wired	wireless, languid
+impatient	patient
+hypotensive	hypertensive
+oblivious	mindful
+strategic	unthinking
+inessential	vital, essential
+well_defined	illdefined
+mushy	solid
+dispassionate	passionate
+radical	mundane
+decisive	indecisive
+suspenseful	boring
+relaxing	traumatic, stressful, bothersome, constricting, disturbing, intimidating, disorienting, troubling
+enforceable	unenforceable
+mythological	forgettable
+mild-mannered	forceful, ferocious, scrappy, pugnacious, menacing
+absolute	relative
+exquisite	unsightly, ugly
+reclusive	sociable
+suspicious	ingenuous, unwary, trusting
+complicated	simple, straightforward, uncomplicated
+salty	bland, sweet
+hardshelled	thin-skinned
+reddened	pale, colorless
+giant	tiny
+strange	familiar
+native	foreign
+detestable	likable
+introspective	unreflective
+hopeless	hopeful
+concentrated	diffuse, dilute
+brave	ignoble, scared, cowardly, chicken, fearful
+rude	charming, courtly, civil, personable, polite, charismatic, chivalrous, delightful, cultured
+stuffed	empty
+firm	limp, soggy
+highclass	lowclass
+immovable	persuadable, portable, movable
+sour	happy, sugary, sweet, syrupy
+justified	unjustified, arbitrary
+skint	rich
+tightened	loose, slack
+loose	tight, snug, moral, compact, tightened
+contagious	non-contagious
+unfastened	tied
+springy	rigid
+underhanded	honorable
+undiplomatic	courtly, chivalrous
+literate	illiterate
+gossipy	laconic
+baroque	featureless, austere, stark
+perilous	safe
+unscholarly	scholarly
+tired	rested, tireless
+helpless	great, formidable, mighty, grand, independent, majestic, powerful, armed
+elementary	advanced
+peppy	sluggish
+deliberate	random, careless, unstudied, unintentional
+hooked	indifferent
+roomy	cramped
+blunt	piercing, sharp, surgical, incisive
+sleazy	honorable, reputable, respected
+explosive	nonexplosive, inert
+cliched	unconventional
+wakeful	restful
+covered	bare
+purple	colorless
+offstage	onstage
+comical	unfunny
+freakish	handsome
+scheduled	unscheduled
+genial	uncouth
+combustible	incombustible, noncombustible, inert
+classical	nonclassical
+nontaxable	taxable
+teachable	incorrigible
+daft	shrewd, clever, insightful, wily
+disciplined	undisciplined, rambling, careless, sloppy, reckless, disorganized
+stifling	welcoming, inviting, airy, open
+harmless	corrosive, fearsome, great, formidable, lethal, damaging, mighty, offensive, dreaded, lifethreatening, destructive, threatening, overwhelming, deadly, harmful, catastrophic, wounding, noxious, powerful
+sanitary	unsanitary, insanitary, unhygienic
+encumbered	unencumbered
+insane	sane
+undemonstrative	demonstrative
+elliptical	direct
+ideal	imperfect
+unsparing	thrifty, sparing
+indomitable	frightened, trembling, wimpish
+sinister	auspicious
+loopy	straight
+stunted	elongated, towering, overgrown
+uplifting	depressing
+unenforceable	enforceable
+stylish	anachronistic, unstylish, styleless, unfashionable
+unrespectable	respectable
+harmonious	cacophonous, disorganized
+prompt	tardy
+old-fashioned	modern, contemporary
+unrestricted	restricted
+uncomplicated	complicated
+glazed	unglazed
+smooth	edgy, craggy, spiky, bristly, choppy, wavy, jolting, flakey, calloused, rocky, serrated, rough, prickly, fuzzy, jagged, screechy, unshaven, wrinkled, rumpled, bumpy, angular, wrinkly, ragged, knobbly
+downtrodden	rich
+featureless	baroque
+tentative	assertive
+pronounced	unremarkable
+finite	infinite
+mum	talkative
+heavy	lightheaded, dainty, buoyant, light
+slippery	nonslippery, reliable, stable
+uncreative	creative
+boneless	bony
+breathless	calm
+sore	soothing
+unscientific	scientific
+unconvincing	convincing
+smelly	fragrant
+undecorated	decorated, adorned
+electric	lifeless
+self-effacing	arrogant, pampered, haughty, proud, spoiled
+chunky	slim
+crying	stoic
+closed	wideopen, open, opened
+spectacular	boring, mundane
+boisterous	dull
+lush	barren, stark
+grotesque	handsome
+cheeky	solemn
+fine	harsh, coarse
+unplayful	playful
+pliant	obdurate, unyielding
+bankrupt	solvent
+thoughtful	overbearing, mercurial, heedless, unheeding, unthinking, thoughtless
+tan	pale
+colossal	tiny
+uninspired	inspired
+loony	sane
+vigorous	fragile, demoralized, lifeless, lethargic, exhausted, weak, dead, sluggish
+questioning	unquestioning
+unquestioning	questioning, inquiring
+admirable	despicable, heinous
+chilling	warming
+nonnative	aboriginal
+unnecessary	necessary, crucial, needed
+changeless	changeable, mutable
+puffy	sunken, shriveled
+unpolished	polished, glossy, shiny
+passionate	dispassionate, passionless
+steep	gradual
+territorial	nonterritorial
+inspired	uninspired
+chatty	laconic, stoic
+immoral	moral, respected
+scary	handsome, comforting
+selfish	honorable, devoted, altruistic, chivalrous, unselfish, crusading, generous, selfless
+unclassified	classified
+runty	tall
+unseeing	perceptive, prescient, observant
+compressible	incompressible
+unfree	unconstrained, emancipated, liberated, carefree, unrestrained, free
+undisciplined	organised, disciplined, drilled, regimented, exhaustive
+linear	curvy, twisty
+alluring	unappealing, unattractive
+polished	unpolished, drab
+lineal	discontinuous
+lifethreatening	harmless
+besieged	complacent, invulnerable, smug
+immodest	modest
+crimson	pale
+expedient	inconvenient
+sick	healthy, happy
+exalted	lowly, ignoble, subservient, bedraggled, unwashed, destitute, inferior, poor, unimportant, common
+diffident	confrontational, cocky, bold
+oral	anal
+bovine	slim
+thorough	sloppy, incompetent
+fruity	tasteless
+foreign	native, national, domestic
+illegal	legal, decriminalized
+inelastic	elastic
+stuffy	airy
+splashy	understated
+capricious	constant
+sweeping	minor, restricted
+vital	inessential
+frantic	relaxed
+destructive	harmless, constructive, nonviolent
+conductive	nonconductive, nonconducting, non-conducting
+disruptive	serene, supportive
+dizzy	focussed
+crispy	soggy
+casual	unrelenting, dressy, formal, authoritarian
+enigmatic	talkative
+foolish	wise, magnificent
+indeterminate	determinate
+absent	present
+orderly	incoherent, topsyturvy, chaotic, disorderly
+nostalgic	futuristic
+detrimental	advantageous, beneficial
+settled	unsettled
+unchaste	chaste, saintly
+fresh	lifeless, stagnant, rotten, musty, rank, pickled, dead, noxious, stale, shriveled
+mindless	considerate, astute, aware, mindful, cerebral, thoughtless
+potent	impotent
+adventurous	unadventurous, repressed, staid
+knowledgeable	ignorant, uneducated
+nonexplosive	explosive
+manipulative	hands-off
+confident	uncertain, insecure
+perpendicular	horizontal
+unloaded	loaded
+familiar	strange, unfamiliar, unusual
+purposeless	purposeful, relentless, determined, crusading
+dependent	dominant, autonomous, selfcontained, selfreliant, independent, selfsustaining
+lowtech	hitech, hightech
+bent	upright, straight
+scarlet	pale
+woolly	shorn
+valid	invalid
+unafraid	frightened, fearful
+drilled	undisciplined, unskilled, untrained, inexperienced, talentless
+clever	dumb, unintelligent, daft, clueless, silly, dimwitted, brainless, stupid
+indurate	tractable
+unproductive	prolific, efficient, productive
+feisty	lethargic
+substantial	vacuous, slight, ethereal, unreal, intangible, illusive, unsubstantial, illusory, immaterial, piddling, insubstantial, void, attenuated
+foul	fair, handsome, sweet
+scholarly	unscholarly
+youthful	aged
+spooky	calming
+yellow	colorless
+worshipped	reviled, disgraced, unpopular, despised, contemptible, unwanted, hated, outcast
+agonizing	fortunate, pleasant
+understanding	reactionary
+revealing	concealing
+identifiable	unidentifiable, faceless
+goodnatured	foul-natured, ill-tempered
+shimmery	dull
+undetermined	determined
+ungrammatical	grammatical
+inviting	frightening, dank, stifling, uninviting
+well_known	secret
+steadfast	whimsical, suggestible
+fighting	spineless, cowardly, retreating, craven
+uneducated	educated, trained, knowledgeable, learned, informed, erudite, cultured
+filthy	spotless, tidy, clean, immaculate, cleansing
+rambunctious	lifeless
+unadorned	decorated, adorned
+unperplexed	perplexed
+hushed	raucous
+frenetic	languid
+non-conducting	conductive
+untechnical	technical
+humble	lordly, arrogant, regal, rich, prestigious, pampered, stately, haughty, proud, pretentious, condescending, conceited, self_indulgent, imperious, smug, spoiled, grand, lofty, pompous, deified, selfconfident, unapproachable
+livid	calm
+gay	harsh, grim, grumpy, belligerent, bitter, threatening, repulsive, malicious, cruel, creepy, unpleasant
+drippy	dry
+guarded	open, defenseless
+indistinguishable	distinguishable
+disinterested	fanatic, curious
+gritty	refined
+ferocious	mildmannered, mild-mannered, friendly
+ingenious	dumb
+groggy	sober
+noticeable	unremarkable, insignificant, unnoticeable, unobtrusive
+rare	commonplace, ubiquitous, everyday, mundane
+belligerent	peaceful, courtly, gay, chivalrous
+undirected	directional, direct
+scaly	hairy
+ruinous	beneficial
+runny	solid, chewy
+usable	unwieldy
+rested	tired
+blatant	mysterious, subtle
+immense	tiny
+terrifying	comforting
+unmelodic	melodious, musical
+noncritical	critical
+illusive	substantial
+agnostic	catholic
+riveting	boring
+ungallant	gracious, gallant
+affable	catty, gruff, quarrelsome, aggressive, ornery, churlish, cranky, unapproachable
+directed	aimless, unfocussed
+decorated	undecorated, unadorned
+poisonous	edible, healthful
+uninvolved	involved
+unavailable	available
+unprepared	prepared
+formal	casual, informal
+unsubstantial	impressive, substantive, substantial, real
+round	square
+disgraceful	laudable, respected
+stimulating	unexciting
+fathomable	unfathomable
+necessary	unnecessary
+enormous	tiny
+organic	mechanized, artificial, inorganic
+losing	conquering, winning
+moving	fixed, unmoving, nonmoving
+becoming	unbecoming, ugly
+undimmed	dim
+untethered	tethered
+flowing	frozen
+valiant	frightened, trembling, scared, cowardly
+hard-nosed	sappy, romantic
+enthroned	deposed, dethroned, conquered, toppled
+conventional	quirky, unconventional
+sensitive	hardy, insensible, numb, insensitive, annoying, crass
+mobile	stationary, rooted, immobile
+wasteful	thrifty, sustainable
+fallible	infallible
+magisterial	pitiable, insignificant, limp, pathetic, powerless, worthless, unimpressive
+scrappy	mild-mannered
+dehydrated	juicy
+hydrophilic	hydrophobic
+fortified	fragile, frail, unguarded, weak, insecure, vulnerable, defenseless, flimsy
+inconvenient	expedient, convenient
+soulful	soulless
+barbarous	civilized
+insightful	ignorant, daft, clueless, unthinking
+attentive	heedless, aloof, inattentive, thoughtless
+tranquil	disturbing, noisy
+soft	harsh, crusty, reinforced, hardboiled, tempered, bulletproof, tough, hard, hardened
+broody	unreflective
+bitter	merry, gay, happy, sweet
+ordered	disarranged, disorderly, disordered
+rank	perfumed, aromatic, fresh, fragrant, pure
+artless	arty, disingenuous, artful
+floppy	stiff
+feared	beloved
+dainty	clumsy, armored, heavy, hefty, ugly, ungainly
+unrealistic	realistic
+illuminating	unilluminating, unenlightening
+sure	uncertain
+tragic	fortunate
+sentimental	unsentimental
+discerning	undiscerning
+agreeable	pigheaded, obstinate, disagreeable, discordant, stubborn, unpleasant
+quaint	modern, sophisticated
+antiseptic	unhygienic
+amorphous	well-defined
+metropolitan	rural
+hairraising	banal
+reputable	sleazy, disreputable
+avertible	inevitable
+discouraging	fortunate, encouraging
+robed	naked, shivering, ragged, bare
+conducive	trying, frustrating
+uncalculated	calculated
+idiotic	sensible
+mild	fiery, acute, offensive, tempestuous, intense
+sombre	gaudy
+magnanimous	arrogant, haughty
+pernicious	tender, benign, delightful
+abrasive	dignified, soothing
+rangy	fat
+rooted	mobile
+ungodly	consecrated, holy
+civil	rude
+unwilling	willing, game
+toothed	toothless
+interested	uninterested
+unjust	just, equitable, fair, fortunate
+military	civilian
+lanky	short
+fickle	constant
+incandescent	faint
+proprietary	open
+emancipated	enslaved, shackled, constrained, unfree, chained, restrained
+selfaware	unconscious
+forlorn	happy, optimistic
+unobservant	watchful
+squat	oblong, tall
+technological	luddite
+troublesome	well-behaved
+lumpen	shapely
+proud	modest, self-effacing, humble, unassuming, unpretentious, unprepossessing
+personable	rude
+easy	daunting, taxing, challenging, strenuous, difficult, uneasy
+fullblooded	weak, anemic
+digital	analogue, analog
+uncharitable	charitable
+east	west
+shut	open
+worldshaking	minor
+pugnacious	mild-mannered
+nonmoving	moving
+perplexed	knowing, unperplexed
+withdrawn	forthright
+technical	untechnical, nontechnical
+decadent	prudent
+irreligious	religious, godly, devout
+translucent	opaque
+golden	colorless
+clueless	shrewd, alert, astute, clever, insightful, aware
+intensive	laidback
+pigheaded	agreeable
+bloody	bloodless, clean
+happy	distressed, moody, unhappy, uncomfortable, gloomy, angry, despairing, worried, nervous, lonely, desolate, disgruntled, melancholy, sour, sick, bitter, forlorn, sad, discouraged, irritable, insecure, neurotic, depressed, unfortunate, discontented, disappointed, bereft, frustrated, troubled, miserable
+untuneful	tuneful, melodious
+desperate	rich, carefree, fortunate, magnificent
+rough	smooth, slick, silky
+noninfectious	infectious
+humorous	unfunny, humorless, humourless
+wacky	well-balanced
+patchy	monochrome, comprehensive
+randy	impotent
+seductive	unattractive, creepy
+threatening	frail, charming, tender, appealing, lovable, harmless, gay, feeble, ineffectual, retreating, demure, delightful, docile, soothing, cuddly, cute
+enthusiastic	demoralized, unenthusiastic
+sonorous	dissonant
+bubbly	stale
+earthy	high-minded
+watertight	leaky, absorbing
+rambling	swift, disciplined
+grimy	clean
+perennial	short-lived
+debilitating	invigorating
+funny	unfunny, humorless
+reflective	nonreflective, nonreflecting, unthinking
+logical	incoherent, unlogical, illogical
+untouchable	touchable, titled, approachable
+enterprising	unenterprising
+spunky	lifeless
+outspoken	shy, reticent
+trustful	distrustful
+unbound	bound
+farseeing	blind
+random	premeditated, planned, deliberate
+mediocre	great, grand, magnificent
+scarred	picturesque
+available	unavailable
+oblong	squat
+impermeable	permeable
+symbolic	literal
+successful	pointless, futile, lost, unsuccessful, unpopular, motley, worthless, failed
+canny	naive
+aware	unaware, forgetful, mindless, clueless, unmindful
+heady	dull
+mysterious	blatant, obvious
+malignant	benign
+nonalcoholic	alcoholic
+impotent	mighty, potent, randy, strong, sexual, virile, powerful
+unethical	ethical
+orotund	skinny
+dominant	obsequious, low-level, deposed, subservient, fawning, dependent, pathetic, dethroned, inferior, servile, toppled, subordinate, submissive
+limited	limitless, extensive, widespread, unlimited, infinite, versatile, compendious
+voluptuous	skinny, flat-chested
+found	lost
+concrete	sandy, abstract
+insentient	sentient
+kingly	lowborn, impure, ignorant, lowly, ignoble, unclean, coarse, profane, wicked, second-class
+fun	grave, solemn, boring, serious, humorless, drab
+lazy	relentless, conscientious, active, hardworking, industrious, diligent, dutiful, busy, sporty
+emotive	emotionless
+insensate	sentient
+adaptive	maladaptive
+animated	static, inanimate, still, dead, paralyzed, frozen
+unwashed	exalted, royal
+rapacious	selfless
+careless	deliberate, disciplined, careful
+droopy	perky
+sensuous	unfeeling
+sporadic	continual
+overwhelming	underwhelming, ineffective, outnumbered, harmless, unthreatening, ineffectual, retreating, powerless
+flavorful	bland
+crucial	unnecessary
+bendable	stiff
+analogue	digital
+skimpy	large
+_hot	snowy
+fragrant	stagnant, odious, stinky, dank, smelly, rank, unpleasant-smelling, noxious, acrid, malodorous, ill-smelling, malodourous
+celibate	promiscuous
+destitute	lordly, rich, privileged, exalted, lofty, wealthy, royal
+mad	sane
+spendthrift	sparing
+luxurious	uncomfortable, confining, spartan, cramped, sparse
+funky	dull
+miraculous	mundane
+symmetrical	asymmetrical, lopsided, asymmetric
+tolerant	intolerant
+unsurprised	surprised
+flatfooted	spry
+indiscrete	discrete
+limpid	devastating, opaque
+apparent	disguised
+comprehensible	unintelligible
+extinct	surviving, living, thriving
+unthreatening	fearsome, dreaded, overwhelming, hostile, menacing
+intimate	remote, distant
+vacant	congested, full
+savory	disgusting, unsavory, offensive, unsavoury
+sly	ingenuous, naive
+friendly	fearsome, venomous, dreaded, ferocious, hostile, fierce, unfriendly, menacing, unapproachable
+realistic	dreamy, unrealistic, surreal
+unlovable	lovable, loveable, worthy
+diplomatic	overbearing, tactless, unsubtle
+anonymous	eminent, public, famous
+undaunted	frightened, trembling, fearful
+tiny	great, massive, giant, colossal, immense, enormous, grand, huge
+masculine	feminine, camp, womanly, unmanly, female
+self-serving	honorable
+upright	bent, lopsided
+disrespectful	courtly, respectful, chivalrous, dignified
+winsome	unattractive
+featherless	feathered
+melodramatic	understated
+reactionary	understanding, contemplative
+fatty	fat-free, slim
+pert	sagging
+unobliging	accommodating
+strict	indulgent
+odorless	scented
+riding	pedestrian
+effusive	tightlipped
+prosaic	poetical
+racy	tame
+shrill	songful, tuneful, lyrical, melodious, vocal, melodic
+instructive	uninstructive
+well_built	gangly
+deadly	harmless
+lopsided	symmetrical, upright
+passive	domineering, active, assertive, incendiary, commanding
+yielding	stern, unyielding
+shunned	beloved
+unfaithful	faithful, dutiful
+murky	clear, transparent
+detailed	vague, general
+hardcore	softcore
+observant	unseeing
+blank	expressive
+restricted	unrestricted, sweeping, expansive
+gross	pleasant
+nebulous	specific, welldefined
+bland	addictive, briny, piquant, spicy, extreme, salty, flavorful, acid, intoxicating, tangy, tasty, pungent
+reversible	irrevocable, irreversible
+pathetic	impressive, great, formidable, mighty, magisterial, dominant, worthy, grand, awesome, majestic, powerful, menacing, magnificent
+omnivorous	fussy
+strong	fragile, frail, wimpy, flaccid, spineless, impotent, feeble, sickly, powerless, weak, spindly, vulnerable, inneffective
+aggravating	soothing
+delineated	formless
+vaporous	solid
+porous	impervious, nonporous
+catty	affable
+scientific	unscientific, unprincipled
+illusory	substantial
+lighthearted	depressive, brooding, serious
+faultless	flawed
+immoderate	moderate
+dismal	joyful
+feral	domesticated, docile, tame, cultured
+bumptious	polite
+tempestuous	mild
+maximal	minimal
+extraverted	introverted
+defiant	meek, cowering, compliant, biddable, amenable, brainwashed, obedient
+prim	raucous, pornographic
+shy	evangelical, outspoken, assertive, boastful, outgoing
+glossy	unpolished
+speedy	slow
+unusable	userfriendly
+immobile	spry, mobile
+enlightening	unedifying, unilluminating, unenlightening
+illiterate	literate, learned, erudite, cultured
+unnoticed	noticed
+fulfilled	bereft
+hectic	uneventful
+nonrepetitive	repetitive
+awkward	graceful, poised, surefooted, dexterous
+unkind	kind
+unprejudiced	prejudiced
+fleshy	skinny
+naive	shrewd, cunning, crafty, canny, sly, sophisticated, calculating, artful
+unsupportive	supportive
+noncompliant	compliant
+mindful	forgetful, oblivious, mindless, unthinking
+unprotective	protective
+prosperous	poor
+inefficient	efficient, ergonomic
+immaterial	substantial
+feeble	relentless, mighty, threatening, strong, unstoppable
+fictional	real
+unworldly	worldly
+mesmerizing	boring
+scalable	unclimbable, unscalable
+somber	gaudy, joyful
+nonsensical	meaningful
+touchable	untouchable
+profane	anointed, sacred, kingly, titled, noble
+unelected	elected
+adult	childish
+empty-handed	overpowering
+uninstructive	instructive, informative
+inexplicable	explicable
+classified	unclassified
+thickskinned	thinskinned
+unsheltered	sheltered
+slithering	rigid
+widespread	limited
+autonomous	subservient, dependent
+bouncy	motionless
+noncompetitive	competitive
+fancy	plain
+sealed	open
+domineering	deposed, subservient, passive, dethroned, toppled, submissive
+trusty	untrustworthy
+trustworthy	treacherous, untrustworthy, sneaky, devious
+reticent	outspoken, forthcoming
+grizzled	young
+full	empty, vacant
+laidback	compulsive, intensive, hardworking, anxious
+revered	reviled, lowly, ignominious, disgraced, unpopular, despised, contemptible, unwanted, hated, outcast
+lovely	awful
+unwished-for	welcome
+hairless	bushy, hirsute, hairy
+slimy	appealing
+pitiful	majestic, magnificent
+brusque	polite
+defined	vague, undefined
+blinding	dull
+biddable	impudent, insolent, insubordinate, defiant
+unassuming	arrogant, assuming, haughty, proud, smug, pompous
+flirtatious	sullen
+undesirable	desirable, fortunate
+representative	atypical
+tangled	untangled
+even-tempered	moody, irritable, temperamental
+respectful	arrogant, haughty, disrespectful
+snug	loose
+ritualistic	spontaneous
+irrelevant	impressive, great, salient, grand, relevant, important
+cynical	honorable, impressionable, sappy, crusading, romantic, principled
+solid	squishy, gooey, mushy, runny, vaporous, evaporative, hollow, insubstantial, flimsy
+nonintellectual	intellectual
+shapeless	shapely
+prickly	smooth
+unattached	committed, attached
+dashing	dreary, lifeless, dull, drab, unimaginative, uninspiring, boring
+disheartening	fortunate
+surprised	unsurprised, expectant
+dethroned	conquering, dominating, reigning, controlling, enthroned, dominant, domineering, triumphant, ruling, crowned, powerful, commanding, throned
+capacious	cramped
+long-winded	laconic
+nonporous	porous
+productive	unproductive
+sturdy	fragile, brittle, flimsy, wobbly
+mute	clarion, loud, audible, expressive
+thirsty	hydrophobic
+fuzzy	sharp, smooth, distinct
+uncertain	confident, sure
+attached	detached, uncommitted, unattached, single
+hirsute	bald, hairless
+united	incoherent, partisan, fragmented, chaotic, divided, disorderly, disorganized
+disappointing	fortunate
+solvable	insurmountable
+angelic	devilish
+ineffectual	relentless, effectual, threatening, overwhelming, powerful, efficacious, effective
+repellent	handsome
+unreliable	reliable, respected, dependable
+determined	incoherent, indifferent, listless, uncommitted, purposeless, undetermined, flustered, muddled, unfocused, aimless
+energetic	demoralized, listless, lethargic, sedate, exhausted, burntout, sedentary, sluggish
+pleasing	displeasing
+segregated	integrated
+pretentious	modest, humble, unpretentious
+coherent	incoherent
+nourishing	junky
+conscienceless	conscientious
+unpopular	honored, popular, adored, celebrated, venerated, worshipped, successful, revered, august
+fit	fat, lethargic, unhealthy, unfit
+wizened	handsome
+onesided	multifaceted
+obstinate	agreeable, docile
+monochromatic	motley, multicolored, polychromatic
+tied	unfastened, untied
+white	black
+audible	inaudible, muted, mute
+sorry	unapologetic, remorseless
+unseeable	visible
+unfilled	filled
+varied	homogeneous, unvaried, unvarying, homogenous
+ornate	spartan, plain
+tidy	shabby, filthy, dirty, motley, unshaven, disheveled, messy, untidy, wrinkled, rumpled, disorganized, ragged
+insistent	indifferent
+open-minded	closedminded
+transportable	unmovable
+understated	overstated, splashy, melodramatic, flashy, showy
+eloquent	inarticulate
+imbalanced	balanced
+condescending	humble
+lively	lifeless, dull, limp, drained, still, dead, inert, sleepy, inactive
+west	east
+jolly	gloomy, morbid
+unwary	wary, suspicious
+considerable	inconsiderable
+deterministic	unpredictable, non-deterministic
+rigorous	sloppy
+spartan	luxurious, ornate, cosy
+lame	sporty
+sad	merry, glad, happy, contented, delighted, fortunate, chuffed
+stolid	flimsy
+unstuck	stuck
+communicative	uncommunicative, sullen
+unrefined	refined, pure
+alive	lifeless, dead
+evaporative	solid
+heroic	ignoble, cowardly
+traditional	modern, untraditional, experimental
+ubiquitous	rare, localized
+polite	impudent, uncivil, rude, bumptious, brusque, impolite, churlish
+cyclical	unrepeatable
+intermediate	final
+unfeathered	feathered
+retreating	conquering, charging, fighting, threatening, overwhelming, intimidating, attacking, winning, rampaging, aggressive, assaulting
+covert	overt
+hairy	bald, scaly, hairless
+temperate	intemperate
+proactive	reactive
+discouraged	happy
+heinous	admirable
+disconcerting	reassuring
+ancient	modern
+dormant	active
+unripe	ripe, dreaded, mature
+analog	digital
+vibrant	lifeless, inert
+active	motionless, lazy, passive, dormant, idle, inactive
+chaste	lecherous, promiscuous, raunchy, unchaste
+challenging	easy
+chiseled	formless
+primitive	hightech, advanced, sophisticated
+paltry	abundant, generous
+dishonest	honorable, honest, worthy, respected
+unstylish	stylish
+old_fashioned	cuttingedge
+scandalous	scrupulous, dignified
+distrustful	trustful, trusting
+junior	highranking, senior
+unpretentious	proud, pretentious, smug, ostentatious, pompous, unapproachable
+loaded	unloaded
+infectious	noncontagious, noninfectious
+lifesustaining	lethal
+black	white, whitepink
+untruthful	true, truthful, honest
+unarmed	armed
+rubbery	rigid
+hostile	peaceful, amiable, unthreatening, friendly, amicable
+assertive	meek, cowering, compliant, tentative, passive, shy, submissive
+unscripted	theatrical, staged, scripted
+indiscreet	discreet
+distinctive	undistinguished
+spherical	nonspherical
+sheltered	unsheltered
+circular	square, rectangular
+resilient	fragile, weak, flimsy
+unresponsive	instant, responsive, maneuverable, deaf
+purifying	adulterating, contaminating
+indiscernible	discernable
+conceited	humble, modest
+cerebral	irrational, unthinking, mindless, thoughtless
+abused	pampered, spoiled
+insulated	drafty
+uncritical	critical
+prudent	inadvisable, decadent, imprudent, reckless, intrepid, unwise
+stringy	muscular
+unplanned	planned, premeditated
+welcome	unwished-for, unwelcome
+conquered	conquering, enthroned, triumphant, jubilant, winning, crowned, throned
+enjoyable	nervewracking, tiresome, gruesome, irksome, annoying, unpleasant
+boastful	coy, shy, modest
+wriggly	stiff, straight
+evillooking	benign
+humane	inhuman, unhuman
+triumphant	vanquished, deposed, dethroned, conquered, toppled, defeated
+untraditional	traditional
+primary	secondary, oblique
+stunning	unattractive, ugly
+desirable	abhorrent, undesirable, unthinkable, unwanted
+coiled	straight
+low	high
+barbaric	civilized, civilised
+disagreeable	agreeable
+untalented	gifted, gifted], talented
+irresponsible	responsible
+disreputable	respectable, impeccable, reputable, respected
+displeased	pleased
+shifty	honest
+telling	uninformative
+forthcoming	reticent, terse, laconic
+calculated	uncalculated, instinctive
+trashy	honorable, classy
+fleet	slow, plodding
+prolix	concise, terse
+riddled	homogeneous, pure
+passionless	fervent, horny, excited, passionate, lusty, impassioned, giddy
+tumultuous	unremarkable
+changing	fixed, constant
+heedless	thoughtful, attentive
+womanly	unfeminine, masculine
+diaphanous	opaque
+non_obvious	selfevident, inescapable
+diversified	undiversified
+slick	rough
+isolated	interconnected, connected, accessible
+noncommercial	commercial
+intentional	unintentional, accidental
+styleless	stylish, fashionable
+fugly	beautiful, attractive, pretty, sexy
+inconstant	constant
+titled	lowborn, impure, ignorant, ignoble, unclean, coarse, untouchable, profane, wicked, second-class
+capable	incapable, handicapped, incompetent
+platonic	sexual
+fat	trim, fat-free, nonfat, skinny, rangy, fit, thin, handsome, cadaverous, slender, slim, lean
+hypnotic	boring
+complaining	uncomplaining
+sloppy	fastidious, unerring, meticulous, disciplined, thorough, rigorous, clinical, exacting
+obvious	indecipherable, stealthy, mysterious, subliminal, inscrutable, subtle
+graceful	clumsy, ignoble, graceless, unsightly, awkward
+charismatic	boring, crude, rude, obnoxious
+brutal	caring, kind, beloved
+intimidating	outnumbered, relaxing, retreating
+flustered	focused, determined, nonchalant
+instinctive	mannered, calculated
+harmful	advantageous, innocuous, harmless, beneficial
+whitepink	black
+chivalrous	uncultivated, uncouth, vulgar, rude, undiplomatic, selfish, belligerent, disrespectful, impolite, oafish, uncultured, crude, boorish, crass
+jubilant	vanquished, conquered, defeated
+localized	pervasive, ubiquitous
+charitable	uncharitable, stingy
+homogeneous	variegated, varied, riddled, heterogeneous, mixed
+restful	disturbing, wakeful
+lowclass	highclass
+multifaceted	onedimensional, onesided, simplistic
+undeveloped	exploited, developed
+heartwarming	disturbing
+dimmed	bright, radiant
+inclined	horizontal
+stormy	calm, placid
+cherished	overlooked
+spotty	clear-skinned
+wellbehaved	rowdy, ill-behaved
+sympathetic	unappealing, pitiless, unfeeling, unsympathetic, unlikable, unlikeable
+loveable	unlovable, hateful
+catastrophic	harmless
+sheer	horizontal
+coercive	open_minded
+sufficient	insufficient, deficient
+faithless	devout, pious, devoted, loyal
+perishable	imperishable
+unintended	intended
+sickly	mighty, strong, healthy
+razed	thriving
+seamless	uneven
+revolutionary	banal
+sexual	impotent, platonic, sexless
+inconsiderate	devoted, considerate
+spongy	rigid, stiff
+restless	sedentary
+unacceptable	acceptable
+off-putting	tempting
+quiet	deafening, loud, noisy, raucous, percussive
+painful	fortunate, painless
+liberated	enslaved, shackled, constrained, unfree, chained, restrained
+unrhythmic	rhythmic
+fatal	nonfatal
+guileless	shrewd, cunning
+scintillating	boring
+intended	unintended
+subliminal	obvious
+feathered	featherless, unfeathered
+undiversified	diversified
+elaborate	basic, simple
+wounding	harmless
+good	bad, evil
+sane	crazed, delusional, insane, loony, mad, nuts, nutty, gaga, batty, mental, crazy
+unbiased	partisan
+untamed	domesticated, docile, tame, tamed
+innate	learned, environmental
+direct	elliptical, undirected, circuitous, indirect, retrograde
+continent	incontinent
+recognisable	recognisable
+rhythmic	unrhythmic, arhythmic
+unguarded	protected, reinforced, armored, fortified, defensive, camouflaged
+inhospitable	hospitable
+individual	indistinct
+unopposable	opposable
+uncomplaining	complaining, plaintive
+flabby	sinewy, muscular, lean
+repetitive	nonrepetitive
+acid	bland
+downcast	elevated
+gentle	harsh, bracing, menacing, tough
+benign	virulent, pernicious, malignant, evillooking, malign
+inconclusive	conclusive
+imprudent	prudent, wise
+drunk	sober, abstinent
+illegible	legible, readable
+quick	slow, sluggish
+neutral	partisan, prejudiced
+clear	inky, cloudy, ill-defined, unclear, murky, smoky, opaque, hazy
+unmelodious	tuneful, musical, melodic
+clean	impure, contaminated, unclean, dusty, soiled, filthy, bloody, grimy, dirty, messy
+fragmented	united, unified, unitary, cohesive
+periodic	irregular
+closedminded	open-minded
+unsanitary	sanitary, hygienic, healthful
+radiant	dull, unsightly, dimmed, dim
+imitative	authentic, genuine, original
+recollective	forgetful
+hypertensive	hypotensive
+silly	impressive, great, sensible, clever, serious, profound, intelligent
+secluded	central
+climactic	anticlimactic
+furred	bald
+glorious	inglorious, dishonorable, ignoble
+foamy	flat, stale
+unforeseeable	predictable
+inefficacious	efficacious
+pristine	flaky, scummy, tainted
+public	clandestine, anonymous, hidden, secret, secretive, private
+intellectual	unsophisticated, nonintellectual, folksy
+self_indulgent	altruistic, humble, selfless, sacrificing
+poised	ignorant, clumsy, tasteless, inelegant, vulgar, graceless, coarse, awkward, crude, clunky
+unworkable	viable, pliable
+aquatic	non-aquatic
+upfront	duplicitous
+national	foreign
+unskilled	skilful, skilled, trained, drilled, expert, skillful, masterful
+hefty	portable, sunken, dainty, spindly, small
+silky	rough
+fast	slow
+quotable	unrepeatable
+amazing	commonplace, banal, mundane
+jagged	smooth
+hurtful	soothing
+lethargic	perky, flighty, vigorous, feisty, energetic, fit, hardworking, keen, sporty
+fleeting	eternal, permanent
+airy	airless, dank, stifling, stuffy
+miniscule	huge
+packaged	unpackaged
+brazen	dignified, demur
+rusty	shiny
+palpable	subtle
+muddled	focused, determined
+articulate	expressionless, inarticulate
+unchristian	christian
+daring	frightened, meek, cowering, trembling, scared, safe
+amicable	hostile
+tractable	indurate, intractable
+futuristic	nostalgic
+sedate	energetic
+intense	mild
+earnest	disingenuous
+cramped	roomy, luxurious, capacious, comfortable, spacious
+demure	overpowering, impure, threatening
+carefree	enslaved, shackled, oppressed, indentured, manacled, nervous, unfree, desperate, caged, neurotic, chained, anxious, trapped, finicky, authoritarian
+delightful	joyless, rude, pernicious, threatening, devastating, boring, despised, annoying
+orange	colorless
+hardboiled	soft
+alarming	unremarkable, boring, unalarming
+contemplative	reactionary
+paramilitary	civilian
+uneven	even, monotonous, seamless, level
+caged	unconstrained, carefree, unrestrained, free
+nonterritorial	territorial
+interconnected	isolated
+exhausted	pampered, vigorous, energetic, spoiled
+dishonored	honored
+learned	unconditioned, uneducated, illiterate, innate, inexperienced, unlearned
+impolite	courtly, polite, chivalrous, courteous
+selfcontained	dependent
+fearless	frightened, trembling, scared, fearful, timid
+displeasing	pleasing, handsome
+equitable	unjust
+unforgiving	forgiving
+tactile	insensitive
+accommodating	unaccommodating, unobliging
+well-balanced	wacky, jangly
+conspicuous	inconspicuous, invisible
+gruesome	enjoyable, handsome
+unvaried	varied
+nontoxic	toxic
+perceptible	imperceptible, unobvious
+hardworking	lazy, laidback, lethargic, shiftless, languid
+lengthy	brief, short
+arthritic	sinuous, spry, acrobatic, lithe, nimble, agile
+blonde	brunette
+calming	disturbing, spooky
+unplanted	planted
+unpracticed	practiced
+jangly	well-balanced
+singular	commonplace
+powerless	conquering, overpowering, great, formidable, regal, rich, mighty, magisterial, overwhelming, strong, grand, awesome, deified, powerful, commanding, menacing, magnificent
+disadvantageous	advantageous
+cooked	raw
+developed	unformed, undeveloped
+branded	unbranded
+needed	unnecessary
+unexpansive	expansive
+versed	spontaneous
+avid	indifferent
+untraceable	traceable
+demoralizing	encouraging
+unrepeatable	cyclical, quotable, repeatable
+noisy	tranquil, quiet, noiseless, soundproof
+imperious	lowly, humble
+plush	uncomfortable
+arbitrary	justified, nonarbitrary
+snappish	docile
+enclosed	unenclosed
+everyday	incredible, rare
+worthy	disgusting, mean, corrupt, despicable, rotten, ignoble, useless, inadequate, unlovable, pathetic, dishonest, guilty, dirty, unworthy, worthless, unattractive, miserable, crude
+buoyant	heavy
+time-consuming	instantaneous
+straightlaced	unconventional, intrepid, kinky, punk
+grandiose	unimpressive
+billowy	flat
+gruff	affectionate, meek, cowering, gregarious, amiable, affable
+idle	active, busy
+exiled	throned
+prejudiced	impartial, unprejudiced, neutral
+trifling	impressive, great, grand, significant
+creamy	watery
+vindictive	forgiving
+manoeuvrable	clunky
+supportive	indifferent, disruptive, unsupportive, humiliating, oppressive
+alien	local, domestic
+domestic	overseas, foreign, alien, abroad
+decent	evil, indecent
+protective	unprotective
+cleancut	rough-hewn
+untrained	trained, drilled, experienced
+unidentifiable	identifiable
+elegant	gaudy, inelegant
+misanthropic	companionable
+competent	incompetent
+safe	hazardous, perilous, daring, risky, dangerous, unsafe
+informative	uninstructive, unilluminating, unenlightening, uninformative, misleading
+tattered	sartorial
+weak	forceful, overpowering, staunch, great, hardy, mighty, vigorous, fortified, fullblooded, strong, resilient, bulletproof, unstoppable, godly, majestic, bold, powerful, brawny
+thick	thin, wiry, cultured
+lusty	passionless
+unfamiliar	familiar
+volcanic	peaceful, calm
+fashionable	outdated, archaic, styleless, unfashionable, outmoded
+credible	incredible, unbelievable
+unsteady	steady
+vicious	kind
+unhealthy	healthy, fit, healthful
+cacophonous	euphonious, lyrical, harmonious
+austere	baroque
+lax	imperative
+sloped	level
+unfit	healthy, fit, athletic, buff
+fattening	healthy, nutritious
+fitted	baggy
+oblique	primary
+designed	unintentional
+nonclassical	classical
+opposable	unopposable
+whole	holey
+attacking	fleeing, retreating, coy, hiding, defeated
+athletic	unfit
+insurmountable	solvable, surmountable
+inexact	exact
+uncontrollable	controllable, manageable
+violent	charming, nonviolent
+piddling	substantial
+complete	incomplete, uncomplete
+uninviting	welcoming, inviting, cuddly
+raging	calm
+aloof	attentive
+unprofitable	lucrative, profitable
+courteous	impolite, discourteous
+contented	unhappy, gloomy, sad, depressed, discontented, discontent, peevish, miserable
+immanent	transient
+nice	awful, nasty
+unlogical	logical
+dimwitted	clever
+genuine	imitative, fake, counterfeit
+melodious	unmusical, unmelodic, untuneful, shrill, tuneless
+regrettable	fortunate
+playable	unplayable
+docile	arrogant, fearsome, dreaded, haughty, threatening, feral, obstinate, untamed, snappish, rampaging, stubborn, commanding, spirited, menacing
+physical	intangible, insubstantial
+unalterable	changeable
+residential	nonresidential
+malnourished	rich, pampered, spoiled
+fortuitous	unfortunate
+moral	amoral, loose, immoral
+statuesque	skinny
+condemned	beloved
+insincere	sincere
+unlimited	limited
+ruling	cowed, deposed, subservient, fawning, dethroned, subjugated, servile, toppled, subordinate, submissive, obedient
+selfserving	selfless
+controllable	uncontrollable
+ample	stingy, meager
+shattered	unbroken
+unconnected	connected
+fake	authentic, genuine
+slowmoving	swift
+unfashionable	groovy, hip, stylish, fashionable
+profound	silly, superficial
+mobilized	disorderly, disorganized
+unpalatable	toothsome
+uncolored	colorful
+irritable	happy, even-tempered
+surmountable	insurmountable
+unadventurous	adventurous, perverted
+industrious	lazy
+pleasurable	unpleasant
+unhelpful	helpful
+christian	unchristian
+plump	skinny, bony
+endurable	fragile
+unconventional	schematic, cliched, conventional, straightlaced, formulaic, routine
+flexible	uncompromising, inflexible, wooden, rigid, stiff, stubborn, dogmatic, unbending
+sumptuous	barren
+torturous	comfortable
+transparent	murky, opaque, camouflaged
+disloyal	faithful, dutiful, patriotic, loyal
+unwavering	wavering
+penny-pinching	extravagant
+changeful	unchangeable
+overlooked	cherished, treasured
+beneficial	toxic, insidious, detrimental, ruinous, harmful, disastrous
+delectable	disgusting, inedible
+guilty	innocent, blameless, clean-handed, worthy
+ghastly	handsome
+fair	rigged, foul, unjust, unfair
+constricted	unconstricted, free
+special	ordinary
+unbecoming	becoming, attractive
+full-time	parttime
+under-nourished	beefy
+unambitious	ambitious
+fussy	omnivorous, easy-going
+nonpregnant	pregnant
+wavering	unwavering
+insecure	protected, untroubled, reinforced, confident, fortified, happy, comfortable
+commercial	noncommercial
+explicit	implicit, inexplicit
+tireless	tired
+sophisticated	shabby, uncouth, childish, vulgar, unsophisticated, cheesy, quaint, naive, primitive, menial, rudimentary, rustic
+august	reviled, lowly, ignominious, disgraced, unpopular, despised, contemptible, unwanted, hated, outcast
+unilluminating	illuminating, enlightening, informative
+unnerving	worrying
+forgiving	unforgiving, vindictive
+moderate	immoderate
+obsolete	functional, modern
+novel	hackneyed
+screechy	smooth
+maladaptive	adaptive
+unhuman	humane
+uneatable	edible
+menial	sophisticated
+practiced	unpracticed
+egocentric	altruistic, selfless
+strenuous	easy
+tempered	soft, malleable
+incredulous	gullible
+nerveless	nervy
+inoffensive	unsavory, offensive, unsavoury, menacing
+expansive	restricted, unexpansive
+traceable	untraceable
+courageous	frightened, ignoble, trembling, scared, cowardly, fearful
+parched	watery
+accidental	intentional
+infrequent	incessant
+winning	vanquished, demoralized, disgraced, battered, shamed, losing, retreating, conquered, defeated, crushed
+illuminated	dark
+joyful	distressed, unhappy, dreary, gloomy, mournful, dismal, somber, plaintive, discontented, sorrowful, miserable
+thin	fat, thick, doughy, bloated, obese
+instantaneous	time-consuming
+inferior	lordly, prestigious, exalted, dominant, superior, lofty, powerful, royal
+unconscious	selfaware, conscious
+neurotic	happy, carefree
+awful	wonderful, lovely, nice
+uniform	various, differentiated, mottled, multiform
+softened	reinforced
+analytical	unthinking
+limp-wristed	macho
+noiseless	noisy
+retarded	precocious
+slippy	nonslippery
+packed	empty
+sugary	sour, sugarless
+unexcited	excited
+grave	whacky, laughable, fun, frivolous
+illegitimate	legitimate
+nuts	sane
+aesthetic	ugly
+prodigal	assiduous, responsible, frugal
+unconstricted	constricted
+unified	incoherent, fragmented, chaotic, disorderly, untidy, disorganized
+smug	modest, besieged, humble, unassuming, unpretentious
+discordant	agreeable
+responsive	unresponsive
+univocal	ambiguous, equivocal
+unsaturated	saturated
+red	pale
+immune	liable
+fidgety	inert
+dirty	tidy, clean, worthy, pure, immaculate
+uncrowded	crowded
+glowing	dull
+sensational	unsensational
+indigestible	digestible
+doughy	thin
+malign	benign
+rational	superstitious, emotional, irrational
+formulaic	unconventional
+diligent	lazy, negligent
+sustainable	wasteful, unsustainable
+sprightly	sluggish
+meanspirited	generous
+narrow	broad, wide
+low_level	elite, mighty, high_level
+asymmetric	symmetric, symmetrical
+alkaline	acidic
+practical	impractical
+assiduous	prodigal
+unenthusiastic	enthusiastic, giddy
+filled	unfilled
+tenacious	indifferent
+uncivilized	civilized, civilised
+spellbinding	boring, disenchanting
+high_level	low_level
+open	stifling, closed, guarded, proprietary, shut, sealed, impenetrable
+affirmative	negative
+abstinent	drunk
+treasured	overlooked
+unenterprising	enterprising
+lined	unlined
+unruly	well-behaved
+frolicsome	inert
+neoclassical	modern
+depressed	cheery, happy, contented, delighted, chipper, cheerful, chirpy
+spindly	strong, hefty
+indelicate	decorous
+populated	deserted
+sparkling	flat
+limber	stiff
+communal	private
+terse	verbose, forthcoming, prolix
+beautiful	warty, hideous, dumpy, unsightly, gnarled, fugly, horrid, monstrous, ugly, homely
+malleable	immutable, tempered
+pickled	fresh
+perverted	unadventurous, pure
+unsentimental	sentimental, poignant, romantic
+undefended	impregnable
+connected	isolated, unconnected
+inexperienced	trained, drilled, learned, streetwise, experienced
+infertile	fertile, fruitful
+erratic	consistent
+bashful	arrogant, haughty
+persuasive	dissuasive
+wooden	flexible
+superficial	penetrating, profound, architectural, deep
+palatable	disgusting
+raw	stewed, cooked
+superior	outnumbered, inferior
+abstemious	gluttonous, predatory
+nervy	nerveless
+infinite	finite, limited
+imposing	discreet, subtle
+rudimentary	sophisticated
+infelicitous	felicitous
+intoxicating	bland
+invalid	kosher, valid
+assigned	unassigned
+hateful	lovable, loveable, amorous, beloved
+maneuverable	unresponsive
+deserted	bustling, populous, populated, crowed
+spoiled	whipped, overworked, exploited, modest, self-effacing, humble, abused, exhausted, malnourished, unspoiled, harried, poor, overburdened, picturesque, traumatized
+chicken	brave
+severe	frivolous
+bohemian	conservative
+fierce	meek, cowering, scared, friendly, placid
+taut	slack
+ambitious	unambitious
+obdurate	pliant
+horrid	beautiful
+personal	impersonal
+unintelligible	comprehensible, intelligible
+disorienting	relaxing
+accountable	unaccountable
+repulsive	gay, handsome, magnetic, attractive
+meaty	insubstantial
+motley	successful, monochromatic, tidy
+totemic	insignificant
+hollow	solid
+amenable	defiant
+upstanding	spineless, furtive
+transient	immanent, eternal
+luxuriant	uncomfortable
+expert	unskilled
+acceptable	unacceptable
+dazzling	soporific
+understandable	incomprehensible, bewildering
+lubricious	dry
+amorous	hateful
+fastpaced	slow
+unworthy	worthy, righteous
+sublime	ridiculous
+crowned	deposed, dethroned, conquered, toppled
+unsavoury	savoury, savory, inoffensive
+immoveable	portable
+skillful	clumsy, unskilled
+obtuse	acute
+eternal	ephemeral, faddish, impermanent, fleeting, transient
+ponderous	agile
+unmanageable	manageable
+auspicious	inauspicious, sinister, ominous, foreboding
+unfriendly	friendly
+unfledged	fledged, dreaded, mature
+rectangular	circular
+habitforming	non-addictive
+replaceable	irreplaceable, unreplaceable
+undignified	regal, dignified, deified
+dense	wispy, lightweight, sparse, insubstantial, rarified
+unfocused	focused, determined, focussed
+walled	defenseless
+pugilistic	peaceful
+voiceless	talkative
+homeless	rich
+unfeeling	sensuous, sympathetic
+relative	absolute
+trying	conducive
+conscious	unconscious
+correct	wrong, incorrect
+impoverished	lordly, rich, privileged
+intelligible	unintelligible
+numb	sensitive
+supple	stiff
+poignant	unsentimental
+threedimensional	onedimensional
+weakened	invulnerable, reinforced, tough, strengthened, hard, hardened
+consistent	incoherent, inconsistent, erratic
+grand	unremarkable, lowly, insignificant, meaningless, trivial, minor, inconsequential, helpless, humble, mediocre, tiny, pathetic, irrelevant, powerless, trifling, worthless, banal, small, puny
+antiquated	modern
+improbable	probable, likely
+idealistic	pragmatic
+demonstrative	undemonstrative
+tart	sweet
+toothsome	unpalatable
+selfreliant	dependent
+abashed	unabashed
+ravenous	easily-satisfied
+high	low
+petty	impressive
+ill-behaved	wellbehaved
+major	minor
+saintly	unchaste
+well-defined	unclear, amorphous
+unclimbable	scalable
+uninformed	informed
+saturated	unsaturated
+muddy	spotless, dry
+abandoned	privileged
+strident	mincing
+unyielding	pliant, yielding
+patterned	plain, unpatterned
+likable	unappealing, detestable, unsympathetic, unlikable, unlikeable
+fizzy	stale
+compact	loose
+international	local
+independent	reliant, helpless, dependent, brainwashed, subordinate
+nontechnical	technical
+unenlightening	illuminating, enlightening, informative
+animate	inanimate
+stiff_jointed	loosejointed
+informed	uneducated, uninformed
+unfortunate	merry, blessed, lucky, happy, fortuitous, fortunate, enviable
+unprincipled	scientific, dutiful, principled, honest
+woody	barren
+troubling	relaxing, fortunate
+taciturn	talkative, voluble
+fanatic	indifferent, disinterested
+lucrative	unrewarding, unprofitable
+still	animated, lively
+civilized	barbarous, barbaric, uncivilized, savage, noncivilised
+luminous	dull
+plaintive	uncomplaining, joyful
+unusual	familiar
+airtight	leaky
+final	intermediate
+titillating	uninteresting
+unreplaceable	replaceable
+weightless	weighty
+commodious	incommodious
+thankful	cursed, ungrateful
+musical	unmusical, dissonant, nonmusical, unmelodic, unmelodious, tonedeaf
+classic	modern
+vigilant	inattentive
+startling	unsurprising
+savage	caring, civilized, pleasant
+dynamic	static, turgid, sluggish
+unmovable	portable, transportable
+hopeful	hopeless
+farsighted	shortsighted, myopic
+convincing	unconvincing
+handsome	bald, scruffy, withered, hideous, disgusting, horrible, grim, shocking, decrepit, inelegant, horrifying, despicable, grungy, unappealing, unclean, loathsome, deformed, unsightly, gnarled, freakish, grotesque, scary, foul, repellent, wizened, fat, displeasing, gruesome, ghastly, repulsive, drab, unattractive, wrinkled, bloated, brutish, ugly, distasteful, ungainly, swollen, ragged, balding
+convoluted	concise, stylised, clearcut, simple, straightforward
+interesting	boring, uninteresting
+soundproof	noisy
+outmoded	modern, fashionable, current
+venal	devoted
+crowed	deserted
+lithe	arthritic, stiff
+unloving	affectionate
+delighted	unhappy, gloomy, sad, depressed, discontented, discontent, peevish
+compassionate	ruthless, merciless, sadistic
+sadistic	compassionate, caring, merciful
+expendable	irreplaceable, indispensable, priceless
+sheepish	aggressive
+steamy	dry
+abrupt	gradual
+binding	non_binding
+able	unable
+unscalable	scalable
+everlasting	disposable
+unsound	sound
+unthinkable	desirable
+culpable	innocent
+transcendent	banal
+flawless	flawed
+smoky	clear
+atmospheric	dull
+rigid	limp, springy, slithering, rubbery, spongy, flexible, stretchy, slithery, elastic, squeezable, flimsy
+drab	colorful, polished, dashing, handsome
+devastating	serene, balmy, calm, undisturbed, limpid, delightful, fortunate, uneventful, comforting, placid
+raucous	timid, hushed, prim, quiet
+exclusive	inclusive
+percussive	quiet
+right	wrong, left
+unvarying	varied
+stout	skinny, lean
+flippant	serious
+acidic	alkaline, sweet
+oily	dry
+folksy	intellectual
+temperamental	even-tempered
+juiceless	juicy
+unmistakable	nondescript
+repeatable	unrepeatable
+heterosexual	homosexual
+informal	formal, authoritarian, unapproachable
+adequate	inadequate
+abundant	scarce, paltry
+tame	racy, feral, untamed, sporty, menacing, wild
+devilish	angelic
+bulletproof	fragile, soft, weak, permeable
+deft	clumsy
+ostentatious	unpretentious
+opaque	translucent, limpid, diaphanous, clear, transparent
+typical	fishy
+convex	concave
+teeny	huge
+high-minded	earthy
+ominous	auspicious
+heterogeneous	homogeneous, homogenous
+airworthy	flightless
+incomprehensible	explicable, userfriendly, understandable
+false	true, factual, truthful
+tall	runty, squat, short
+dutiful	disobedient, lazy, unfaithful, disloyal, unprincipled
+festive	joyless
+difficult	easy, manageable
+likeable	unappealing, unsympathetic, unlikable, unlikeable
+hungry	satisfied
+laudable	disgraceful
+elusive	accessible
+deep	shallow, highpitched, superficial
+holy	unhallowed, damned, unholy, blasphemous, ungodly, cursed, impious
+sappy	hard-nosed, cynical, predatory
+abroad	domestic
+sensible	incongruous, insensible, idiotic, silly, unreasonable, confusing
+insensitive	touchy, charming, sensitive, tactile, empathic
+worrying	reassuring, unnerving
+sugarless	sugary
+hygienic	unsanitary, unhygienic
+wideawake	sleepy
+cheerless	cheerful
+environmental	innate
+unprepossessing	proud
+unbreakable	fragile, breakable
+nimble	arthritic, stiff, ungainly
+dignified	laughable, insulting, tasteless, ignoble, vulgar, abrasive, disrespectful, scandalous, brazen, undignified, unprofessional, foul-mouthed, distasteful, crude, cheap, boorish, crass
+unmanly	manly, masculine, macho
+pretty	unsightly, fugly, unattractive, ugly
+insular	outward_looking
+valued	worthless
+enchanting	boring, boorish
+indispensable	disposable, dispensable, expendable
+drafty	insulated
+noble	lowborn, impure, ignorant, lowly, ignoble, unclean, coarse, profane, wicked, second-class
+inattentive	solicitous, inquisitive, attentive, vigilant
+humanitarian	ignoble
+original	trite, imitative, corny, unoriginal
+political	impartial, nonpolitical
+unspecified	specified
+blithe	anxious
+stiff	flaccid, gymnastic, sinuous, limp, acrobatic, floppy, bendable, wriggly, spongy, flexible, limber, supple, lithe, nimble, agile, lissom, wiggly
+undistinguishable	distinguishable
+optional	obligatory
+aerodynamic	clunky
+profitable	unprofitable
+awesome	insignificant, trivial, pathetic, powerless, uninspiring, worthless, ridiculous
+definitive	vague
+wanted	unwanted
+discourteous	courteous
+discontented	content, happy, contented, joyful, delighted, optimistic
+lofty	meek, lowly, despicable, insignificant, trivial, subservient, bedraggled, humble, destitute, inferior, poor, unimportant, submissive
+obscure	famous
+negligent	diligent
+ungracious	gracious
+multicolored	monochromatic, blackandwhite
+light	dark, heavy, leaden
+untrustworthy	trusted, trusty, trustworthy
+distinct	indistinct, fuzzy, blurred, blurry
+disjoint	inseparable
+resolute	irresolute
+unripened	ripe, dreaded, mature
+blurred	distinct
+estimable	contemptible
+unstudied	deliberate
+bright	shady, dull, dark, dimmed, dim
+gracious	arrogant, haughty, ungallant, ungracious, unapproachable
+sneaky	honest, trustworthy
+fortunate	unhappy, depressing, distressing, damaging, agonizing, tragic, discouraging, unjust, desperate, undesirable, disheartening, disappointing, sad, painful, regrettable, unfortunate, troubling, devastating, cursed, unlucky, unwanted, miserable, frustrating, unfair
+reddish	pale
+remorseless	remorseful, sorry
+monogamous	polygamous, bigamous
+carnivorous	vegetarian
+well-formed	misshapen
+engrossing	boring
+unsinkable	sinkable
+overweight	scrawny, slim
+dear	unloved
+comfy	uncomfortable
+adorable	unlikable
+architectural	superficial
+sullen	flirtatious, communicative, interactive, expressive
+subjugated	reigning, leading, ruling
+unaccessible	accessible
+deaf	unresponsive
+tangy	bland
+low-key	stately
+dead	vigorous, fresh, animated, lively, alive, thriving, vivacious
+visionary	blind
+unheeding	thoughtful
+unflattering	flattering
+unpleasant-smelling	fragrant
+confined	unconfined
+taxable	nontaxable, exempt
+sinkable	unsinkable
+underdressed	overdressed
+surgical	blunt
+fireproof	flammable
+operational	inactive
+shriveled	puffy, fresh, juicy
+bigbellied	slim
+nonabsorptive	absorbent
+rampaging	fleeing, spineless, domesticated, retreating, docile, coy, defeated
+unstoppable	slight, feeble, weak, stoppable
+costly	inexpensive, cheap
+chaotic	organized, organised, orderly, united, unified, regimented, stabile, cohesive
+noninvasive	intrusive, invasive
+voluble	taciturn
+masterful	unskilled
+cadaverous	fat
+warming	chilling
+easy-going	fussy
+humiliating	supportive
+jittery	calm
+ruffled	unruffled
+steady	variable, shaky, jumpy, unsteady, unstable, wobbly
+dissolute	honorable
+pleasant	grim, grumpy, agonizing, gross, savage, vile, cross, peevish, nasty, cruel, unpleasant, irate
+uninspiring	thoughtprovoking, dashing, awesome, inspiring, commanding
+craven	fighting
+suburban	central
+magnetic	repulsive
+irreverent	reverent
+inescapable	non_obvious
+painless	painful
+quarrelsome	affable
+reflexive	premeditated
+crisp	limp, soggy
+avoidable	inevitable
+abstract	concrete
+mixed	homogeneous
+insusceptible	susceptible
+tough	tender, soft, gentle, weakened
+merciful	merciless, unmerciful
+unshaven	smooth, tidy, shaven
+frumpy	glamorous, gorgeous
+broadminded	narrowminded
+tangible	intangible
+noxious	charming, perfumed, innocuous, aromatic, harmless, fresh, fragrant
+tracked	trackless
+monstrous	beautiful
+respected	seedy, unqualified, shady, infamous, inconsequential, sleazy, immoral, disgraceful, unreliable, dishonest, disreputable, rumpled, incompetent, denounced
+unlearned	learned
+incorrigible	teachable
+game	unwilling
+perfect	imperfect
+inert	frisky, explosive, lively, vibrant, fidgety, frolicsome, wayfaring, incendiary, radioactive, volatile, giddy, reactive, combustible
+retired	busy, sitting
+artificial	biological, organic, natural
+trackless	tracked
+boring	shocking, intriguing, compelling, enthralling, thrilling, suspenseful, spectacular, riveting, mesmerizing, dashing, hypnotic, charismatic, scintillating, delightful, alarming, spellbinding, interesting, enchanting, engrossing, magical, gripping, engaging, sporty, exhilarating, entertaining, dramatic, inspirational, exciting, fun
+sleepy	lively, wideawake
+inebriated	sober
+incisive	blunt
+wayfaring	static, inert
+clinical	sloppy
+greasy	dry
+nonphilosophic	philosophical
+responsible	feckless, irresponsible, prodigal
+nonspecific	specific
+enervating	soporific
+hohum	exciting
+despised	honored, adored, celebrated, appealing, venerated, worshipped, revered, delightful, august, beloved
+snappy	slow
+unchanging	variable, changeable
+romantic	hard-nosed, unsentimental, unromantic, cynical
+sparse	populous, luxurious, dense
+unselfish	selfish
+brainless	intelligent, shrewd, clever, smart, sentient
+vulnerable	overpowering, protected, impervious, invulnerable, reinforced, armored, fortified, strong, strengthened
+plentiful	barren
+unbranded	branded
+confused	clear-thinking, clearheaded
+magical	boring, mundane
+breakable	unbreakable
+faceless	identifiable
+permanent	ephemeral, temporary, impermanent, fleeting
+erudite	ignorant, uneducated, illiterate
+indefinite	definite
+soothing	itchy, jarring, scarey, scratchy, sore, abrasive, threatening, aggravating, hurtful, stinging, irritating
+cursed	anointed, blessed, lucky, consecrated, thankful, holy, fortunate, enviable, beloved
+dry	clammy, soggy, succulent, damp, stewed, drippy, lubricious, muddy, steamy, oily, greasy, sodden, soppy, wet, juicy, moist, humid, gushing, sticky
+eerie	comforting
+vile	pleasant, beloved
+pregnant	nonpregnant
+nutty	sane, smart
+heedful	thoughtless
+inept	majestic
+majestic	disgusting, wretched, unremarkable, insignificant, pointless, helpless, pathetic, pitiful, weak, inept, whining, worthless, puny
+depraved	honorable
+godly	corrupt, dumb, evil, unclean, irreligious, weak, wicked, ugly, crass
+improvident	provident
+plain	fancy, ornate, patterned, checkered
+luminescent	dark
+significant	insignificant, trivial, inconsequential, trifling, unimportant, negligible
+specified	vague, unspecified
+soft_skinned	leathery
+virile	impotent
+contemptible	honorable, honored, fearsome, adored, formidable, celebrated, venerated, mighty, worshipped, revered, august, estimable, powerful, beloved, magnificent
+shiftless	conscientious, hardworking
+frugal	prodigal
+terrible	great
+keen	lethargic, sluggish
+uneventful	hectic, devastating, eventful, drastic
+touchyfeely	standoffish
+gripping	boring
+whining	majestic
+sharpeyed	blind
+stoic	crying, chatty, anxious, fearful
+valuable	valueless, worthless
+clearheaded	confused
+worthless	great, formidable, precious, prestigious, magisterial, successful, worthy, grand, valued, awesome, majestic, valuable, priceless, important
+unpresidential	presidential
+versatile	limited
+unconcerned	caring, concerned
+discontent	content, contented, delighted
+unsettled	settled
+uncommon	common
+imperative	lax
+talentless	gifted, trained, talented, drilled
+eventful	monotonous, uneventful
+servile	reigning, leading, dominant, ruling
+sorrowful	joyful
+crosseyed	eagle_eyed
+emphatic	unremarkable
+exempt	taxable, nonexempt
+aggressive	mousy, serene, affable, retreating, sheepish
+bizarre	commonplace
+amusing	unfunny
+introverted	extraverted
+curvy	linear
+highranking	junior
+undependable	reliable, dependable
+spiritual	soulless
+qualitative	quantitative
+seedless	seedy
+pompous	modest, humble, unassuming, unpretentious
+disastrous	beneficial
+enviable	unfortunate, cursed
+erect	flaccid, crooked
+illustrative	uninformative
+narrowminded	broadminded
+oafish	courtly, chivalrous
+super	banal
+swiftfooted	slow
+memorable	forgettable
+normal	weird, abnormal, extraordinary, surrealistic
+presidential	unpresidential
+selfaggrandizing	self_effacing
+outward_looking	insular
+wicked	virtuous, kingly, titled, noble, godly, pure, innocent, blameless
+puritanical	hedonistic
+anticlimactic	climactic
+stretchy	rigid
+incombustible	combustible
+stupid	intelligent, clever, smart, wily
+tuneless	tuneful, melodious
+handicapped	capable
+irksome	enjoyable
+furry	bald
+patrician	plebeian
+stoppable	unstoppable
+bound	unbound, unrestrained, free
+sudden	gradual
+standoffish	touchyfeely
+gaga	sane
+nonspherical	spherical
+endearing	unendearing
+slack	taut
+mellow	harsh, authoritarian
+unequal	equivalent, equal
+unintentional	deliberate, intentional, designed
+received	extraordinary
+unpatriotic	patriotic, loyal
+impregnable	undefended
+civilised	barbaric, uncivilized, noncivilised
+disappointed	pleased, happy
+blurry	distinct
+elevated	ignoble, downcast
+invigorating	debilitating
+serviceable	unserviceable
+inspiring	ignoble, uninspiring
+poetic	banal
+uneasy	relaxed, easy
+pervasive	localized
+unlucky	lucky, fortunate
+bereft	happy, fulfilled
+slithery	rigid
+careful	careless, reckless
+imperfect	ideal, perfect
+noncombustible	combustible
+glamorous	frumpy, dowdy, poor
+hidden	public
+irreversible	reversible
+diseased	healthy
+snowy	hot, _hot
+flinty	flimsy
+annoying	charming, appealing, sensitive, enjoyable, delightful, entertaining
+unextended	extended
+manageable	uncontrollable, unmanageable, difficult
+righteous	ignoble, unworthy
+accurate	inaccurate
+deniable	undeniable
+frothy	flat
+impenetrable	open, accessible
+convenient	incommodious, inconvenient
+subjective	objective
+unsympathetic	appealing, sympathetic, likable, likeable
+comforting	horrifying, scarey, disturbing, scary, terrifying, devastating, eerie
+level	uneven, sloped
+chained	unconstrained, emancipated, liberated, carefree, unrestrained, free
+extended	unextended
+unalert	alert
+handy	unwieldy, clumsy, cumbersome
+unbelievable	credible, believable
+longlived	shortlived
+unpackaged	packaged
+unsubtle	stealthy, diplomatic, subtle
+tedious	exciting
+twisted	straight
+overdressed	naked, underdressed, exposed, bare
+deified	lowly, humble, powerless, undignified, crude, cheap
+reckless	cautious, disciplined, prudent, careful
+nonexempt	exempt
+unstable	steady, stable, stabile
+batty	sane
+luckless	lucky
+sweet	salty, sour, foul, bitter, tart, acidic
+elastic	inelastic, rigid
+aristocratic	proletariat, vulgar
+ungrateful	thankful, grateful, appreciative
+bony	boneless, plump
+unalarming	alarming
+provocative	unprovocative, unremarkable
+congratulatory	dismissive
+companionable	misanthropic, antisocial, unapproachable
+selfconfident	humble
+circuitous	direct
+tyrannical	democratic
+agile	maladroit, arthritic, ponderous, stiff, ungainly
+huge	petite, minuscule, microscopic, minute, tiny, miniscule, teeny, wee, small, puny
+literal	nonliteral, symbolic, figurative
+malicious	benevolent, gay
+heavyweight	lightweight
+impious	pious, consecrated, holy
+sodden	dry
+stubborn	adaptable, agreeable, docile, flexible
+unserviceable	serviceable
+engaging	boring
+grateful	thankless, ungrateful, unthankful
+priceless	expendable, worthless
+paralyzed	animated
+unwanted	honored, adored, celebrated, appealing, venerated, worshipped, revered, desirable, august, wanted, fortunate
+illdefined	well_defined
+implausible	plausible
+civilian	military, paramilitary
+cross	pleasant
+renowned	unknown
+unambiguous	ambiguous, equivocal
+dim	undimmed, radiant, bright, iridescent
+principled	unprincipled, cynical, crooked, dishonest
+acrid	fragrant
+humorless	humourous, humorous, funny, witty
+accomplished	underachieving
+large	skimpy, little, small, poky
+risky	safe
+unbearable	tolerable
+concerned	unconcerned
+pallid	tanned, colourful
+impassioned	passionless
+solemn	cheeky, frivolous
+egoistical	altruistic, selfless
+macho	feminine, limp-wristed, unmanly, female
+central	peripheral, secluded, suburban
+inviolable	violable
+unenclosed	enclosed
+liable	immune
+persistent	temporary
+orthodox	subversive
+bold	frightened, meek, timid, cowering, trembling, scared, cowardly, diffident, weak
+verdant	barren
+unobtrusive	outrageous, noticeable, obtrusive
+fascinating	unremarkable
+predatory	caring, abstemious, sappy
+insubstantial	substantial, solid, physical, meaty, dense, real, material
+demur	brazen
+beefy	under-nourished
+noncivilised	civilized, civilised
+bandy	straight
+supervisory	subordinate
+strengthened	weakened, vulnerable
+conservative	eccentric, bohemian, liberal, punk, rebellious
+compendious	limited
+soppy	dry
+aimless	purposeful, relentless, directed, determined, crusading
+lonesome	popular
+powerful	fragile, frightened, meek, spineless, scared, deposed, limp, ineffective, domesticated, helpless, harmless, impotent, pathetic, dethroned, ineffectual, powerless, weak, inferior, contemptible, toppled, tamed, puny
+assaulting	retreating
+zealous	indifferent
+unreasonable	sensible, reasonable
+revelatory	uninformative
+abnormal	normal
+slow	brisk, rapid, swift, speedy, fleet, quick, fast, fastpaced, snappy, swiftfooted
+wealthy	wretched, broke, destitute, poor
+synthetic	natural, analytic
+syrupy	sour
+expensive	inexpensive, affordable, cheap
+curly	straight
+disheveled	tidy
+brainwashed	impartial, defiant, independent, nonpartisan
+rural	metropolitan, urban
+royal	lowly, subservient, bedraggled, unwashed, destitute, inferior, unimportant, common
+uncomplete	complete
+misshapen	well-formed, wellformed
+patriotic	disloyal, unpatriotic
+morose	upbeat
+nonchalant	flustered, authoritarian
+intemperate	temperate
+silent	loud
+arhythmic	rhythmic
+inactive	lively, active, operational
+single	attached
+honourable	dishonorable
+serious	laughable, goofy, lighthearted, silly, flippant, frivolous, flip, jocular, whimsical, playful
+gorgeous	frumpy, ugly
+female	masculine, macho
+anxious	complacent, calm, laidback, carefree, blithe, stoic, unflappable, imperturbable
+refreshing	unwelcome
+malodorous	fragrant
+furtive	upstanding
+ridiculous	sublime, awesome, magnificent, subtle
+excitable	placid
+educational	uninformative
+unplayable	playable
+sexless	sexual
+absorbent	nonabsorbent, nonabsorptive
+hazy	clear
+unattractive	fetching, tempting, alluring, seductive, winsome, stunning, worthy, handsome, pretty, presentable, sexy, buff, nubile, attractive, picturesque
+timorous	menacing
+saved	stranded, lost
+edifying	unedifying
+secret	well_known, public
+chipper	depressed
+banal	striking, shocking, fantastic, wistful, hairraising, revolutionary, amazing, grand, transcendent, super, poetic, extraordinary, breathtaking, aweinspiring
+extraordinary	normal, received, banal, mundane, pedestrian, humdrum, ordinary
+inventive	unoriginal
+frivolous	great, grave, severe, solemn, serious
+probable	improbable
+peevish	contented, delighted, pleasant
+multiform	uniform
+busy	lazy, idle, retired
+invisible	visible, conspicuous
+antisocial	gregarious, companionable, social, sociable
+void	substantial
+tasteful	tasteless
+unspoiled	pampered, spoiled
+disguised	apparent
+conniving	honorable, honest
+heavenly	earthly
+slender	fat, bloated
+real	unreal, unsubstantial, fictional, insubstantial
+gutless	plucky
+uncontrolled	controlled
+distracted	focussed
+dowdy	glamorous
+uninformative	trenchant, prophetic, telling, informative, illustrative, revelatory, educational
+beloved	damned, despicable, infamous, lonely, dreaded, feared, shunned, brutal, condemned, hateful, despised, cursed, vile, contemptible, oppressive, hated, ugly, miserable, cruel, unloved
+unretentive	retentive
+loving	uncaring
+oppressive	supportive, beloved
+waterproof	permeable
+divided	united
+lissom	stiff
+likely	improbable
+devious	honorable, trustworthy
+sensual	mechanical
+regimented	scattered, undisciplined, chaotic, messy, disordered, disorganized, cluttered
+drastic	uneventful
+toppled	conquering, dominating, reigning, controlling, enthroned, dominant, domineering, triumphant, ruling, crowned, powerful, commanding, throned
+chilly	warm
+experimental	traditional
+chewy	runny
+rounded	square
+subordinate	reigning, leading, dominant, ruling, independent, supervisory
+cheerful	depressed, cheerless, bleak
+senior	junior
+devout	irreligious, faithless
+pink	colorless
+unchangeable	changeable, changeful
+substantiated	unfounded
+unmotivated	motivated
+loyal	faithless, disloyal, unpatriotic
+straight	curved, loopy, bent, wriggly, coiled, twisted, bandy, curly, frizzy, crooked, kinky, twisty
+effortful	effortless
+nonarbitrary	arbitrary
+objective	subjective
+uncharacteristic	characteristic
+plucky	gutless
+hotheaded	coolheaded
+ambiguous	univocal, unambiguous, unequivocal
+natural	unreal, unnatural, supernatural, artificial, synthetic
+decorative	functional
+chuffed	sad
+defenseless	overpowering, protected, invulnerable, reinforced, guarded, fortified, walled, armed
+interactive	sullen
+presentable	unattractive
+worrisome	reassuring
+untempered	hardened
+indulgent	strict
+sparkly	dull
+messy	organized, neat, tidy, clean, regimented
+general	local, detailed, specific
+ludicrous	believable, magnificent
+toned	toneless
+durable	brittle, flimsy
+slim	chunky, bovine, fatty, fat, overweight, bigbellied, bloated, obese
+ill-smelling	fragrant
+wet	dry
+sporty	dull, limp, crippled, lazy, lame, lethargic, tame, boring
+indecisive	decisive
+accessible	inaccessible, isolated, elusive, unaccessible, impenetrable, unapproachable
+little	big, large
+hated	honored, adored, celebrated, venerated, loved, worshipped, revered, august, beloved
+solitary	sociable
+secretive	public
+smart	dumb, unintelligent, brainless, nutty, stupid
+placid	rowdy, stormy, fierce, devastating, excitable
+intent	purposeles
+flattering	uncomplimentary, insulting, unflattering
+wee	huge
+foreboding	auspicious
+stuck	unstuck
+paranoid	complacent
+obtrusive	unobtrusive
+nondescript	unmistakable, flamboyant, unique
+nonfatal	fatal
+edible	inedible, poisonous, uneatable
+commanding	meek, cowering, compliant, deposed, subservient, passive, dethroned, powerless, docile, uninspiring, toppled, submissive
+opened	closed
+unlikable	appealing, lovable, sympathetic, likable, likeable, adorable
+disorderly	geometric, orderly, ordered, united, mobilized, unified, cohesive
+discriminating	impartial, indiscriminate
+frizzy	straight
+unladylike	ladylike
+material	insubstantial
+bigamous	monogamous
+unsatisfying	satisfying
+implacable	conciliatory
+precocious	retarded
+unentertaining	entertaining, enjoyable, delightful
+comfortable	uncomfortable, queasy, cramped, torturous, insecure, miserable
+surreal	realistic
+expressive	pokerfaced, blank, mute, sullen
+unequivocal	ambiguous, equivocal
+urban	rural
+hydrophobic	hydrophilic, thirsty
+spirited	lifeless, spiritless, docile
+claustrophobic	spacious
+ladylike	unladylike
+knowable	unfathomable
+throned	deposed, dethroned, conquered, exiled, toppled
+flashy	dull, understated
+voluntary	involuntary
+untied	tied
+radioactive	inert
+flamboyant	nondescript
+living	extinct
+discernable	indiscernible
+empathic	insensitive
+armed	helpless, unarmed, defenseless
+untidy	fastidious, neat, tidy, unified, cohesive
+antique	modern
+exterior	interior, inner, inward
+interior	exterior, outward, outer
+inward	outward, outer, exterior
+outward	inward, inner, interior
+inner	outer, outward, exterior
+outer	inner, inward, interior
+private	public, communal
+defensive	unprotected, complacent, unguarded
+quotidian	surrealistic
+shapely	unshapely, lumpen, shapeless, formless
+unwrinkled	wrinkled
+easygoing	exacting, authoritarian
+frozen	hot, liquid, flowing, animated
+fishy	typical
+indirect	direct
+prudish	obscene, licentious
+progressive	regressive
+unpatterned	patterned
+liberal	conservative
+shiny	unpolished, rusty
+sexy	unsexy, fugly, unattractive, ugly, disgusting
+refractory	thoughtless
+exhilarating	dull, boring
+incontinent	continent
+short-legged	leggy
+unbroken	shattered
+uncaring	solicitous, caring, maternal, loving
+insanitary	sanitary
+frustrated	happy
+entertaining	boring, unentertaining, dull, annoying
+enticing	unappealing
+mundane	striking, great, incredible, fantastic, exotic, radical, spectacular, rare, miraculous, amazing, magical, extraordinary, esoteric
+wrinkled	smooth, tidy, handsome, unwrinkled
+wellformed	misshapen
+indestructible	fragile, tinny
+anal	oral
+numerate	innumerate
+naughty	well-behaved, proper, decent, wholesome
+unmindful	aware
+unrestrained	enslaved, shackled, oppressed, indentured, manacled, unfree, caged, bound, chained, trapped, restrained
+wise	ignorant, childish, foolish, imprudent
+underprivileged	rich, privileged
+lustrous	dull
+highpitched	deep
+hard	diffuse, squishy, delicate, soft, weakened
+violet	colorless
+timeless	faddish
+tonedeaf	musical
+unthinking	considerate, meditative, strategic, thoughtful, insightful, reflective, mindful, cerebral, analytical
+influential	disenfranchised
+wiry	thick
+ornery	affable
+dramatic	predictable, undramatic, boring
+moronic	intelligent
+foul-smelling	aromatic
+unique	nondescript, undistinguished
+alienated	popular
+unprofessional	honorable, dignified, professional, tinkering
+invasive	unintrusive, noninvasive
+encouraging	discouraging, demoralizing
+unflappable	anxious
+bloated	focused, thin, handsome, slender, slim
+dyslexic	fluent
+nonhierarchical	hierarchical
+homogenous	varied, heterogeneous
+atypical	representative
+inscrutable	obvious
+dessicated	luscious
+leaden	light
+calculative	uncalculating
+humourless	humourous, humorous
+exacting	sloppy, easygoing
+sighted	blind
+selfcentered	selfless
+stinging	soothing
+efficacious	useless, ineffective, ineffectual, inefficacious
+esoteric	mundane
+mincing	strident
+camouflaged	complacent, forthright, welcoming, candid, unguarded, transparent
+undefined	defined
+churlish	affable, polite
+rumpled	smooth, tidy, respected
+unbalanced	symmetric, balanced
+occupied	unoccupied
+retentive	forgetful, unretentive
+unassigned	assigned
+uncultured	courtly, chivalrous, cultured
+unappetising	appetizing
+chirpy	depressed
+appreciative	ungrateful
+tasty	disgusting, tasteless, bland
+second-class	kingly, titled, noble
+small	great, big, hefty, grand, huge, large, vast
+showy	understated
+frosty	warm
+untangled	tangled
+salubrious	unwelcoming
+provincial	cosmopolitan
+outgoing	shy
+irrepressible	pessimistic
+brutish	delicate, genteel, handsome, cultured
+intractable	tractable
+balanced	imbalanced, unbalanced
+cozy	uncomfortable
+professional	unprofessional
+dogmatic	flexible
+failed	successful
+cultured	uncouth, ignorant, rude, uneducated, feral, illiterate, thick, uncultured, brutish, crass
+unreachable	attainable, reachable
+volatile	inert
+misbegotten	sleek
+unsensational	sensational
+menacing	meek, domesticated, mild-mannered, unthreatening, friendly, pathetic, gentle, powerless, docile, inoffensive, tame, timorous
+streetwise	inexperienced
+motivated	demoralized, unmotivated
+sanitized	unhygienic
+social	antisocial
+characteristic	uncharacteristic
+delicious	disgusting
+unsustainable	sustainable
+dependable	unreliable, undependable
+shrunken	swollen
+exuberant	lifeless
+sentient	insentient, insensate, brainless
+dangerous	safe
+jobless	rich
+butch	camp
+specific	vague, nebulous, nonspecific, general
+regular	irregular
+deceitful	honorable
+troubled	merry, untroubled, privileged, happy
+unimpressive	impressive, eminent, magisterial, grandiose, famous, prodigious
+shaven	unshaven
+inequitable	just
+eager	indifferent
+bleak	cheerful
+baggy	fitted
+flip	serious
+discriminatory	impartial
+unfounded	substantiated
+disordered	organized, ordered, regimented
+myopic	farsighted
+repressed	adventurous
+giddy	passionless, unenthusiastic, inert
+autocratic	democratic
+uneffective	effective
+harried	pampered, spoiled
+poor	extravagant, rich, prestigious, pampered, privileged, exalted, prosperous, spoiled, lofty, glamorous, wealthy
+tinny	armored, indestructible
+cut	uncut
+coolheaded	hotheaded
+watery	creamy, parched
+affordable	expensive
+unattainable	attainable
+mental	sane
+tamed	untamed, powerful, wild
+exposed	overdressed
+buff	unfit, unattractive
+close	remote, distant
+equivocal	univocal, unambiguous, unequivocal
+indecent	decent
+non-deterministic	deterministic
+jocular	serious
+wily	daft, stupid
+unbending	flexible
+forgettable	unforgettable, haunting, catchy, mythological, memorable
+shivering	robed
+effervescent	flat
+colourful	colourless, colorless, pallid
+nasty	lovable, nice, cute, attractive, pleasant
+cultural	unsophisticated
+stark	baroque, lush
+left	right
+unimportant	great, urgent, prestigious, exalted, lofty, significant, royal, important
+labyrinthine	straightforward
+corny	original
+incompetent	skilled, proficient, talented, thorough, capable, competent, respected
+morbid	jolly
+wild	domesticated, tame, tamed
+determinate	unknown, indeterminate
+readable	illegible
+current	outdated, outmoded
+misleading	informative
+short	long, lanky, lengthy, tall
+foul-mouthed	dignified
+mature	green, childish, unripe, unfledged, unripened, impish, immature
+shorn	woolly
+unaccountable	accountable
+formless	delineated, chiseled, shapely
+disenchanting	spellbinding
+intrepid	scared, cautious, prudent, straightlaced, fearful
+pedestrian	riding, extraordinary
+unfocussed	singleminded, focused, directed, focussed
+fascinated	indifferent
+relevant	irrelevant
+believable	incredible, unbelievable, ludicrous
+juicy	dehydrated, juiceless, shriveled, dry
+constructive	destructive
+common	exalted, uncommon, royal
+fluffy	sleek
+unpromising	promising
+insufficient	sufficient
+compromising	uncompromising, crusading
+merciless	compassionate, merciful
+unthankful	grateful
+unstructured	structured
+squeezable	rigid
+vocal	shrill
+reserved	unreserved
+ugly	photogenic, exquisite, becoming, dainty, stunning, aesthetic, beautiful, handsome, pretty, godly, gorgeous, beloved, sexy, cute, picturesque
+unregistered	registered
+focussed	directionless, diffuse, disoriented, dizzy, unfocused, distracted, unfocussed
+disabling	enabling
+thoughtless	astute, thoughtful, mindless, attentive, cerebral, heedful, refractory
+nubile	unattractive
+routine	unconventional
+distasteful	handsome, dignified
+obese	thin, slim
+poky	large
+frigid	warm
+witty	humorless
+bumpy	smooth, flat
+calculating	naive
+non_binding	binding
+official	unofficial
+moist	desiccated, dry
+proper	improper
+trapped	unconstrained, carefree, unrestrained, free
+burntout	energetic
+breathtaking	banal
+unaccepting	accepting
+undiluted	dilute
+unconscientious	conscientious
+mechanical	biological, sensual, emotional
+excluded	privileged
+nonfunctional	functional
+spruce	dull
+cosy	uncomfortable, spartan
+whimsical	steadfast, serious
+unemotional	emotional
+artful	ingenuous, artless, naive
+enabling	disabling
+unitary	fragmented
+attenuated	substantial
+contemporary	old-fashioned
+non-aquatic	aquatic
+homely	beautiful
+miserable	merry, rich, happy, worthy, contented, joyful, fortunate, beloved, comfortable, magnificent
+unwelcome	welcome, refreshing
+finicky	carefree
+inexplicit	explicit
+thriving	extinct, razed, dead
+deficient	sufficient
+distant	intimate, close
+prescriptive	proscriptive
+coy	frank, candid, boastful, attacking, rampaging, unflinching
+overt	covert
+following	leading
+inneffective	strong
+core	incidental
+infallible	ignoble, fallible
+sociable	unsociable, reclusive, antisocial, solitary
+total	incomplete
+unperturbed	shocked
+reachable	unreachable
+welldefined	vague, nebulous
+gangly	well_built
+crooked	honorable, erect, straight, honest, principled
+authoritarian	leisurely, aidback, congenial, casual, carefree, informal, mellow, nonchalant, easygoing, freewheeling, open_minded
+disorganized	organized, methodical, organised, systematic, focused, disciplined, harmonious, united, tidy, mobilized, unified, regimented, cohesive
+freewheeling	authoritarian
+lean	rich, fat, flabby, stout, brawny
+angular	smooth
+unwomanly	feminine
+permeable	impermeable, bulletproof, waterproof
+playful	sober, unplayful, serious
+inspirational	boring
+outcast	anointed, honored, adored, celebrated, venerated, worshipped, revered, august
+magnificent	disgusting, wretched, lackluster, lowly, pitiable, insignificant, ineffective, foolish, desperate, mediocre, pathetic, pitiful, powerless, contemptible, ridiculous, ludicrous, miserable, puny
+flat	humped, foamy, billowy, sparkling, frothy, effervescent, bumpy, prismatic, mountainous, hierarchical
+humid	dry
+unlikeable	appealing, sympathetic, likable, likeable
+unflinching	coy
+figurative	literal
+suggestible	steadfast
+revokable	irrevocable
+crusading	frightened, indifferent, selfish, purposeless, cynical, aimless, compromising, fearful
+unappetizing	appetising, appetizing
+ungainly	dainty, handsome, nimble, agile
+subversive	conformist, orthodox
+famous	inconspicuous, unremarkable, innocuous, infamous, anonymous, obscure, unimpressive
+cruel	caring, honorable, kind, gay, pleasant, beloved
+worn	new
+stale	fresh, bubbly, foamy, fizzy
+generous	grudging, mean, miserly, ignoble, stingy, selfish, paltry, meanspirited, cheap
+unhygienic	sanitary, antiseptic, hygienic, sanitized, healthful
+windy	airless
+reasonable	unreasonable
+prismatic	flat
+impish	dreaded, mature
+unobvious	perceptible
+selfless	ignoble, greedy, self-centered, self-centred, selfindulgent, selfish, rapacious, self_indulgent, selfserving, egocentric, egoistical, selfcentered
+fruitless	promising
+inarticulate	fluent, eloquent, articulate
+subtle	coarse, blatant, obvious, palpable, imposing, unsubtle, ridiculous, crude
+phony	authentic
+tantalising	unappealing
+effective	ineffective, ineffectual, uneffective
+uninteresting	great, titillating, interesting, irresistible
+polychromatic	monochromatic
+vivacious	lifeless, dead
+mountainous	flat
+illogical	logical
+unoriginal	original, inventive
+frustrating	conducive, fortunate
+crude	refined, regal, courtly, charismatic, chivalrous, poised, worthy, dignified, deified, subtle, pure
+plodding	swift, fleet
+unloved	loved, dear, beloved
+stable	slippery, unstable
+wireless	wired
+luddite	technological
+loosejointed	stiff_jointed
+creepy	gay, seductive
+cool	warm, hot
+inorganic	organic
+turgid	dynamic
+surrealistic	normal, quotidian
+sacrificing	self_indulgent
+skittish	calm, relaxed, surefooted
+shortlived	longlived
+open_minded	dismissive, coercive, authoritarian
+wrinkly	smooth
+confusing	sensible
+aged	youthful
+pure	impure, corrupt, stagnant, ignoble, rank, unrefined, riddled, dirty, perverted, crude
+soulless	soulful, spiritual
+wide	narrow
+fearful	brave, undaunted, fearless, courageous, stoic, intrepid, crusading
+kinky	straightlaced, straight
+flimsy	impressive, armored, mighty, fortified, solid, sturdy, stolid, resilient, rigid, flinty, durable
+unessential	essential
+optimistic	crestfallen, pessimistic, despairing, fatalistic, forlorn, discontented
+complex	simple
+rarified	dense
+important	ignoble, innocuous, insignificant, trivial, inconsequential, irrelevant, worthless, unimportant
+swollen	handsome, shrunken
+attractive	hideous, loathsome, unsightly, fugly, unbecoming, repulsive, unattractive, nasty
+adept	clumsy
+submissive	arrogant, reigning, leading, prestigious, haughty, dominant, domineering, assertive, ruling, lofty, commanding
+unaffected	affected, moved
+staid	adventurous
+scummy	honorable, pristine
+malodourous	fragrant
+undistinguished	distinguished, peculiar, distinctive, unique
+exciting	dull, unexciting, boring, hohum, tedious
+cheap	extravagant, regal, dignified, costly, deified, expensive, generous
+stabile	chaotic, unstable
+ragged	smooth, robed, tidy, handsome
+curious	indifferent, disinterested
+affected	unaffected
+crazy	sane
+orientated	disoriented
+unperceptive	perceptive
+meager	ample
+overburdened	pampered, spoiled
+unsafe	secure, safe
+promising	inauspicious, futile, unpromising, fruitless
+hierarchical	nonhierarchical, flat
+reactive	proactive, inert
+nonintegrated	integrated
+cuddly	fearsome, dreaded, threatening, uninviting
+moved	unaffected
+controlled	uncontrolled
+prodigious	unimpressive
+hiding	attacking
+cranky	affable
+unconfined	confined
+selfsustaining	dependent
+regressive	progressive
+checkered	plain
+nonviolent	violent, conquering, destructive
+indiscriminate	discriminating
+effortless	effortful
+cold	tropical, scorching, balmy, warm, hot, sweltering
+boorish	charming, courtly, chivalrous, dignified, enchanting
+deprived	privileged
+dexterous	clumsy, awkward
+unseaworthy	seaworthy
+proscriptive	prescriptive
+puny	great, burly, mighty, grand, majestic, huge, powerful, magnificent
+predetermined	unpredictable
+rustic	sophisticated
+wiggly	stiff
+accepting	unaccepting
+tainted	pristine
+adorned	undecorated, unadorned
+contentious	passe
+defeated	conquering, undefeated, triumphant, jubilant, attacking, winning, rampaging
+enlightened	unenlightened
+irritating	soothing
+humdrum	extraordinary
+unpleasant	gay, agreeable, enjoyable, pleasurable, pleasant
+emotional	emotionless, rational, mechanical, unemotional
+punk	straightlaced, conservative
+unendearing	endearing
+sedentary	energetic, restless
+monochrome	patchy
+analytic	synthetic
+pornographic	prim
+expectant	surprised
+irate	pleasant
+unapproachable	humble, affable, friendly, unpretentious, informal, gracious, companionable, accessible, approachable
+blackandwhite	multicolored
+nonpartisan	brainwashed
+evocative	unremarkable
+surefooted	awkward, skittish
+irresistible	uninteresting
+retrograde	direct
+bare	shaggy, covered, robed, overdressed
+experienced	untrained, inexperienced
+vast	small
+coldblooded	caring
+wobbly	sturdy, steady
+livable	unlivable, unliveable
+unmerciful	merciful
+macabre	upbeat
+unliveable	livable
+melodic	unmusical, shrill, unmelodious
+gushing	dry
+exhaustive	undisciplined
+notable	unremarkable
+human	inhuman
+irrational	cerebral, rational
+gallant	ungallant
+pungent	bland
+negligible	significant
+licentious	prudish
+hedonistic	puritanical
+undemocratic	democratic
+knobbly	smooth
+balding	handsome
+sluggish	perky, swift, peppy, vigorous, energetic, quick, sprightly, dynamic, keen, hyperactive
+imperturbable	anxious
+hardened	delicate, soft, weakened, untempered
+cohesive	incoherent, fragmented, chaotic, disorderly, untidy, disorganized
+sitting	standing, retired
+iridescent	dim
+free	enslaved, shackled, oppressed, indentured, manacled, captive, addicted, unfree, caged, constricted, bound, chained, trapped
+intolerant	tolerant
+satisfying	unsatisfying
+allknowing	ignorant
+approachable	untouchable, unapproachable
+unromantic	romantic
+crushed	conquering, winning
+gradual	steep, abrupt, sudden
+nonpolitical	political
+twisty	linear, straight
+immature	old, ripe, dreaded, mature
+counterfeit	genuine
+cute	disgusting, fearsome, unsightly, dreaded, threatening, nasty, ugly
+picturesque	disgusting, scarred, spoiled, unattractive, ugly
+anemic	fullblooded
+husky	frail
+bewildering	understandable
+hyperactive	sluggish
+toneless	toned
+imperishable	perishable
+gaunt	muscular
+healthful	poisonous, unsanitary, unhealthy, unhygienic
+glum	mordant
+cluttered	regimented
+coordinated	uncoordinated
+unfair	just, impartial, fair, fortunate
+brawny	wimpy, skinny, scrawny, weak, lean
+rebellious	conservative, obedient
+uncontroversial	controversial
+obedient	impudent, arrogant, disobedient, reigning, leading, insubordinate, haughty, defiant, ruling, rebellious
+traumatized	pampered, spoiled
+improper	proper
+non-addictive	habitforming
+encompassing	minor
+constant	capricious, fickle, inconstant
+clunky	fluid, streamlined, poised, manoeuvrable, aerodynamic
+simplistic	multifaceted
+flightless	airworthy
+crunchy	soggy
+sticky	dry
+languid	wired, frenetic, hardworking
+trusting	skeptical, suspicious, distrustful
+essential	inessential, unessential
+comprehensive	incomplete, patchy
+restrained	greedy, voracious, emancipated, liberated, unrestrained
+aweinspiring	banal
+adroit	clumsy, maladroit
+crass	honorable, artistic, charming, genteel, decorous, courtly, sensitive, chivalrous, dignified, godly, cultured
+communist	corporate
+spacious	constrictive, confining, cramped, claustrophobic
+ordinary	special, extraordinary
+immaculate	filthy, dirty
+selfrighteous	modest
+unlawful	lawful, legal
+unimaginative(	dashing, imaginative, creative
+incendiary	passive, inert, calm

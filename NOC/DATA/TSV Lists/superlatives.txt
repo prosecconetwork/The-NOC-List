@@ -1,0 +1,5474 @@
+Root	Superlative
+able	ablest
+hilarious	most hilarious
+absolute	most absolute
+absurd	absurdest
+active	most active
+acute	most acute
+adroit	most adroit
+airy	airiest
+alert	most alert
+amazing	most amazing
+ancient	most ancient
+angry	angriest
+astute	most astute
+austere	most austere
+awesome	most awesome
+awful	most awful
+awkward	awkwardest
+bad	worst
+bald	baldest
+balmy	balmiest
+bare	barest
+barren	barrenest
+batty	battiest
+bawdy	bawdiest
+beautiful	most beautiful
+beefy	beefiest
+big	biggest
+bitchy	bitchiest
+bitter	bitterest
+black	blackest
+bland	blandest
+blank	blankest
+bleak	bleakest
+blessed	blessedest
+blind	blindest
+blithe	blithest
+blonde	blondest
+bloody	bloodiest
+bloodthirsty	bloodthirstiest
+blue	bluest
+blunt	bluntest
+blurry	blurriest
+bold	boldest
+bony	boniest
+bouncy	bounciest
+brash	brashest
+brassy	brassiest
+brave	bravest
+brawny	brawniest
+breezy	breeziest
+brief	briefest
+bright	brightest
+briny	briniest
+brisk	briskest
+brittle	brittlest
+broad	broadest
+broody	broodiest
+brown	brownest
+bubbly	bubbliest
+bulky	bulkiest
+bumpy	bumpiest
+burly	burliest
+bushy	bushiest
+busy	busiest
+buttery	butteriest
+calm	calmest
+canny	canniest
+capable	capablest
+careful	carefullest
+catchy	catchiest
+catty	cattiest
+chaste	chastest
+chatty	chattiest
+cheap	cheapest
+cheeky	cheekiest
+cheerful	most cheerful
+cheery	cheeriest
+cheesy	cheesiest
+chewy	chewiest
+chic	chicest
+chill	chillest
+chilly	chilliest
+chirpy	chirpiest
+choppy	choppiest
+chubby	chubbiest
+chunky	chunkiest
+clammy	clammiest
+classy	classiest
+clean	cleanest
+clear	clearest
+clever	cleverest
+close	closest
+cloudy	cloudiest
+clumsy	clumsiest
+clunky	clunkiest
+coarse	coarsest
+cocky	cockiest
+cold	coldest
+comfy	comfiest
+common	commonest
+compact	most compact
+complete	most complete
+concise	most concise
+cool	coolest
+corny	corniest
+cosy	coziest
+costly	costliest
+courtly	courtliest
+coy	coyest
+cozy	coziest
+crafty	craftiest
+craggy	craggiest
+cranky	crankiest
+crass	crassest
+crazy	craziest
+creaky	creakiest
+creamy	creamiest
+creepy	creepiest
+crisp	crispest
+crispy	crispiest
+crooked	crookedest
+cross	crossest
+crude	crudest
+cruel	cruelest
+crumbly	crumbliest
+crunchy	crunchiest
+crusty	crustiest
+cuddly	cuddliest
+cunning	most cunning
+curious	most curious
+curly	curliest
+curvy	curviest
+cushy	cushiest
+cute	cutest
+daft	daftest
+dainty	daintiest
+damned	damnedest
+damp	dampest
+dandy	dandiest
+dank	dankest
+dark	darkest
+darned	darnedest
+dead	deadest
+deadly	deadliest
+deaf	deafest
+dear	dearest
+decent	most decent
+deep	deepest
+deft	deftest
+demure	demurest
+dense	densest
+devout	devoutest
+dim	dimmest
+dingy	dingiest
+direct	directest
+dire	direst
+dirty	dirtiest
+discreet	most discreet
+dismal	most dismal
+distinct	most distinct
+dizzy	dizziest
+dour	dourest
+downy	downiest
+drab	drabbest
+drafty	draftiest
+dreamy	dreamiest
+dreary	dreariest
+dressy	dressiest
+drippy	drippiest
+droopy	droopiest
+drunk	drunkest
+dry	driest
+dull	dullest
+dumb	dumbest
+dumpy	dumpiest
+dusty	dustiest
+eager	eagerest
+earthy	earthiest
+edgy	edgiest
+eerie	eeriest
+elite	elitest
+empty	emptiest
+evil	most evil
+exact	most exact
+extreme	most extreme
+faint	faintest
+fair	fairest
+fat	fattest
+fatty	fattiest
+fearful	most fearful
+feeble	feeblest
+feisty	feistiest
+fickle	ficklest
+fierce	fiercest
+fiery	fieriest
+filthy	filthiest
+fine	finest
+finicky	finickiest
+firm	firmest
+fishy	fishiest
+fit	fittest
+flabby	flabbiest
+flaky	flakiest
+flashy	flashiest
+flat	flattest
+fleet	fleetest
+fleshy	fleshiest
+flighty	flightiest
+flimsy	flimsiest
+flinty	flintiest
+floppy	floppiest
+fluffy	fluffiest
+foamy	foamiest
+folksy	folksiest
+foul	foulest
+frail	frailest
+frank	frankest
+free	freest
+fresh	freshest
+friendly	friendliest
+frisky	friskiest
+frizzy	frizziest
+frosty	frostiest
+frothy	frothiest
+fruitful	most fruitful
+fruity	fruitiest
+frumpy	frumpiest
+fugly	fugliest
+full	fullest
+fun	most fun
+funky	funkiest
+funny	funniest
+furry	furriest
+fussy	fussiest
+fuzzy	fuzziest
+game	gamest
+gaudy	gaudiest
+gaunt	gauntest
+gay	gayest
+genteel	genteelest
+gentle	gentlest
+giddy	giddiest
+glad	gladdest
+glib	glibbest
+gloomy	gloomiest
+glossy	glossiest
+godly	godliest
+golden	most golden
+goofy	goofiest
+grand	grandest
+grateful	most grateful
+grave	gravest
+gray	grayest
+greasy	greasiest
+great	greatest
+greedy	greediest
+green	greenest
+grey	greyest
+grimy	grimiest
+grim	grimmest
+gritty	grittiest
+groggy	groggiest
+gross	grossest
+gruff	gruffest
+grumpy	grumpiest
+guilty	guiltiest
+hairy	hairiest
+handy	handiest
+handsome	handsomest
+happy	happiest
+hard	hardest
+hardy	hardiest
+harsh	harshest
+haughty	haughtiest
+hazy	haziest
+heady	headiest
+healthy	healthiest
+heavenly	heavenliest
+heavy	heaviest
+hefty	heftiest
+high	highest
+hoarse	hoarsest
+holy	holiest
+hollow	hollowest
+homely	homeliest
+honest	most honest
+horny	horniest
+hot	hottest
+huge	most enormous
+humble	humblest
+hungry	hungriest
+husky	huskiest
+idle	idlest
+impure	impurest
+inky	inkiest
+innocent	most innocent
+intense	most intense
+itchy	itchiest
+jolly	jolliest
+joyful	most joyful
+juicy	juiciest
+jumpy	jumpiest
+keen	keenest
+kind	kindest
+kingly	kingliest
+kinky	kinkiest
+lacy	laciest
+lame	lamest
+lanky	lankiest
+large	largest
+lazy	laziest
+leaky	leakiest
+lean	leanest
+leggy	leggiest
+lengthy	lengthiest
+light	lightest
+limp	limpest
+little	littlest
+lithe	lithest
+lively	liveliest
+lofty	loftiest
+lonely	loneliest
+lonesome	lonesomest
+long	longest
+loony	looniest
+loopy	loopiest
+loose	loosest
+lordly	lordliest
+loud	loudest
+lovely	loveliest
+lowly	lowliest
+loyal	loyalest
+lucky	luckiest
+lush	lushest
+lusty	lustiest
+mad	maddest
+manly	manliest
+mature	maturest
+mean	meanest
+meaty	meatiest
+meek	meekest
+mellow	mellowest
+merry	merriest
+messy	messiest
+mighty	mightiest
+mild	mildest
+milky	milkiest
+minute	most minute
+modest	most modest
+moist	moistest
+moody	moodiest
+mucky	muckiest
+muddy	muddiest
+murky	murkiest
+mushy	mushiest
+musty	mustiest
+mute	most mute
+naive	most naive
+naked	most naked
+narrow	narrowest
+nasty	nastiest
+naughty	naughtiest
+neat	neatest
+new	newest
+nice	nicest
+nimble	nimblest
+noble	noblest
+noisy	noisiest
+numb	numbest
+nutty	nuttiest
+odd	oddest
+oily	oiliest
+old	oldest
+open	most open
+ornery	orneriest
+painful	most painful
+pale	palest
+pasty	pastiest
+patchy	patchiest
+patient	most patient
+peaceful	most peaceful
+peachy	peachiest
+peppy	peppiest
+perfect	most perfect
+perky	perkiest
+pert	pertest
+phony	phoniest
+pink	pinkest
+plain	plainest
+pleasant	most pleasant
+plucky	pluckiest
+plump	plumpest
+plush	plushest
+polite	politest
+poor	poorest
+precise	most precise
+pretty	prettiest
+prickly	prickliest
+prim	primmest
+private	privatest
+profound	profoundest
+prompt	promptest
+proper	most proper
+proud	proudest
+puffy	puffiest
+puny	puniest
+punk	punkest
+pure	purest
+purple	purplest
+quaint	quaintest
+queer	queerest
+quick	quickest
+quiet	quietest
+quirky	quirkiest
+racy	raciest
+ragged	raggedest
+randy	randiest
+rangy	rangiest
+rank	rankest
+rapid	rapidest
+rare	rarest
+raunchy	raunchiest
+raw	rawest
+red	reddest
+remote	remotest
+rich	richest
+ripe	ripest
+risky	riskiest
+roaring	most roaring
+robust	robustest
+rocky	rockiest
+roomy	roomiest
+rosy	rosiest
+rotten	rottenest
+rough	roughest
+round	roundest
+rowdy	rowdiest
+rude	rudest
+rugged	ruggedest
+runny	runniest
+rusty	rustiest
+sad	saddest
+safe	safest
+saintly	saintliest
+salty	saltiest
+sandy	sandiest
+sappy	sappiest
+savage	savagest
+scaly	scaliest
+scarce	scarcest
+scary	scariest
+scrappy	scrappiest
+scratchy	scratchiest
+scrawny	scrawniest
+scummy	scummiest
+secret	secretest
+secure	securest
+seedy	seediest
+sensible	sensiblest
+serene	serenest
+severe	most severe
+sexy	sexiest
+shabby	shabbiest
+shady	shadiest
+shaggy	shaggiest
+shaky	shakiest
+shallow	shallowest
+shapely	shapeliest
+sharp	sharpest
+sheer	sheerest
+shifty	shiftiest
+shiny	shiniest
+short	shortest
+showy	showiest
+shrewd	shrewdest
+shrill	shrillest
+shy	shyest
+sick	sickest
+silky	silkiest
+silly	silliest
+simple	simplest
+sincere	sincerest
+skimpy	skimpiest
+skinny	skinniest
+sleazy	sleaziest
+sleek	sleekest
+sleepy	sleepiest
+slender	slenderest
+slick	slickest
+slight	slightest
+slim	slimmest
+slimy	slimiest
+slippery	slipperiest
+sloppy	sloppiest
+slow	slowest
+sly	slyest
+small	smallest
+smart	smartest
+smelly	smelliest
+smoky	smokiest
+smooth	smoothest
+smug	smuggest
+snappy	snappiest
+sneaky	sneakiest
+snowy	snowiest
+snug	snuggest
+sober	most sober
+soft	softest
+soggy	soggiest
+solemn	solemnest
+solid	solidest
+soppy	soppiest
+sore	sorest
+sorry	sorriest
+sound	soundest
+sour	sourest
+sparkly	sparkliest
+sparse	sparsest
+special	most special
+speedy	speediest
+spicy	spiciest
+spiky	spikiest
+splashy	splashiest
+spongy	spongiest
+spooky	spookiest
+sporty	sportiest
+spotty	spottiest
+spry	spryest
+sprightly	sprightliest
+springy	springiest
+spunky	spunkiest
+square	squarest
+squishy	squishiest
+stable	stablest
+staid	staidest
+stale	stalest
+stark	starkest
+stately	stateliest
+staunch	staunchest
+steady	steadiest
+stealthy	stealthiest
+steamy	steamiest
+steely	steeliest
+steep	steepest
+stern	sternest
+sticky	stickiest
+stiff	stiffest
+still	stillest
+stingy	stingiest
+stinky	stinkiest
+stout	stoutest
+straight	straightest
+strange	strangest
+stretchy	stretchiest
+strict	strictest
+stringy	stringiest
+strong	strongest
+stubborn	stubbornest
+stupid	stupidest
+sturdy	sturdiest
+suave	suavest
+sublime	sublimest
+subtle	subtlest
+sugary	sugariest
+sunny	sunniest
+super	most super
+supple	supplest
+swanky	swankiest
+swarthy	swarthiest
+sweet	sweetest
+swift	swiftest
+tall	tallest
+tame	tamest
+tangy	tangiest
+tan	tannest
+tart	tartest
+tasty	tastiest
+taut	tautest
+teeny	teeniest
+tender	tenderest
+tense	tensest
+terse	tersest
+thick	thickest
+thin	thinnest
+thirsty	thirstiest
+thorny	thorniest
+thorough	thoroughest
+tidy	tidiest
+tight	tightest
+timid	timidest
+tiny	tiniest
+tinny	tinniest
+tired	most tired
+tough	toughest
+tricky	trickiest
+trim	trimmest
+trivial	trivialest
+true	truest
+trusty	trustiest
+trustworthy	trustworthiest
+twisty	twistiest
+ugly	ugliest
+uncanny	uncanniest
+uneasy	uneasiest
+unfair	unfairest
+unfit	unfittest
+unfriendly	unfriendliest
+unfunny	unfunniest
+unhappy	unhappiest
+unhealthy	unhealthiest
+unkind	unkindest
+unlucky	unluckiest
+unruly	unruliest
+unsafe	unsafest
+unsexy	unsexiest
+untidy	untidiest
+vague	vaguest
+vain	vainest
+vast	vastest
+vile	vilest
+vivid	vividest
+vulgar	vulgarest
+wacky	wackiest
+wary	wariest
+warm	warmest
+warty	wartiest
+wavy	waviest
+weak	weakest
+wealthy	wealthiest
+weighty	weightiest
+weird	weirdest
+wet	wettest
+whacky	whackiest
+white	whitest
+wicked	wickedest
+wide	widest
+wiggly	wiggliest
+wild	wildest
+wily	wiliest
+willing	most willing
+windy	windiest
+winning	most winning
+wintry	wintriest
+wise	wisest
+wispy	wispiest
+witty	wittiest
+wobbly	wobbliest
+womanly	womanliest
+woody	woodiest
+woolly	woolliest
+worthy	worthiest
+wretched	wretchedest
+good	best
+wrong	worst
+yellow	yellowest
+young	youngest
+yummy	yummiest
+Byzantine	most Byzantine
+Catholic	most Catholic
+Christian	most Christian
+abandoned	most abandoned
+abhorrent	most abhorrent
+abiding	most abiding
+abnormal	most abnormal
+aboriginal	most aboriginal
+aborted	most aborted
+abrasive	most abrasive
+abridged	most abridged
+abroad	most abroad
+abrupt	most abrupt
+absent	most absent
+absentminded	most absentminded
+absorbent	most absorbent
+absorbing	most absorbing
+abstinent	most abstinent
+abstract	most abstract
+abundant	most abundant
+abused	most abused
+abusing	most abusing
+abusive	most abusive
+accelerating	most accelerating
+acceptable	most acceptable
+accepted	most accepted
+accepting	most accepting
+accessible	most accessible
+acclaimed	most acclaimed
+accommodated	most accommodated
+accommodating	most accommodating
+accompanying	most accompanying
+accomplished	most accomplished
+accountable	most accountable
+accounting	most accounting
+accredited	most accredited
+accrued	most accrued
+accumulated	most accumulated
+accurate	most accurate
+accused	most accused
+accusing	most accusing
+acerbic	most acerbic
+achieved	most achieved
+aching	most aching
+acid	most acid
+acidic	most acidic
+acknowledged	most acknowledged
+acknowledging	most acknowledging
+acquired	most acquired
+acrid	most acrid
+acrobatic	most acrobatic
+acting	most acting
+activated	most activated
+activating	most activating
+activist	most activist
+adaptable	most adaptable
+adaptive	most adaptive
+addicted	most addicted
+addicting	most addicting
+addictive	most addictive
+adding	most adding
+addled	most addled
+addressed	most addressed
+adept	most adept
+adequate	most adequate
+adhering	most adhering
+adjoining	most adjoining
+adjustable	most adjustable
+adjusted	most adjusted
+administered	most administered
+admirable	most admirable
+admired	most admired
+admiring	most admiring
+admitted	most admitted
+adolescent	most adolescent
+adopted	most adopted
+adopting	most adopting
+adorable	most adorable
+adored	most adored
+adoring	most adoring
+adorned	most adorned
+advanced	most advanced
+advancing	most advancing
+advantageous	most advantageous
+adventuring	most adventuring
+adventurous	most adventurous
+advertised	most advertised
+advertising	most advertising
+advising	most advising
+advocating	most advocating
+aerated	most aerated
+aerodynamic	most aerodynamic
+aesthetic	most aesthetic
+affable	most affable
+affecting	most affecting
+affectionate	most affectionate
+affirmative	most affirmative
+affirmed	most affirmed
+affluent	most affluent
+affordable	most affordable
+afraid	most afraid
+aged	most aged
+ageless	most ageless
+aggravated	most aggravated
+aggravating	most aggravating
+aggressive	most aggressive
+agile	most agile
+aging	most aging
+agitated	most agitated
+agitating	most agitating
+agonizing	most agonizing
+agreeable	most agreeable
+agreed	most agreed
+aimed	most aimed
+aiming	most aiming
+aimless	most aimless
+airbrushed	most airbrushed
+airless	most airless
+airtight	most airtight
+alarming	most alarming
+alcoholic	most alcoholic
+alien	most alien
+alienated	most alienated
+aligned	most aligned
+alive	most alive
+alkaline	most alkaline
+alleged	most alleged
+alleging	most alleging
+allied	most allied
+allocated	most allocated
+alluring	most alluring
+alluvial	most alluvial
+alone	most alone
+aloof	most aloof
+altering	most altering
+altruistic	most altruistic
+amber	most amber
+ambiguous	most ambiguous
+ambitious	most ambitious
+amended	most amended
+amiable	most amiable
+amicable	most amicable
+amoral	most amoral
+amorous	most amorous
+amorphous	most amorphous
+amplified	most amplified
+amusing	most amusing
+anachronistic	most anachronistic
+anal	most anal
+analog	most analog
+analogue	most analogue
+analytical	most analytical
+analyzed	most analyzed
+anchored	most anchored
+anchoring	most anchoring
+angelic	most angelic
+angered	most angered
+angled	most angled
+angling	most angling
+anguished	most anguished
+angular	most angular
+animated	most animated
+annotated	most annotated
+annoying	most annoying
+anointed	most anointed
+anomalous	most anomalous
+anonymous	most anonymous
+anorexic	most anorexic
+answered	most answered
+anthologized	most anthologized
+anticipated	most anticipated
+anticipating	most anticipating
+antiquated	most antiquated
+antique	most antique
+antiseptic	most antiseptic
+antisocial	most antisocial
+antsy	most antsy
+anxious	most anxious
+apathetic	most apathetic
+apologetic	most apologetic
+appalling	most appalling
+apparent	most apparent
+appealed	most appealed
+appealing	most appealing
+appetizing	most appetizing
+applicable	most applicable
+applied	most applied
+applying	most applying
+appointed	most appointed
+appreciated	most appreciated
+appreciating	most appreciating
+appreciative	most appreciative
+approachable	most approachable
+approved	most approved
+aquatic	most aquatic
+arbitrary	most arbitrary
+arcane	most arcane
+archaic	most archaic
+arched	most arched
+architectural	most architectural
+archived	most archived
+archiving	most archiving
+ardent	most ardent
+arduous	most arduous
+arguing	most arguing
+arid	most arid
+aristocratic	most aristocratic
+armed	most armed
+armored	most armored
+armoured	most armoured
+aromatic	most aromatic
+aroused	most aroused
+arousing	most arousing
+arranged	most arranged
+arrested	most arrested
+arresting	most arresting
+arrogant	most arrogant
+artful	most artful
+articulate	most articulate
+articulated	most articulated
+articulating	most articulating
+artificial	most artificial
+artistic	most artistic
+artless	most artless
+ascending	most ascending
+aspiring	most aspiring
+assaulted	most assaulted
+assembled	most assembled
+asserted	most asserted
+assertive	most assertive
+assessed	most assessed
+assessing	most assessing
+asset	most asset
+assiduous	most assiduous
+assigned	most assigned
+assisting	most assisting
+assumed	most assumed
+assured	most assured
+astonishing	most astonishing
+astounding	most astounding
+athletic	most athletic
+atmospheric	most atmospheric
+atrophied	most atrophied
+attached	most attached
+attaching	most attaching
+attacked	most attacked
+attacking	most attacking
+attained	most attained
+attended	most attended
+attending	most attending
+attentive	most attentive
+attenuated	most attenuated
+attenuating	most attenuating
+attracting	most attracting
+attractive	most attractive
+audacious	most audacious
+audible	most audible
+auditing	most auditing
+august	most august
+auspicious	most auspicious
+authentic	most authentic
+authenticated	most authenticated
+authoring	most authoring
+authoritarian	most authoritarian
+authoritative	most authoritative
+authorized	most authorized
+autographed	most autographed
+automated	most automated
+automatic	most automatic
+autonomous	most autonomous
+avid	most avid
+avowed	most avowed
+awakening	most awakening
+awarded	most awarded
+aware	most aware
+awed	most awed
+backbreaking	most backbreaking
+backhanded	most backhanded
+backing	most backing
+backpacking	most backpacking
+backstabbing	most backstabbing
+baffled	most baffled
+baffling	most baffling
+baiting	most baiting
+baked	most baked
+baking	most baking
+balanced	most balanced
+balancing	most balancing
+balding	most balding
+banal	most banal
+banded	most banded
+banding	most banding
+banged	most banged
+banging	most banging
+banked	most banked
+banking	most banking
+banned	most banned
+baptized	most baptized
+barbaric	most barbaric
+barbarous	most barbarous
+barbed	most barbed
+barefaced	most barefaced
+bargaining	most bargaining
+barking	most barking
+barred	most barred
+bashful	most bashful
+basic	most basic
+battered	most battered
+battering	most battering
+batting	most batting
+beaded	most beaded
+beaked	most beaked
+beaming	most beaming
+bearded	most bearded
+bearing	most bearing
+beaten	most beaten
+beating	most beating
+beautifying	most beautifying
+beckoning	most beckoning
+bedraggled	most bedraggled
+befuddled	most befuddled
+begging	most begging
+beginning	most beginning
+beguiling	most beguiling
+bejeweled	most bejeweled
+believable	most believable
+believed	most believed
+believing	most believing
+belligerent	most belligerent
+beloved	most beloved
+benchmarked	most benchmarked
+benchmarking	most benchmarking
+bendable	most bendable
+bending	most bending
+beneficial	most beneficial
+benevolent	most benevolent
+benign	most benign
+bent	most bent
+bereaved	most bereaved
+bereft	most bereft
+besieged	most besieged
+besotted	most besotted
+bestselling	most bestselling
+betrayed	most betrayed
+betraying	most betraying
+betting	most betting
+bewildered	most bewildered
+bewildering	most bewildering
+bewitching	most bewitching
+biased	most biased
+biddable	most biddable
+bidding	most bidding
+bigoted	most bigoted
+billing	most billing
+binding	most binding
+biological	most biological
+birthing	most birthing
+bitching	most bitching
+biting	most biting
+bizarre	most bizarre
+blackened	most blackened
+blacklisted	most blacklisted
+blamed	most blamed
+blameless	most blameless
+blaring	most blaring
+blasphemous	most blasphemous
+blasted	most blasted
+blasting	most blasting
+blatant	most blatant
+blazing	most blazing
+bleached	most bleached
+bleaching	most bleaching
+bleeding	most bleeding
+blemished	most blemished
+blended	most blended
+blending	most blending
+blessing	most blessing
+blighted	most blighted
+blinded	most blinded
+blinding	most blinding
+blistering	most blistering
+blithering	most blithering
+bloated	most bloated
+blocked	most blocked
+blocking	most blocking
+blogged	most blogged
+blogging	most blogging
+blond	most blond
+bloodcurdling	most bloodcurdling
+bloodied	most bloodied
+bloodless	most bloodless
+blooming	most blooming
+blossoming	most blossoming
+blowing	most blowing
+blundering	most blundering
+blurred	most blurred
+blushing	most blushing
+blustering	most blustering
+blustery	most blustery
+boasting	most boasting
+boating	most boating
+bodybuilding	most bodybuilding
+bogus	most bogus
+bohemian	most bohemian
+boiled	most boiled
+boiling	most boiling
+boisterous	most boisterous
+bolted	most bolted
+bombing	most bombing
+bonded	most bonded
+bonding	most bonding
+booked	most booked
+booking	most booking
+bookmarked	most bookmarked
+booming	most booming
+boosted	most boosted
+boosting	most boosting
+bordering	most bordering
+bored	most bored
+boring	most boring
+borrowed	most borrowed
+borrowing	most borrowing
+botched	most botched
+bothersome	most bothersome
+bottled	most bottled
+bottling	most bottling
+bottomless	most bottomless
+bought	most bought
+bounced	most bounced
+bouncing	most bouncing
+bound	most bound
+bounded	most bounded
+bounding	most bounding
+boundless	most boundless
+bountiful	most bountiful
+bovine	most bovine
+bowed	most bowed
+bowling	most bowling
+boxed	most boxed
+boxing	most boxing
+bracing	most bracing
+bragging	most bragging
+braided	most braided
+brainless	most brainless
+brainstorming	most brainstorming
+brainwashed	most brainwashed
+brainwashing	most brainwashing
+braking	most braking
+branched	most branched
+branching	most branching
+branded	most branded
+branding	most branding
+brazen	most brazen
+breached	most breached
+breakable	most breakable
+breaking	most breaking
+breastfeeding	most breastfeeding
+breathing	most breathing
+breathless	most breathless
+breathtaking	most breathtaking
+breeding	most breeding
+brewed	most brewed
+brewing	most brewing
+brilliant	most brilliant
+broadcasted	most broadcasted
+broadcasting	most broadcasting
+broadening	most broadening
+broadminded	most broadminded
+broke	most broke
+broken	most broken
+bronzed	most bronzed
+brooding	most brooding
+browsed	most browsed
+browsing	most browsing
+bruised	most bruised
+brushed	most brushed
+brusque	most brusque
+brutal	most brutal
+brutalized	most brutalized
+brutalizing	most brutalizing
+brutish	most brutish
+bubbling	most bubbling
+budding	most budding
+buff	most buff
+buffed	most buffed
+buffered	most buffered
+buffering	most buffering
+building	most building
+built	most built
+bulging	most bulging
+bullied	most bullied
+bullying	most bullying
+bumbling	most bumbling
+bumping	most bumping
+bumptious	most bumptious
+bundled	most bundled
+bungling	most bungling
+buoyant	most buoyant
+burdened	most burdened
+burdening	most burdening
+burdensome	most burdensome
+bureaucratic	most bureaucratic
+burgeoning	most burgeoning
+buried	most buried
+burned	most burned
+burning	most burning
+burnished	most burnished
+burnt	most burnt
+burrowing	most burrowing
+burst	most burst
+bursting	most bursting
+busted	most busted
+bustling	most bustling
+butch	most butch
+butchered	most butchered
+buttoned	most buttoned
+buxom	most buxom
+buying	most buying
+buzzing	most buzzing
+cabled	most cabled
+caching	most caching
+cacophonous	most cacophonous
+cadaverous	most cadaverous
+caffeinated	most caffeinated
+caged	most caged
+calcified	most calcified
+calculated	most calculated
+calculating	most calculating
+calibrated	most calibrated
+callous	most callous
+calloused	most calloused
+callused	most callused
+calming	most calming
+calving	most calving
+camouflaged	most camouflaged
+camp	most camp
+campaigning	most campaigning
+camping	most camping
+cancelled	most cancelled
+candid	most candid
+canned	most canned
+canning	most canning
+canonized	most canonized
+cantankerous	most cantankerous
+capacious	most capacious
+capitalistic	most capitalistic
+capitalized	most capitalized
+capped	most capped
+capping	most capping
+capricious	most capricious
+captivating	most captivating
+captured	most captured
+capturing	most capturing
+carbonated	most carbonated
+carefree	most carefree
+careless	most careless
+caressing	most caressing
+caricatured	most caricatured
+caring	most caring
+carnivorous	most carnivorous
+carpeted	most carpeted
+carpeting	most carpeting
+carried	most carried
+carrying	most carrying
+carved	most carved
+carving	most carving
+cashed	most cashed
+casing	most casing
+casting	most casting
+casual	most casual
+cataloging	most cataloging
+catalogued	most catalogued
+catastrophic	most catastrophic
+catching	most catching
+categorized	most categorized
+catered	most catered
+catering	most catering
+cautious	most cautious
+celebrated	most celebrated
+celebrating	most celebrating
+cemented	most cemented
+centered	most centered
+central	most central
+centralized	most centralized
+centralizing	most centralizing
+cerebral	most cerebral
+certified	most certified
+certifying	most certifying
+chained	most chained
+challenged	most challenged
+challenging	most challenging
+changeable	most changeable
+changeful	most changeful
+changing	most changing
+channeled	most channeled
+chanted	most chanted
+chaotic	most chaotic
+chapped	most chapped
+characteristic	most characteristic
+charged	most charged
+charging	most charging
+charismatic	most charismatic
+charitable	most charitable
+charmed	most charmed
+charming	most charming
+charted	most charted
+chartered	most chartered
+charting	most charting
+chased	most chased
+chastened	most chastened
+chastening	most chastening
+chastised	most chastised
+chatting	most chatting
+cheated	most cheated
+cheating	most cheating
+checkered	most checkered
+checking	most checking
+cheering	most cheering
+cheerless	most cheerless
+chequered	most chequered
+cherished	most cherished
+chewed	most chewed
+chewing	most chewing
+childish	most childish
+chilled	most chilled
+chilling	most chilling
+chipped	most chipped
+chipper	most chipper
+chiseled	most chiseled
+chivalrous	most chivalrous
+chlorinated	most chlorinated
+choked	most choked
+choking	most choking
+choosing	most choosing
+chopped	most chopped
+chopping	most chopping
+choreographed	most choreographed
+chronic	most chronic
+chuffed	most chuffed
+churlish	most churlish
+circuitous	most circuitous
+circular	most circular
+circulated	most circulated
+circulating	most circulating
+circumspect	most circumspect
+cited	most cited
+civilized	most civilized
+clamping	most clamping
+clandestine	most clandestine
+clarified	most clarified
+clarion	most clarion
+clashing	most clashing
+classic	most classic
+classical	most classical
+classified	most classified
+claustrophobic	most claustrophobic
+cleaning	most cleaning
+cleansing	most cleansing
+clearcut	most clearcut
+clearing	most clearing
+cliched	most cliched
+clich?d	most clich?d
+clicked	most clicked
+climactic	most climactic
+climbed	most climbed
+climbing	most climbing
+clinging	most clinging
+clinical	most clinical
+clipped	most clipped
+clipping	most clipping
+cloaked	most cloaked
+clogged	most clogged
+clogging	most clogging
+cloistered	most cloistered
+cloned	most cloned
+closed	most closed
+clotting	most clotting
+clouded	most clouded
+clueless	most clueless
+clumping	most clumping
+clustering	most clustering
+clutching	most clutching
+cluttered	most cluttered
+coaching	most coaching
+coated	most coated
+coating	most coating
+coddled	most coddled
+coded	most coded
+codified	most codified
+coding	most coding
+coercive	most coercive
+coherent	most coherent
+cohesive	most cohesive
+coiled	most coiled
+coldblooded	most coldblooded
+collaborating	most collaborating
+collaborative	most collaborative
+collapsed	most collapsed
+collectable	most collectable
+collected	most collected
+collectible	most collectible
+collecting	most collecting
+collimated	most collimated
+colonized	most colonized
+colonizing	most colonizing
+colored	most colored
+colorful	most colorful
+coloring	most coloring
+colorless	most colorless
+colossal	most colossal
+colourful	most colourful
+colourless	most colourless
+combined	most combined
+combining	most combining
+combustible	most combustible
+comfortable	most comfortable
+comforting	most comforting
+comic	most comic
+commanded	most commanded
+commanding	most commanding
+commemorated	most commemorated
+commendable	most commendable
+commended	most commended
+commenting	most commenting
+commercial	most commercial
+commissioned	most commissioned
+commissioning	most commissioning
+committed	most committed
+commodious	most commodious
+commoditized	most commoditized
+commonplace	most commonplace
+communal	most communal
+communicated	most communicated
+communicating	most communicating
+communicative	most communicative
+commuting	most commuting
+companionable	most companionable
+compassionate	most compassionate
+compelling	most compelling
+compendious	most compendious
+compensated	most compensated
+competent	most competent
+competing	most competing
+competitive	most competitive
+compiled	most compiled
+compiling	most compiling
+complacent	most complacent
+complaining	most complaining
+completed	most completed
+complex	most complex
+compliant	most compliant
+complicated	most complicated
+complying	most complying
+composed	most composed
+composing	most composing
+compositing	most compositing
+comprehensive	most comprehensive
+compressed	most compressed
+compressible	most compressible
+compromising	most compromising
+compulsive	most compulsive
+computed	most computed
+computerised	most computerised
+computerized	most computerized
+computing	most computing
+concave	most concave
+concealed	most concealed
+concealing	most concealing
+conceited	most conceited
+conceived	most conceived
+concentrated	most concentrated
+concerned	most concerned
+concerning	most concerning
+concluded	most concluded
+concluding	most concluding
+conclusive	most conclusive
+concrete	most concrete
+condemned	most condemned
+condemning	most condemning
+condensed	most condensed
+condescending	most condescending
+conditioned	most conditioned
+conditioning	most conditioning
+conducted	most conducted
+conducting	most conducting
+conductive	most conductive
+confessed	most confessed
+confident	most confident
+confidential	most confidential
+confiding	most confiding
+configured	most configured
+confined	most confined
+confining	most confining
+confirmed	most confirmed
+confiscated	most confiscated
+conflicting	most conflicting
+confounded	most confounded
+confounding	most confounding
+confrontational	most confrontational
+confused	most confused
+confusing	most confusing
+congenial	most congenial
+congested	most congested
+congratulatory	most congratulatory
+connected	most connected
+connecting	most connecting
+conniving	most conniving
+conquered	most conquered
+conquering	most conquering
+conscienceless	most conscienceless
+conscientious	most conscientious
+conscious	most conscious
+consecrated	most consecrated
+conservative	most conservative
+considerable	most considerable
+considerate	most considerate
+considered	most considered
+considering	most considering
+consistent	most consistent
+consolidated	most consolidated
+consolidating	most consolidating
+conspicuous	most conspicuous
+constant	most constant
+constipated	most constipated
+constrained	most constrained
+constraining	most constraining
+constricted	most constricted
+constricting	most constricting
+constrictive	most constrictive
+constructed	most constructed
+constructive	most constructive
+consultative	most consultative
+consulted	most consulted
+consulting	most consulting
+consuming	most consuming
+contagious	most contagious
+contaminated	most contaminated
+contaminating	most contaminating
+contemplated	most contemplated
+contemplative	most contemplative
+contemporary	most contemporary
+contemptible	most contemptible
+contending	most contending
+content	most content
+contented	most contented
+contentious	most contentious
+contested	most contested
+continuing	most continuing
+continuous	most continuous
+contoured	most contoured
+contracted	most contracted
+contracting	most contracting
+contradictory	most contradictory
+contrary	most contrary
+contributing	most contributing
+contrived	most contrived
+controllable	most controllable
+controlled	most controlled
+controlling	most controlling
+convenient	most convenient
+conventional	most conventional
+conventionalized	most conventionalized
+conversational	most conversational
+converted	most converted
+converting	most converting
+conveyancing	most conveyancing
+conveying	most conveying
+convicted	most convicted
+convincing	most convincing
+convoluted	most convoluted
+cooked	most cooked
+cooking	most cooking
+cooled	most cooled
+cooling	most cooling
+cooperating	most cooperating
+cooperative	most cooperative
+coordinated	most coordinated
+copied	most copied
+copying	most copying
+copyrighted	most copyrighted
+corded	most corded
+cordial	most cordial
+corporate	most corporate
+correct	most correct
+corrected	most corrected
+corroborated	most corroborated
+corroded	most corroded
+corroding	most corroding
+corrosive	most corrosive
+corrugated	most corrugated
+corrupt	most corrupt
+corrupted	most corrupted
+corrupting	most corrupting
+cosmopolitan	most cosmopolitan
+costumed	most costumed
+counseling	most counseling
+countered	most countered
+counterfeited	most counterfeited
+counterfeiting	most counterfeiting
+counting	most counting
+coupling	most coupling
+courageous	most courageous
+courteous	most courteous
+covering	most covering
+coveted	most coveted
+covetous	most covetous
+cowardly	most cowardly
+cowed	most cowed
+cracked	most cracked
+cracking	most cracking
+crackling	most crackling
+crafted	most crafted
+crafting	most crafting
+crammed	most crammed
+cramped	most cramped
+cranking	most cranking
+crashed	most crashed
+crashing	most crashing
+cratered	most cratered
+craved	most craved
+crawling	most crawling
+crazed	most crazed
+creaking	most creaking
+created	most created
+creating	most creating
+creative	most creative
+credentialed	most credentialed
+credible	most credible
+credited	most credited
+creeping	most creeping
+crestfallen	most crestfallen
+cricketing	most cricketing
+criminal	most criminal
+criminalized	most criminalized
+crimson	most crimson
+cringing	most cringing
+crippled	most crippled
+crippling	most crippling
+critical	most critical
+cropped	most cropped
+cropping	most cropping
+crossing	most crossing
+crowded	most crowded
+crowned	most crowned
+crowning	most crowning
+crucial	most crucial
+cruising	most cruising
+crumbling	most crumbling
+crumpled	most crumpled
+crunching	most crunching
+crusading	most crusading
+crushed	most crushed
+crushing	most crushing
+crying	most crying
+crystallized	most crystallized
+culled	most culled
+culpable	most culpable
+cultivated	most cultivated
+cultivating	most cultivating
+cultural	most cultural
+cultured	most cultured
+cumbersome	most cumbersome
+cured	most cured
+curing	most curing
+curling	most curling
+current	most current
+cursed	most cursed
+cursing	most cursing
+curved	most curved
+cushioned	most cushioned
+cushioning	most cushioning
+customized	most customized
+cut	most cut
+cutthroat	most cutthroat
+cutting	most cutting
+cyclical	most cyclical
+cycling	most cycling
+cynical	most cynical
+dabbling	most dabbling
+damaging	most damaging
+dammed	most dammed
+damming	most damming
+damning	most damning
+damped	most damped
+damping	most damping
+dancing	most dancing
+dangerous	most dangerous
+daring	most daring
+darkened	most darkened
+dashed	most dashed
+dashing	most dashing
+dated	most dated
+dating	most dating
+daunting	most daunting
+dazed	most dazed
+dazzling	most dazzling
+deafening	most deafening
+dealing	most dealing
+dealt	most dealt
+debased	most debased
+debauched	most debauched
+debilitating	most debilitating
+debonair	most debonair
+debugging	most debugging
+debunked	most debunked
+decadent	most decadent
+decaffeinated	most decaffeinated
+decayed	most decayed
+decaying	most decaying
+deceased	most deceased
+deceitful	most deceitful
+deceived	most deceived
+deceiving	most deceiving
+decentralized	most decentralized
+deceptive	most deceptive
+decided	most decided
+deciding	most deciding
+decisive	most decisive
+decked	most decked
+declarative	most declarative
+declared	most declared
+declined	most declined
+decoded	most decoded
+decoding	most decoding
+decomposed	most decomposed
+decorated	most decorated
+decorating	most decorating
+decorative	most decorative
+decorous	most decorous
+decrepit	most decrepit
+dedicated	most dedicated
+defeated	most defeated
+defeating	most defeating
+defended	most defended
+defending	most defending
+defenseless	most defenseless
+defensible	most defensible
+defensive	most defensive
+deferred	most deferred
+defiant	most defiant
+defined	most defined
+defining	most defining
+definite	most definite
+definitive	most definitive
+deflated	most deflated
+deflating	most deflating
+deflected	most deflected
+deformed	most deformed
+degraded	most degraded
+degrading	most degrading
+dehumanizing	most dehumanizing
+dehydrated	most dehydrated
+delayed	most delayed
+delectable	most delectable
+deliberate	most deliberate
+delicate	most delicate
+delicious	most delicious
+delighted	most delighted
+delightful	most delightful
+delighting	most delighting
+delivered	most delivered
+delivering	most delivering
+delocalized	most delocalized
+deluded	most deluded
+delusional	most delusional
+demanding	most demanding
+demeaning	most demeaning
+demented	most demented
+democratic	most democratic
+demolished	most demolished
+demonic	most demonic
+demonstrated	most demonstrated
+demonstrating	most demonstrating
+demonstrative	most demonstrative
+demoralized	most demoralized
+demoralizing	most demoralizing
+demotivating	most demotivating
+denounced	most denounced
+denouncing	most denouncing
+denuded	most denuded
+departed	most departed
+dependable	most dependable
+dependent	most dependent
+depicting	most depicting
+depleted	most depleted
+deployed	most deployed
+depopulated	most depopulated
+deposited	most deposited
+depraved	most depraved
+depreciating	most depreciating
+depressed	most depressed
+depressing	most depressing
+deprived	most deprived
+deranged	most deranged
+deregulated	most deregulated
+derived	most derived
+descended	most descended
+descending	most descending
+describing	most describing
+descriptive	most descriptive
+desecrated	most desecrated
+deserted	most deserted
+deserved	most deserved
+deserving	most deserving
+desiccated	most desiccated
+designated	most designated
+designed	most designed
+designing	most designing
+desirable	most desirable
+desired	most desired
+desolate	most desolate
+desolated	most desolated
+despairing	most despairing
+desperate	most desperate
+despicable	most despicable
+despised	most despised
+destabilizing	most destabilizing
+destitute	most destitute
+destroying	most destroying
+destructive	most destructive
+detached	most detached
+detailed	most detailed
+detained	most detained
+detected	most detected
+deteriorating	most deteriorating
+determinate	most determinate
+determined	most determined
+deterministic	most deterministic
+deterring	most deterring
+detestable	most detestable
+detoxifying	most detoxifying
+detrimental	most detrimental
+devalued	most devalued
+devastated	most devastated
+devastating	most devastating
+developed	most developed
+developing	most developing
+developmental	most developmental
+deviating	most deviating
+devious	most devious
+devoted	most devoted
+devouring	most devouring
+dexterous	most dexterous
+diabolical	most diabolical
+diagnosed	most diagnosed
+dialed	most dialed
+diaphanous	most diaphanous
+dicey	most dicey
+dictatorial	most dictatorial
+diecast	most diecast
+dieting	most dieting
+difficult	most difficult
+diffuse	most diffuse
+diffused	most diffused
+digging	most digging
+digitized	most digitized
+digitizing	most digitizing
+dignified	most dignified
+dilapidated	most dilapidated
+dilated	most dilated
+diligent	most diligent
+dilute	most dilute
+diluted	most diluted
+dimming	most dimming
+dimwitted	most dimwitted
+diplomatic	most diplomatic
+directed	most directed
+directional	most directional
+disabled	most disabled
+disabling	most disabling
+disadvantaged	most disadvantaged
+disaffected	most disaffected
+disagreeable	most disagreeable
+disappearing	most disappearing
+disappointed	most disappointed
+disappointing	most disappointing
+disapproving	most disapproving
+disarming	most disarming
+disastrous	most disastrous
+discarded	most discarded
+discernible	most discernible
+discerning	most discerning
+discharged	most discharged
+disciplined	most disciplined
+disconcerting	most disconcerting
+disconsolate	most disconsolate
+discontented	most discontented
+discontinued	most discontinued
+discontinuous	most discontinuous
+discounted	most discounted
+discouraged	most discouraged
+discouraging	most discouraging
+discovered	most discovered
+discredited	most discredited
+discriminating	most discriminating
+discussing	most discussing
+diseased	most diseased
+disembodied	most disembodied
+disenfranchised	most disenfranchised
+disengaged	most disengaged
+disfigured	most disfigured
+disfiguring	most disfiguring
+disgraced	most disgraced
+disgraceful	most disgraceful
+disgruntled	most disgruntled
+disguised	most disguised
+disguising	most disguising
+disgusted	most disgusted
+disgusting	most disgusting
+disheartening	most disheartening
+disheveled	most disheveled
+dishonest	most dishonest
+disillusioned	most disillusioned
+disinfecting	most disinfecting
+disingenuous	most disingenuous
+disinherited	most disinherited
+disintegrating	most disintegrating
+disinterested	most disinterested
+disjointed	most disjointed
+dislocated	most dislocated
+dismissed	most dismissed
+dismissing	most dismissing
+dismissive	most dismissive
+disordered	most disordered
+disorderly	most disorderly
+disorganised	most disorganised
+disorganized	most disorganized
+disoriented	most disoriented
+disorienting	most disorienting
+disparaging	most disparaging
+dispassionate	most dispassionate
+dispatching	most dispatching
+dispensable	most dispensable
+dispensed	most dispensed
+dispensing	most dispensing
+dispersed	most dispersed
+dispersing	most dispersing
+displayed	most displayed
+displaying	most displaying
+disposable	most disposable
+dispossessed	most dispossessed
+disputed	most disputed
+disquieting	most disquieting
+disreputable	most disreputable
+disrespectful	most disrespectful
+disrupting	most disrupting
+disruptive	most disruptive
+dissected	most dissected
+disseminated	most disseminated
+dissenting	most dissenting
+dissolved	most dissolved
+distant	most distant
+distasteful	most distasteful
+distilled	most distilled
+distinctive	most distinctive
+distinguishable	most distinguishable
+distinguished	most distinguished
+distinguishing	most distinguishing
+distorted	most distorted
+distorting	most distorting
+distracted	most distracted
+distracting	most distracting
+distressed	most distressed
+distressing	most distressing
+distributed	most distributed
+distributing	most distributing
+disturbed	most disturbed
+disturbing	most disturbing
+dithering	most dithering
+divergent	most divergent
+diversified	most diversified
+diversifying	most diversifying
+diverted	most diverted
+diverting	most diverting
+divided	most divided
+dividing	most dividing
+diving	most diving
+divisive	most divisive
+divorced	most divorced
+dizzying	most dizzying
+docile	most docile
+docking	most docking
+documented	most documented
+doddering	most doddering
+dogged	most dogged
+dogmatic	most dogmatic
+domestic	most domestic
+domesticated	most domesticated
+dominant	most dominant
+dominating	most dominating
+domineering	most domineering
+donated	most donated
+doomed	most doomed
+dormant	most dormant
+doting	most doting
+dotted	most dotted
+doubting	most doubting
+downloaded	most downloaded
+drafted	most drafted
+drafting	most drafting
+dragged	most dragged
+dragging	most dragging
+drained	most drained
+draining	most draining
+dramatic	most dramatic
+dramatized	most dramatized
+drastic	most drastic
+drawing	most drawing
+drawn	most drawn
+dreaded	most dreaded
+dreadful	most dreadful
+dreaming	most dreaming
+dredging	most dredging
+drenched	most drenched
+drenching	most drenching
+dressed	most dressed
+dressing	most dressing
+dried	most dried
+drifting	most drifting
+drilled	most drilled
+drilling	most drilling
+drinking	most drinking
+dripping	most dripping
+driven	most driven
+driving	most driving
+droning	most droning
+drooling	most drooling
+dropped	most dropped
+dropping	most dropping
+drowned	most drowned
+drowning	most drowning
+drumming	most drumming
+drunken	most drunken
+drying	most drying
+dubbed	most dubbed
+ductile	most ductile
+dumped	most dumped
+dumping	most dumping
+duped	most duped
+duplicitous	most duplicitous
+durable	most durable
+dutiful	most dutiful
+dwelling	most dwelling
+dyed	most dyed
+dying	most dying
+dynamic	most dynamic
+dysfunctional	most dysfunctional
+dyslexic	most dyslexic
+earned	most earned
+earnest	most earnest
+earning	most earning
+eased	most eased
+easygoing	most easygoing
+eating	most eating
+eavesdropping	most eavesdropping
+ebullient	most ebullient
+eccentric	most eccentric
+eclectic	most eclectic
+edged	most edged
+edible	most edible
+edited	most edited
+educated	most educated
+educating	most educating
+educational	most educational
+effective	most effective
+effectual	most effectual
+effervescent	most effervescent
+efficacious	most efficacious
+efficient	most efficient
+effortless	most effortless
+effusive	most effusive
+egalitarian	most egalitarian
+egocentric	most egocentric
+egotistical	most egotistical
+elaborate	most elaborate
+elastic	most elastic
+elected	most elected
+electric	most electric
+electrified	most electrified
+electrifying	most electrifying
+elegant	most elegant
+elementary	most elementary
+elevated	most elevated
+elicited	most elicited
+eliminated	most eliminated
+elitist	most elitist
+elliptical	most elliptical
+elongated	most elongated
+eloquent	most eloquent
+elusive	most elusive
+emaciated	most emaciated
+emailed	most emailed
+emancipated	most emancipated
+embarrassed	most embarrassed
+embarrassing	most embarrassing
+embattled	most embattled
+embedded	most embedded
+embellished	most embellished
+embittered	most embittered
+embodied	most embodied
+embroidered	most embroidered
+emerging	most emerging
+emigrating	most emigrating
+eminent	most eminent
+emitted	most emitted
+emitting	most emitting
+emotional	most emotional
+emotionless	most emotionless
+emphasizing	most emphasizing
+emphatic	most emphatic
+employed	most employed
+employing	most employing
+empowered	most empowered
+empowering	most empowering
+enabling	most enabling
+enacted	most enacted
+enchanted	most enchanted
+enchanting	most enchanting
+enclosed	most enclosed
+enclosing	most enclosing
+encoded	most encoded
+encoding	most encoding
+encompassing	most encompassing
+encouraging	most encouraging
+encrusted	most encrusted
+encrypted	most encrypted
+endangered	most endangered
+endangering	most endangering
+endearing	most endearing
+endorsed	most endorsed
+endowed	most endowed
+endurable	most endurable
+enduring	most enduring
+energetic	most energetic
+energized	most energized
+energizing	most energizing
+enforceable	most enforceable
+enforced	most enforced
+engaging	most engaging
+engineered	most engineered
+engineering	most engineering
+engorged	most engorged
+engraved	most engraved
+engraving	most engraving
+engrossing	most engrossing
+engulfing	most engulfing
+enhanced	most enhanced
+enhancing	most enhancing
+enigmatic	most enigmatic
+enjoyable	most enjoyable
+enjoyed	most enjoyed
+enjoying	most enjoying
+enlarged	most enlarged
+enlarging	most enlarging
+enlightened	most enlightened
+enlightening	most enlightening
+enlisted	most enlisted
+ennobled	most ennobled
+enormous	most enormous
+enraged	most enraged
+enriched	most enriched
+enriching	most enriching
+enrolled	most enrolled
+enslaved	most enslaved
+enslaving	most enslaving
+entangled	most entangled
+enterprising	most enterprising
+entertained	most entertained
+entertaining	most entertaining
+enthralling	most enthralling
+enthused	most enthused
+enthusiastic	most enthusiastic
+enticing	most enticing
+entrancing	most entrancing
+entrenched	most entrenched
+enveloping	most enveloping
+ephemeral	most ephemeral
+equipped	most equipped
+equivocal	most equivocal
+erect	most erect
+erected	most erected
+eroded	most eroded
+erotic	most erotic
+erratic	most erratic
+erring	most erring
+erudite	most erudite
+escaped	most escaped
+escaping	most escaping
+esoteric	most esoteric
+essential	most essential
+established	most established
+esteemed	most esteemed
+estimated	most estimated
+estimating	most estimating
+estranged	most estranged
+etched	most etched
+etching	most etching
+eternal	most eternal
+ethereal	most ethereal
+ethical	most ethical
+euphoric	most euphoric
+evacuated	most evacuated
+evaluated	most evaluated
+evanescent	most evanescent
+evangelical	most evangelical
+evaporative	most evaporative
+evenhanded	most evenhanded
+eventful	most eventful
+everlasting	most everlasting
+everyday	most everyday
+evocative	most evocative
+evolved	most evolved
+evolving	most evolving
+exacting	most exacting
+exaggerated	most exaggerated
+exalted	most exalted
+exalting	most exalting
+examined	most examined
+examining	most examining
+exasperated	most exasperated
+exasperating	most exasperating
+excavated	most excavated
+excelling	most excelling
+exchanged	most exchanged
+excitable	most excitable
+excited	most excited
+exciting	most exciting
+excluded	most excluded
+exclusive	most exclusive
+excreted	most excreted
+excruciating	most excruciating
+executed	most executed
+executing	most executing
+exempt	most exempt
+exercised	most exercised
+exhausted	most exhausted
+exhausting	most exhausting
+exhaustive	most exhaustive
+exhibited	most exhibited
+exhibiting	most exhibiting
+exhilarating	most exhilarating
+exiled	most exiled
+exotic	most exotic
+expanded	most expanded
+expanding	most expanding
+expansive	most expansive
+expectant	most expectant
+expected	most expected
+expedient	most expedient
+expedited	most expedited
+expelled	most expelled
+expendable	most expendable
+expensive	most expensive
+experienced	most experienced
+experimental	most experimental
+experimenting	most experimenting
+expert	most expert
+expired	most expired
+explaining	most explaining
+explicit	most explicit
+exploded	most exploded
+exploding	most exploding
+exploited	most exploited
+exploiting	most exploiting
+explored	most explored
+exploring	most exploring
+explosive	most explosive
+exported	most exported
+exporting	most exporting
+exposed	most exposed
+exposing	most exposing
+expressed	most expressed
+expressing	most expressing
+expressionless	most expressionless
+expressive	most expressive
+exquisite	most exquisite
+extended	most extended
+extending	most extending
+extensive	most extensive
+extinct	most extinct
+extracted	most extracted
+extracting	most extracting
+extraordinary	most extraordinary
+extravagant	most extravagant
+extraverted	most extraverted
+extruded	most extruded
+exuberant	most exuberant
+fabled	most fabled
+fabricated	most fabricated
+faceless	most faceless
+faceted	most faceted
+facilitating	most facilitating
+factual	most factual
+faddish	most faddish
+faded	most faded
+fading	most fading
+failed	most failed
+failing	most failing
+faithful	most faithful
+fake	most fake
+faked	most faked
+fallible	most fallible
+falling	most falling
+false	least true
+falsified	most falsified
+faltering	most faltering
+familiar	most familiar
+famished	most famished
+famous	most famous
+fanatic	most fanatic
+fantastic	most fantastic
+farfetched	most farfetched
+farmed	most farmed
+farming	most farming
+farseeing	most farseeing
+farsighted	most farsighted
+fascinated	most fascinated
+fascinating	most fascinating
+fashionable	most fashionable
+fashioned	most fashioned
+fast	fastest
+fastening	most fastening
+fastidious	most fastidious
+fasting	most fasting
+fatal	most fatal
+fatalistic	most fatalistic
+fatigued	most fatigued
+fattening	most fattening
+faultless	most faultless
+favored	most favored
+fawning	most fawning
+feared	most feared
+fearless	most fearless
+fearsome	most fearsome
+feathered	most feathered
+feathery	most feathery
+featured	most featured
+featureless	most featureless
+feckless	most feckless
+fecund	most fecund
+feeding	most feeding
+feeling	most feeling
+felicitous	most felicitous
+felt	most felt
+female	most female
+feminine	most feminine
+fenced	most fenced
+fencing	most fencing
+feral	most feral
+fermented	most fermented
+ferocious	most ferocious
+fertile	most fertile
+fertilized	most fertilized
+fertilizing	most fertilizing
+fervent	most fervent
+festering	most festering
+festive	most festive
+fetching	most fetching
+feted	most feted
+fetid	most fetid
+fevered	most fevered
+fictional	most fictional
+fictionalized	most fictionalized
+fiddling	most fiddling
+fidgety	most fidgety
+fielded	most fielded
+fielding	most fielding
+fighting	most fighting
+filed	most filed
+filing	most filing
+filled	most filled
+filling	most filling
+filmed	most filmed
+filming	most filming
+filmmaking	most filmmaking
+filtered	most filtered
+filtering	most filtering
+financed	most financed
+financing	most financing
+finding	most finding
+finishing	most finishing
+finite	most finite
+fired	most fired
+firefighting	most firefighting
+fireproof	most fireproof
+firing	most firing
+fishing	most fishing
+fitted	most fitted
+fitting	most fitting
+fixed	most fixed
+fixing	most fixing
+flaccid	most flaccid
+flakey	most flakey
+flamboyant	most flamboyant
+flaming	most flaming
+flared	most flared
+flaring	most flaring
+flashing	most flashing
+flattened	most flattened
+flattering	most flattering
+flavored	most flavored
+flavorful	most flavorful
+flawed	most flawed
+flawless	most flawless
+fleeing	most fleeing
+fleeting	most fleeting
+flexed	most flexed
+flexible	most flexible
+flipped	most flipped
+flirtatious	most flirtatious
+floated	most floated
+floating	most floating
+flooded	most flooded
+flooding	most flooding
+flourishing	most flourishing
+flouted	most flouted
+flowered	most flowered
+flowering	most flowering
+flowing	most flowing
+fluctuating	most fluctuating
+fluent	most fluent
+fluid	most fluid
+flushing	most flushing
+flustered	most flustered
+fluttering	most fluttering
+flying	most flying
+foaming	most foaming
+focused	most focused
+focusing	most focusing
+focussed	most focussed
+foldable	most foldable
+folded	most folded
+folding	most folding
+followed	most followed
+following	most following
+foolish	most foolish
+foraging	most foraging
+forbidden	most forbidden
+forbidding	most forbidding
+forced	most forced
+forceful	most forceful
+foreboding	most foreboding
+forecasting	most forecasting
+foreclosed	most foreclosed
+foreign	most foreign
+forested	most forested
+forged	most forged
+forgetful	most forgetful
+forgettable	most forgettable
+forging	most forging
+forgiving	most forgiving
+forlorn	most forlorn
+formal	most formal
+formalized	most formalized
+formative	most formative
+formatted	most formatted
+formidable	most formidable
+formless	most formless
+formulaic	most formulaic
+formulated	most formulated
+fortified	most fortified
+fortifying	most fortifying
+fortunate	most fortunate
+forwarded	most forwarded
+fossilized	most fossilized
+fostered	most fostered
+fought	most fought
+fouled	most fouled
+founding	most founding
+fractured	most fractured
+fragile	most fragile
+fragmented	most fragmented
+fragrant	most fragrant
+framed	most framed
+franchised	most franchised
+frantic	most frantic
+frayed	most frayed
+freed	most freed
+freeing	most freeing
+freestanding	most freestanding
+freewheeling	most freewheeling
+freezing	most freezing
+frenzied	most frenzied
+frequented	most frequented
+fretted	most fretted
+fried	most fried
+frightened	most frightened
+frightening	most frightening
+frigid	most frigid
+frivolous	most frivolous
+frolicsome	most frolicsome
+frosting	most frosting
+frothing	most frothing
+frozen	most frozen
+fruitless	most fruitless
+frustrated	most frustrated
+frustrating	most frustrating
+frying	most frying
+fueled	most fueled
+fueling	most fueling
+fulfilled	most fulfilled
+fulfilling	most fulfilling
+fumbling	most fumbling
+functional	most functional
+functioning	most functioning
+funded	most funded
+funding	most funding
+fundraising	most fundraising
+furious	most furious
+furnished	most furnished
+furnishing	most furnishing
+furtive	most furtive
+fused	most fused
+futile	most futile
+gagged	most gagged
+gained	most gained
+gallant	most gallant
+galling	most galling
+galvanized	most galvanized
+gambling	most gambling
+gaming	most gaming
+gaping	most gaping
+gardening	most gardening
+garlanded	most garlanded
+garnered	most garnered
+garrulous	most garrulous
+gated	most gated
+gathering	most gathering
+gauging	most gauging
+geared	most geared
+general	most general
+generalized	most generalized
+generating	most generating
+generous	most generous
+genuine	most genuine
+geometric	most geometric
+giant	most giant
+gifted	most gifted
+gigantic	most gigantic
+gilded	most gilded
+ginger	most ginger
+girlish	most girlish
+giving	most giving
+glaciated	most glaciated
+glamorous	most glamorous
+glaring	most glaring
+glazed	most glazed
+glazing	most glazing
+gleaming	most gleaming
+gliding	most gliding
+glimmering	most glimmering
+glistening	most glistening
+glittering	most glittering
+glorified	most glorified
+glorifying	most glorifying
+glorious	most glorious
+glowing	most glowing
+glued	most glued
+gluttonous	most gluttonous
+gnarled	most gnarled
+gnawing	most gnawing
+gold	most gold
+golfing	most golfing
+gooey	most gooey
+gorgeous	most gorgeous
+gossipy	most gossipy
+governed	most governed
+governing	most governing
+grabbing	most grabbing
+graceful	most graceful
+graceless	most graceless
+gracious	most gracious
+graded	most graded
+grading	most grading
+gradual	most gradual
+graduated	most graduated
+graduating	most graduating
+grandiose	most grandiose
+granted	most granted
+granulated	most granulated
+grappling	most grappling
+grasping	most grasping
+gratifying	most gratifying
+grating	most grating
+grazed	most grazed
+grazing	most grazing
+greeted	most greeted
+greeting	most greeting
+gregarious	most gregarious
+grieved	most grieved
+grieving	most grieving
+grilled	most grilled
+grilling	most grilling
+grinding	most grinding
+gripped	most gripped
+gripping	most gripping
+grizzled	most grizzled
+groomed	most groomed
+grooming	most grooming
+grooving	most grooving
+ground	most ground
+groundbreaking	most groundbreaking
+grounded	most grounded
+groveling	most groveling
+growing	most growing
+grudging	most grudging
+grueling	most grueling
+gruesome	most gruesome
+grumbling	most grumbling
+guaranteed	most guaranteed
+guarded	most guarded
+guided	most guided
+guiding	most guiding
+guileless	most guileless
+gullible	most gullible
+gushing	most gushing
+gutted	most gutted
+gutting	most gutting
+guttural	most guttural
+hacked	most hacked
+hacking	most hacking
+hackneyed	most hackneyed
+hailed	most hailed
+hairless	most hairless
+hallowed	most hallowed
+halved	most halved
+hammered	most hammered
+hammering	most hammering
+handcrafted	most handcrafted
+handicapped	most handicapped
+handicapping	most handicapping
+handled	most handled
+handling	most handling
+hanging	most hanging
+harassed	most harassed
+harassing	most harassing
+hardboiled	most hardboiled
+hardened	most hardened
+hardening	most hardening
+hardheaded	most hardheaded
+hardworking	most hardworking
+harebrained	most harebrained
+harmful	most harmful
+harmless	most harmless
+harmonious	most harmonious
+harmonized	most harmonized
+harnessed	most harnessed
+harried	most harried
+harrowing	most harrowing
+harvested	most harvested
+harvesting	most harvesting
+hashed	most hashed
+hashing	most hashing
+hatched	most hatched
+hatching	most hatching
+hated	most hated
+hateful	most hateful
+hating	most hating
+hauling	most hauling
+haunted	most haunted
+haunting	most haunting
+hazardous	most hazardous
+headed	most headed
+healed	most healed
+healing	most healing
+healthful	most healthful
+heartbreaking	most heartbreaking
+heartless	most heartless
+heartrending	most heartrending
+heartwarming	most heartwarming
+heated	most heated
+heating	most heating
+hectic	most hectic
+hedged	most hedged
+hedonistic	most hedonistic
+heightened	most heightened
+heinous	most heinous
+helpful	most helpful
+helping	most helping
+helpless	most helpless
+herding	most herding
+herniated	most herniated
+heroic	most heroic
+heterosexual	most heterosexual
+hibernating	most hibernating
+hidden	most hidden
+hideous	most hideous
+hiding	most hiding
+hierarchical	most hierarchical
+highlighted	most highlighted
+highlighting	most highlighting
+hightech	most hightech
+hijacked	most hijacked
+hiking	most hiking
+hindering	most hindering
+hinged	most hinged
+hired	most hired
+hiring	most hiring
+hirsute	most hirsute
+historical	most historical
+hitting	most hitting
+hoarded	most hoarded
+hokey	most hokey
+holding	most holding
+hollowed	most hollowed
+homeless	most homeless
+homey	most homey
+homing	most homing
+homogeneous	most homogeneous
+homogenized	most homogenized
+homogenous	most homogenous
+honed	most honed
+honeyed	most honeyed
+honorable	most honorable
+honored	most honored
+honoured	most honoured
+hooded	most hooded
+hooked	most hooked
+hooking	most hooking
+hopeful	most hopeful
+hopeless	most hopeless
+hoping	most hoping
+hopping	most hopping
+horizontal	most horizontal
+horned	most horned
+horrible	most horrible
+horrid	most horrid
+horrifying	most horrifying
+hospitable	most hospitable
+hospitalized	most hospitalized
+hosted	most hosted
+hostile	most hostile
+hosting	most hosting
+hotheaded	most hotheaded
+housekeeping	most housekeeping
+hovering	most hovering
+howling	most howling
+hulking	most hulking
+humanized	most humanized
+humanizing	most humanizing
+humdrum	most humdrum
+humid	most humid
+humiliated	most humiliated
+humiliating	most humiliating
+humming	most humming
+humorless	most humorless
+humorous	most humorous
+humourless	most humourless
+hunted	most hunted
+hunting	most hunting
+hurried	most hurried
+hurting	most hurting
+hushed	most hushed
+hustling	most hustling
+hybridized	most hybridized
+hydrating	most hydrating
+hygienic	most hygienic
+hyped	most hyped
+hyperactive	most hyperactive
+hyperlinked	most hyperlinked
+hypnotic	most hypnotic
+iced	most iced
+icing	most icing
+icy	most icy
+ideal	most ideal
+idealistic	most idealistic
+idealized	most idealized
+identifiable	most identifiable
+identified	most identified
+identifying	most identifying
+idolized	most idolized
+ignited	most ignited
+ignorant	most ignorant
+ill	most ill
+illegal	most illegal
+illiterate	most illiterate
+illuminated	most illuminated
+illuminating	most illuminating
+illusive	most illusive
+illusory	most illusory
+illustrated	most illustrated
+illustrating	most illustrating
+illustrative	most illustrative
+imaginative	most imaginative
+imagined	most imagined
+imaging	most imaging
+imbalanced	most imbalanced
+imbedded	most imbedded
+imitative	most imitative
+immaculate	most immaculate
+immanent	most immanent
+immaterial	most immaterial
+immature	most immature
+immediate	most immediate
+immense	most immense
+immersed	most immersed
+immobile	most immobile
+immodest	most immodest
+immoral	most immoral
+immortal	most immortal
+immovable	most immovable
+immoveable	most immoveable
+immunocompromised	most immunocompromised
+immunosuppressed	most immunosuppressed
+immutable	most immutable
+impacted	most impacted
+impacting	most impacting
+impaired	most impaired
+impairing	most impairing
+impartial	most impartial
+impassioned	most impassioned
+impatient	most impatient
+impeached	most impeached
+impeccable	most impeccable
+impending	most impending
+impenetrable	most impenetrable
+imperative	most imperative
+imperceptible	most imperceptible
+imperfect	most imperfect
+imperious	most imperious
+impermanent	most impermanent
+impermeable	most impermeable
+impersonal	most impersonal
+imperturbable	most imperturbable
+impervious	most impervious
+impish	most impish
+implacable	most implacable
+implanted	most implanted
+implausible	most implausible
+implemented	most implemented
+implementing	most implementing
+implied	most implied
+impolite	most impolite
+important	most important
+imported	most imported
+importing	most importing
+imposed	most imposed
+imposing	most imposing
+impossible	most impossible
+impotent	most impotent
+impoverished	most impoverished
+impractical	most impractical
+impregnable	most impregnable
+impressed	most impressed
+impressing	most impressing
+impressionable	most impressionable
+impressive	most impressive
+imprinted	most imprinted
+imprisoned	most imprisoned
+improbable	most improbable
+improvident	most improvident
+improvised	most improvised
+improvising	most improvising
+imprudent	most imprudent
+impudent	most impudent
+inaccessible	most inaccessible
+inaccurate	most inaccurate
+inactive	most inactive
+inadequate	most inadequate
+inanimate	most inanimate
+inarticulate	most inarticulate
+inattentive	most inattentive
+inauspicious	most inauspicious
+inbred	most inbred
+incapable	most incapable
+incapacitated	most incapacitated
+incapacitating	most incapacitating
+incarcerated	most incarcerated
+incendiary	most incendiary
+incessant	most incessant
+incidental	most incidental
+incisive	most incisive
+inclined	most inclined
+inclusive	most inclusive
+incoherent	most incoherent
+incoming	most incoming
+incompetent	most incompetent
+incomplete	most incomplete
+incomprehensible	most incomprehensible
+inconclusive	most inconclusive
+incongruous	most incongruous
+inconsequential	most inconsequential
+inconsiderable	most inconsiderable
+inconsistent	most inconsistent
+inconspicuous	most inconspicuous
+incontinent	most incontinent
+inconvenient	most inconvenient
+incorporated	most incorporated
+incorrect	most incorrect
+incorrigible	most incorrigible
+incredible	most incredible
+incredulous	most incredulous
+incriminating	most incriminating
+indecipherable	most indecipherable
+indecisive	most indecisive
+indefinite	most indefinite
+indented	most indented
+indentured	most indentured
+independent	most independent
+indestructible	most indestructible
+indeterminate	most indeterminate
+indexed	most indexed
+indexing	most indexing
+indicated	most indicated
+indicating	most indicating
+indicted	most indicted
+indigestible	most indigestible
+indiscriminate	most indiscriminate
+indispensable	most indispensable
+indistinct	most indistinct
+individual	most individual
+indoctrinated	most indoctrinated
+indomitable	most indomitable
+induced	most induced
+indulged	most indulged
+industrialized	most industrialized
+industrious	most industrious
+inebriated	most inebriated
+ineffective	most ineffective
+ineffectual	most ineffectual
+inelastic	most inelastic
+inelegant	most inelegant
+inert	most inert
+inescapable	most inescapable
+inevitable	most inevitable
+inexpensive	most inexpensive
+inexperienced	most inexperienced
+inexplicable	most inexplicable
+infallible	most infallible
+infamous	most infamous
+infatuated	most infatuated
+infected	most infected
+infecting	most infecting
+infectious	most infectious
+inferior	most inferior
+infertile	most infertile
+infested	most infested
+infiltrating	most infiltrating
+infinite	most infinite
+inflamed	most inflamed
+inflated	most inflated
+inflexible	most inflexible
+inflicted	most inflicted
+influencing	most influencing
+influential	most influential
+informal	most informal
+informative	most informative
+informed	most informed
+informing	most informing
+infuriated	most infuriated
+infused	most infused
+ingenious	most ingenious
+ingenuous	most ingenuous
+ingrained	most ingrained
+inhabited	most inhabited
+inhabiting	most inhabiting
+inhaled	most inhaled
+inherited	most inherited
+inhospitable	most inhospitable
+inhuman	most inhuman
+initiated	most initiated
+injected	most injected
+injecting	most injecting
+injured	most injured
+inked	most inked
+innate	most innate
+innocuous	most innocuous
+innovating	most innovating
+inoffensive	most inoffensive
+inorganic	most inorganic
+inquiring	most inquiring
+inquisitive	most inquisitive
+insatiable	most insatiable
+inscribed	most inscribed
+inscrutable	most inscrutable
+insecure	most insecure
+insensate	most insensate
+insensible	most insensible
+insensitive	most insensitive
+inseparable	most inseparable
+inserted	most inserted
+insidious	most insidious
+insightful	most insightful
+insignificant	most insignificant
+insinuating	most insinuating
+insistent	most insistent
+inspected	most inspected
+inspired	most inspired
+inspiring	most inspiring
+installed	most installed
+instant	most instant
+instantaneous	most instantaneous
+instinctive	most instinctive
+institutionalized	most institutionalized
+instructing	most instructing
+instructive	most instructive
+insubstantial	most insubstantial
+insufficient	most insufficient
+insular	most insular
+insulated	most insulated
+insulating	most insulating
+insulting	most insulting
+insured	most insured
+insurmountable	most insurmountable
+intangible	most intangible
+integrated	most integrated
+integrating	most integrating
+intellectual	most intellectual
+intelligent	most intelligent
+intended	most intended
+intensified	most intensified
+intensive	most intensive
+intent	most intent
+interacting	most interacting
+interactive	most interactive
+intercepted	most intercepted
+interconnected	most interconnected
+interested	most interested
+interesting	most interesting
+interfering	most interfering
+interlocking	most interlocking
+intermediate	most intermediate
+international	most international
+interpreted	most interpreted
+interpreting	most interpreting
+interrelated	most interrelated
+interrupted	most interrupted
+intertwined	most intertwined
+intervening	most intervening
+interviewed	most interviewed
+interviewing	most interviewing
+intimate	most intimate
+intimidating	most intimidating
+intoxicated	most intoxicated
+intoxicating	most intoxicating
+intractable	most intractable
+intrepid	most intrepid
+intricate	most intricate
+intriguing	most intriguing
+introverted	most introverted
+intrusive	most intrusive
+intuitive	most intuitive
+inundated	most inundated
+invading	most invading
+invasive	most invasive
+invented	most invented
+inventive	most inventive
+inverted	most inverted
+invested	most invested
+investigated	most investigated
+investigating	most investigating
+investing	most investing
+invigorating	most invigorating
+inviolable	most inviolable
+invisible	most invisible
+invited	most invited
+inviting	most inviting
+invoked	most invoked
+involuntary	most involuntary
+involved	most involved
+invulnerable	most invulnerable
+ionized	most ionized
+ionizing	most ionizing
+irate	most irate
+iridescent	most iridescent
+irksome	most irksome
+irradiated	most irradiated
+irrational	most irrational
+irregular	most irregular
+irrelevant	most irrelevant
+irreligious	most irreligious
+irreplaceable	most irreplaceable
+irrepressible	most irrepressible
+irresistible	most irresistible
+irresponsible	most irresponsible
+irreverent	most irreverent
+irreversible	most irreversible
+irrevocable	most irrevocable
+irrigated	most irrigated
+irritable	most irritable
+irritating	most irritating
+isolated	most isolated
+issued	most issued
+issuing	most issuing
+itching	most itching
+itemized	most itemized
+jaded	most jaded
+jagged	most jagged
+jailed	most jailed
+jammed	most jammed
+jamming	most jamming
+jarring	most jarring
+jaundiced	most jaundiced
+jealous	most jealous
+jeopardized	most jeopardized
+jittery	most jittery
+jocular	most jocular
+jogging	most jogging
+jolting	most jolting
+joyous	most joyous
+judged	most judged
+judging	most judging
+juggling	most juggling
+juiced	most juiced
+jumbled	most jumbled
+jumping	most jumping
+junior	most junior
+juried	most juried
+justified	most justified
+kayaking	most kayaking
+keyed	most keyed
+kicked	most kicked
+kicking	most kicking
+kidnapping	most kidnapping
+killed	most killed
+killing	most killing
+kindhearted	most kindhearted
+kindled	most kindled
+kissing	most kissing
+knitted	most knitted
+knitting	most knitting
+knotted	most knotted
+knowledgeable	most knowledgeable
+kosher	most kosher
+labeled	most labeled
+labeling	most labeling
+labelled	most labelled
+laboring	most laboring
+labyrinthine	most labyrinthine
+laced	most laced
+laconic	most laconic
+lacquered	most lacquered
+lactating	most lactating
+ladylike	most ladylike
+laid	most laid
+laidback	most laidback
+lambent	most lambent
+lamenting	most lamenting
+laminated	most laminated
+landed	most landed
+landing	most landing
+landscaped	most landscaped
+landscaping	most landscaping
+languid	most languid
+languishing	most languishing
+lasting	most lasting
+laughable	most laughable
+laughing	most laughing
+launched	most launched
+launching	most launching
+lawmaking	most lawmaking
+layered	most layered
+laying	most laying
+leaded	most leaded
+leaden	most leaden
+leading	most leading
+leaked	most leaked
+leaking	most leaking
+leaning	most leaning
+leaping	most leaping
+learned	most learned
+learning	most learning
+leased	most leased
+leasing	most leasing
+leathery	most leathery
+lecherous	most lecherous
+lecturing	most lecturing
+leering	most leering
+left	most left
+legal	most legal
+legalized	most legalized
+legible	most legible
+legislated	most legislated
+legitimate	most legitimate
+leisurely	most leisurely
+lending	most lending
+lent	most lent
+lethal	most lethal
+lethargic	most lethargic
+leveled	most leveled
+leveraged	most leveraged
+liable	most liable
+liberal	most liberal
+liberalizing	most liberalizing
+liberated	most liberated
+liberating	most liberating
+licensed	most licensed
+licensing	most licensing
+lifeless	most lifeless
+lifesaving	most lifesaving
+lifted	most lifted
+lifting	most lifting
+lighted	most lighted
+lighthearted	most lighthearted
+lighting	most lighting
+lightweight	most lightweight
+likable	most likable
+lilting	most lilting
+limber	most limber
+limited	most limited
+limiting	most limiting
+limitless	most limitless
+limpid	most limpid
+linear	most linear
+lined	most lined
+lingering	most lingering
+linked	most linked
+linking	most linking
+lipophilic	most lipophilic
+liquid	most liquid
+listed	most listed
+listening	most listening
+listing	most listing
+listless	most listless
+literal	most literal
+littered	most littered
+livable	most livable
+livid	most livid
+living	most living
+loaded	most loaded
+loading	most loading
+loaned	most loaned
+loathsome	most loathsome
+lobbied	most lobbied
+lobbying	most lobbying
+local	most local
+localized	most localized
+locked	most locked
+locking	most locking
+lodging	most lodging
+lofted	most lofted
+logged	most logged
+logging	most logging
+logical	most logical
+longhaired	most longhaired
+longing	most longing
+longstanding	most longstanding
+longwinded	most longwinded
+looming	most looming
+looted	most looted
+looting	most looting
+lopsided	most lopsided
+losing	most losing
+lovable	most lovable
+loveable	most loveable
+loved	most loved
+loving	most loving
+lowering	most lowering
+lubricated	most lubricated
+lubricating	most lubricating
+lubricious	most lubricious
+lucid	most lucid
+lucrative	most lucrative
+ludicrous	most ludicrous
+lumbering	most lumbering
+luminescent	most luminescent
+luminous	most luminous
+luring	most luring
+luscious	most luscious
+lustrous	most lustrous
+luxurious	most luxurious
+lying	most lying
+lyrical	most lyrical
+macabre	most macabre
+machined	most machined
+macho	most macho
+maddening	most maddening
+magical	most magical
+magisterial	most magisterial
+magnificent	most magnificent
+magnified	most magnified
+mailed	most mailed
+maintained	most maintained
+maintaining	most maintaining
+majestic	most majestic
+major	most major
+making	most making
+malformed	most malformed
+malicious	most malicious
+malignant	most malignant
+malleable	most malleable
+malnourished	most malnourished
+managed	most managed
+managing	most managing
+mandated	most mandated
+maneuverable	most maneuverable
+mangled	most mangled
+manicured	most manicured
+manifested	most manifested
+manipulated	most manipulated
+manipulating	most manipulating
+manipulative	most manipulative
+manned	most manned
+manoeuvrable	most manoeuvrable
+manufactured	most manufactured
+manufacturing	most manufacturing
+mapped	most mapped
+mapping	most mapping
+marbled	most marbled
+marbling	most marbling
+marching	most marching
+marginalized	most marginalized
+marked	most marked
+marketed	most marketed
+marketing	most marketing
+marking	most marking
+married	most married
+marrying	most marrying
+marshalling	most marshalling
+martyred	most martyred
+masculine	most masculine
+mashed	most mashed
+masked	most masked
+massive	most massive
+mastered	most mastered
+masterful	most masterful
+mastering	most mastering
+matching	most matching
+materialized	most materialized
+mathematical	most mathematical
+mating	most mating
+matted	most matted
+matured	most matured
+maturing	most maturing
+meager	most meager
+meandering	most meandering
+meaningful	most meaningful
+meaningless	most meaningless
+measured	most measured
+measuring	most measuring
+mechanical	most mechanical
+mechanized	most mechanized
+meddling	most meddling
+meditative	most meditative
+meeting	most meeting
+melodic	most melodic
+melodious	most melodious
+melodramatic	most melodramatic
+melted	most melted
+melting	most melting
+memorable	most memorable
+memorized	most memorized
+menacing	most menacing
+mentoring	most mentoring
+merchandising	most merchandising
+merciful	most merciful
+merciless	most merciless
+mercurial	most mercurial
+merited	most merited
+mesmerizing	most mesmerizing
+metallic	most metallic
+metered	most metered
+methodical	most methodical
+meticulous	most meticulous
+microscopic	most microscopic
+midwestern	most midwestern
+migrating	most migrating
+milled	most milled
+milling	most milling
+mindless	most mindless
+mined	most mined
+mineralized	most mineralized
+miniaturized	most miniaturized
+mining	most mining
+miniscule	most miniscule
+minor	most minor
+minuscule	most minuscule
+miraculous	most miraculous
+mirrored	most mirrored
+misbehaving	most misbehaving
+mischievous	most mischievous
+misdirected	most misdirected
+miserable	most miserable
+misguided	most misguided
+misleading	most misleading
+mismatched	most mismatched
+misplaced	most misplaced
+misshapen	most misshapen
+mistreated	most mistreated
+mixed	most mixed
+mixing	most mixing
+mobbed	most mobbed
+mobile	most mobile
+mobilized	most mobilized
+mocking	most mocking
+modeling	most modeling
+moderated	most moderated
+modern	most modern
+modernized	most modernized
+modified	most modified
+modulated	most modulated
+moisturizing	most moisturizing
+molded	most molded
+molding	most molding
+molested	most molested
+moneyed	most moneyed
+moneymaking	most moneymaking
+monitored	most monitored
+monitoring	most monitoring
+monochromatic	most monochromatic
+monotonous	most monotonous
+monstrous	most monstrous
+mooring	most mooring
+moral	most moral
+moralizing	most moralizing
+morbid	most morbid
+mordant	most mordant
+moronic	most moronic
+morphing	most morphing
+mortal	most mortal
+motionless	most motionless
+motivated	most motivated
+motivating	most motivating
+motley	most motley
+motoring	most motoring
+motorized	most motorized
+moulded	most moulded
+mounted	most mounted
+mounting	most mounting
+mournful	most mournful
+mouthwatering	most mouthwatering
+movable	most movable
+moving	most moving
+mowing	most mowing
+muddled	most muddled
+muffled	most muffled
+multicolored	most multicolored
+multifaceted	most multifaceted
+multithreaded	most multithreaded
+mundane	most mundane
+murdered	most murdered
+murmured	most murmured
+muscled	most muscled
+muscular	most muscular
+musical	most musical
+mutable	most mutable
+mutated	most mutated
+muted	most muted
+mutilated	most mutilated
+myopic	most myopic
+mysterious	most mysterious
+mystifying	most mystifying
+mythological	most mythological
+nagging	most nagging
+nailbiting	most nailbiting
+named	most named
+naming	most naming
+narrowminded	most narrowminded
+national	most national
+nationalized	most nationalized
+natural	most natural
+naturalized	most naturalized
+nauseating	most nauseating
+nebulous	most nebulous
+needed	most needed
+negative	most negative
+neglected	most neglected
+negligible	most negligible
+negotiated	most negotiated
+negotiating	most negotiating
+neighboring	most neighboring
+neoclassical	most neoclassical
+nerveless	most nerveless
+nervewracking	most nervewracking
+nervous	most nervous
+nested	most nested
+nesting	most nesting
+netting	most netting
+networked	most networked
+neurotic	most neurotic
+neutered	most neutered
+neutral	most neutral
+niggling	most niggling
+nocturnal	most nocturnal
+nodding	most nodding
+noiseless	most noiseless
+nominated	most nominated
+nonchalant	most nonchalant
+nonconforming	most nonconforming
+nondescript	most nondescript
+nonviolent	most nonviolent
+normal	most normal
+normalized	most normalized
+normalizing	most normalizing
+nostalgic	most nostalgic
+notable	most notable
+noticeable	most noticeable
+nourishing	most nourishing
+noxious	most noxious
+nuanced	most nuanced
+nucleated	most nucleated
+numbered	most numbered
+numbing	most numbing
+numerate	most numerate
+nursing	most nursing
+nurtured	most nurtured
+nurturing	most nurturing
+nutritious	most nutritious
+nuts	most nuts
+obedient	most obedient
+obese	most obese
+obeyed	most obeyed
+objective	most objective
+obligated	most obligated
+obligatory	most obligatory
+obliging	most obliging
+oblique	most oblique
+oblivious	most oblivious
+oblong	most oblong
+obnoxious	most obnoxious
+obscene	most obscene
+obsequious	most obsequious
+observant	most observant
+observing	most observing
+obsessed	most obsessed
+obsolete	most obsolete
+obstinate	most obstinate
+obtuse	most obtuse
+obvious	most obvious
+occupied	most occupied
+occupying	most occupying
+oceangoing	most oceangoing
+odious	most odious
+offended	most offended
+offending	most offending
+offensive	most offensive
+offered	most offered
+official	most official
+oiled	most oiled
+ominous	most ominous
+omnivorous	most omnivorous
+oncoming	most oncoming
+onesided	most onesided
+onstage	most onstage
+opaque	most opaque
+opened	most opened
+opening	most opening
+operated	most operated
+operating	most operating
+opinionated	most opinionated
+opposed	most opposed
+opposing	most opposing
+oppressed	most oppressed
+oppressing	most oppressing
+oppressive	most oppressive
+optimistic	most optimistic
+optimized	most optimized
+optional	most optional
+orange	most orange
+orbiting	most orbiting
+orchestrated	most orchestrated
+ordained	most ordained
+ordered	most ordered
+ordering	most ordering
+orderly	most orderly
+organic	most organic
+organised	most organised
+organized	most organized
+organizing	most organizing
+oriented	most oriented
+orienteering	most orienteering
+original	most original
+ornamented	most ornamented
+ornate	most ornate
+orphaned	most orphaned
+oscillating	most oscillating
+ostentatious	most ostentatious
+outcast	most outcast
+outdated	most outdated
+outgoing	most outgoing
+outlawed	most outlawed
+outlying	most outlying
+outmoded	most outmoded
+outraged	most outraged
+outsourced	most outsourced
+outsourcing	most outsourcing
+outspoken	most outspoken
+overachieving	most overachieving
+overarching	most overarching
+overbearing	most overbearing
+overburdened	most overburdened
+overcrowded	most overcrowded
+overdue	most overdue
+overexposed	most overexposed
+overextended	most overextended
+overflowing	most overflowing
+overhanging	most overhanging
+overheated	most overheated
+overheating	most overheating
+overloaded	most overloaded
+overlooked	most overlooked
+overlooking	most overlooking
+overplayed	most overplayed
+overpopulated	most overpopulated
+overpowering	most overpowering
+overpriced	most overpriced
+overreaching	most overreaching
+overseas	most overseas
+oversimplified	most oversimplified
+oversized	most oversized
+overstretched	most overstretched
+overstuffed	most overstuffed
+overt	most overt
+overtaking	most overtaking
+overturned	most overturned
+overused	most overused
+overweening	most overweening
+overwhelmed	most overwhelmed
+overwhelming	most overwhelming
+overworked	most overworked
+owed	most owed
+owing	most owing
+owned	most owned
+owning	most owning
+oxidizing	most oxidizing
+packaged	most packaged
+packaging	most packaging
+packed	most packed
+packing	most packing
+padded	most padded
+padding	most padding
+paddling	most paddling
+paging	most paging
+paid	most paid
+pained	most pained
+painless	most painless
+painstaking	most painstaking
+painted	most painted
+painting	most painting
+pallid	most pallid
+palpable	most palpable
+palpitating	most palpitating
+pampered	most pampered
+pampering	most pampering
+pandering	most pandering
+paneled	most paneled
+panicked	most panicked
+paralyzed	most paralyzed
+paralyzing	most paralyzing
+parameterized	most parameterized
+paranoid	most paranoid
+parasitic	most parasitic
+parasitized	most parasitized
+parched	most parched
+parenting	most parenting
+parked	most parked
+parking	most parking
+parsing	most parsing
+participating	most participating
+partisan	most partisan
+partitioning	most partitioning
+partnering	most partnering
+partying	most partying
+passed	most passed
+passing	most passing
+passionate	most passionate
+passionless	most passionless
+passive	most passive
+pastured	most pastured
+patched	most patched
+patented	most patented
+patenting	most patenting
+pathetic	most pathetic
+patriotic	most patriotic
+patrolled	most patrolled
+patterned	most patterned
+paved	most paved
+paying	most paying
+peaked	most peaked
+peculiar	most peculiar
+pedestrian	most pedestrian
+pedigreed	most pedigreed
+peering	most peering
+peevish	most peevish
+penalizing	most penalizing
+penetrating	most penetrating
+penned	most penned
+peppered	most peppered
+perceived	most perceived
+perceptible	most perceptible
+perceptive	most perceptive
+percussive	most percussive
+perennial	most perennial
+perfected	most perfected
+perforated	most perforated
+performed	most performed
+performing	most performing
+perfumed	most perfumed
+perilous	most perilous
+periodic	most periodic
+peripheral	most peripheral
+perishable	most perishable
+permanent	most permanent
+permeable	most permeable
+permitting	most permitting
+pernicious	most pernicious
+perpendicular	most perpendicular
+perpetrated	most perpetrated
+perpetuated	most perpetuated
+perplexed	most perplexed
+perplexing	most perplexing
+persecuted	most persecuted
+persecuting	most persecuting
+persevering	most persevering
+persistent	most persistent
+personal	most personal
+personalized	most personalized
+personified	most personified
+persuading	most persuading
+persuasive	most persuasive
+pertinacious	most pertinacious
+pervading	most pervading
+pervasive	most pervasive
+perverted	most perverted
+petite	most petite
+petrified	most petrified
+petted	most petted
+philosophical	most philosophical
+photocopied	most photocopied
+photogenic	most photogenic
+photographed	most photographed
+physical	most physical
+picked	most picked
+picking	most picking
+pickled	most pickled
+pierced	most pierced
+piercing	most piercing
+pigheaded	most pigheaded
+pigmented	most pigmented
+pimped	most pimped
+pimping	most pimping
+pioneering	most pioneering
+pious	most pious
+piquant	most piquant
+pissed	most pissed
+pitched	most pitched
+pitching	most pitching
+pitied	most pitied
+pitiless	most pitiless
+placid	most placid
+plaintive	most plaintive
+planing	most planing
+planned	most planned
+planning	most planning
+planted	most planted
+planting	most planting
+plastic	most plastic
+plated	most plated
+platonic	most platonic
+playable	most playable
+played	most played
+playful	most playful
+playing	most playing
+pleading	most pleading
+pleased	most pleased
+pleasing	most pleasing
+pleasurable	most pleasurable
+plebeian	most plebeian
+plentiful	most plentiful
+pliable	most pliable
+pliant	most pliant
+plodding	most plodding
+plotting	most plotting
+plugged	most plugged
+plumbing	most plumbing
+plundered	most plundered
+plunging	most plunging
+poaching	most poaching
+pockmarked	most pockmarked
+poetic	most poetic
+poetical	most poetical
+poignant	most poignant
+pointed	pointiest
+pointing	most pointing
+pointless	most pointless
+poised	most poised
+smarmy	smarmiest
+poisoned	most poisoned
+poisoning	most poisoning
+poisonous	most poisonous
+polarized	most polarized
+polarizing	most polarizing
+policing	most policing
+policymaking	most policymaking
+polished	most polished
+polishing	most polishing
+political	most political
+politicized	most politicized
+polling	most polling
+polluted	most polluted
+polluting	most polluting
+ponderous	most ponderous
+popped	most popped
+popping	most popping
+popular	most popular
+popularized	most popularized
+populated	most populated
+populous	most populous
+pornographic	most pornographic
+porous	most porous
+portable	most portable
+portentous	most portentous
+posed	most posed
+posing	most posing
+positioning	most positioning
+positive	most positive
+possessed	most possessed
+posted	most posted
+posting	most posting
+postulated	most postulated
+potent	most potent
+potholed	most potholed
+potted	most potted
+pounding	most pounding
+poured	most poured
+powdered	most powdered
+powered	most powered
+powerful	most powerful
+powerless	most powerless
+practical	most practical
+practiced	most practiced
+practicing	most practicing
+pragmatic	most pragmatic
+praying	most praying
+preached	most preached
+preaching	most preaching
+precious	most precious
+preconceived	most preconceived
+predatory	most predatory
+predefined	most predefined
+predictable	most predictable
+predicted	most predicted
+predicting	most predicting
+predisposing	most predisposing
+preening	most preening
+prefabricated	most prefabricated
+preferred	most preferred
+pregnant	most pregnant
+prejudiced	most prejudiced
+premeditated	most premeditated
+prepared	most prepared
+preparing	most preparing
+prescient	most prescient
+prescribed	most prescribed
+prescribing	most prescribing
+prescriptive	most prescriptive
+presentable	most presentable
+presented	most presented
+presenting	most presenting
+preserved	most preserved
+presidential	most presidential
+presiding	most presiding
+pressed	most pressed
+pressing	most pressing
+pressurised	most pressurised
+pressurized	most pressurized
+prestigious	most prestigious
+pretentious	most pretentious
+priceless	most priceless
+pricey	most pricey
+primary	most primary
+primed	most primed
+priming	most priming
+primitive	most primitive
+principled	most principled
+printed	most printed
+printing	most printing
+prismatic	most prismatic
+pristine	most pristine
+privileged	most privileged
+prized	most prized
+probing	most probing
+processed	most processed
+processing	most processing
+proclaimed	most proclaimed
+prodigal	most prodigal
+prodigious	most prodigious
+produced	most produced
+producing	most producing
+productive	most productive
+profane	most profane
+professed	most professed
+professional	most professional
+profitable	most profitable
+profiting	most profiting
+programmed	most programmed
+programming	most programming
+progressing	most progressing
+progressive	most progressive
+prohibited	most prohibited
+projected	most projected
+projecting	most projecting
+prolife	most prolife
+proliferating	most proliferating
+prolific	most prolific
+prolonged	most prolonged
+promiscuous	most promiscuous
+promising	most promising
+promoted	most promoted
+promoting	most promoting
+pronounced	most pronounced
+propagated	most propagated
+prophesied	most prophesied
+proposed	most proposed
+proprietary	most proprietary
+proscribed	most proscribed
+prosecuted	most prosecuted
+proselytizing	most proselytizing
+prospecting	most prospecting
+protected	most protected
+protecting	most protecting
+protective	most protective
+protesting	most protesting
+prototyping	most prototyping
+protracted	most protracted
+protruding	most protruding
+proved	most proved
+proven	most proven
+providing	most providing
+provocative	most provocative
+provoked	most provoked
+provoking	most provoking
+prudent	most prudent
+pruned	most pruned
+pruning	most pruning
+public	most public
+published	most published
+publishing	most publishing
+puffed	most puffed
+pugnacious	most pugnacious
+pulled	most pulled
+pulling	most pulling
+pulsating	most pulsating
+pulsed	most pulsed
+pulverizing	most pulverizing
+pummeling	most pummeling
+pumped	most pumped
+pumping	most pumping
+punching	most punching
+punctual	most punctual
+pungent	most pungent
+punished	most punished
+punishing	most punishing
+punting	most punting
+purchased	most purchased
+purchasing	most purchasing
+purebred	most purebred
+purged	most purged
+purified	most purified
+purifying	most purifying
+purposeful	most purposeful
+purposeless	most purposeless
+pursued	most pursued
+pursuing	most pursuing
+pushed	most pushed
+pushing	most pushing
+putting	most putting
+puzzled	most puzzled
+puzzling	most puzzling
+qualified	most qualified
+qualifying	most qualifying
+quantitative	most quantitative
+quarrelsome	most quarrelsome
+queried	most queried
+questing	most questing
+questionable	most questionable
+questioning	most questioning
+queuing	most queuing
+quickened	most quickened
+quickening	most quickening
+quoted	most quoted
+racing	most racing
+radiant	most radiant
+radiated	most radiated
+radiating	most radiating
+radical	most radical
+raging	most raging
+raiding	most raiding
+raised	most raised
+rambling	most rambling
+rambunctious	most rambunctious
+ranching	most ranching
+random	most random
+randomized	most randomized
+ranked	most ranked
+ranking	most ranking
+ranting	most ranting
+rapacious	most rapacious
+raped	most raped
+rarified	most rarified
+rated	most rated
+ratified	most ratified
+rating	most rating
+rational	most rational
+rattled	most rattled
+rattling	most rattling
+raucous	most raucous
+ravaged	most ravaged
+ravaging	most ravaging
+ravenous	most ravenous
+raving	most raving
+ravishing	most ravishing
+reached	most reached
+reacting	most reacting
+read	most read
+readable	most readable
+reading	most reading
+realistic	most realistic
+realized	most realized
+reasoned	most reasoned
+reasoning	most reasoning
+reassuring	most reassuring
+rebellious	most rebellious
+rebuilding	most rebuilding
+recalled	most recalled
+received	most received
+receiving	most receiving
+receptive	most receptive
+recessed	most recessed
+recited	most recited
+reckless	most reckless
+reckoning	most reckoning
+reclaimed	most reclaimed
+reclusive	most reclusive
+recognisable	most recognisable
+recognised	most recognised
+recognizable	most recognizable
+recognized	most recognized
+recommended	most recommended
+recommending	most recommending
+reconstructed	most reconstructed
+recorded	most recorded
+recording	most recording
+recovered	most recovered
+recovering	most recovering
+recruited	most recruited
+recruiting	most recruiting
+rectangular	most rectangular
+recurring	most recurring
+recycled	most recycled
+recycling	most recycling
+reddened	most reddened
+reddish	most reddish
+redeemed	most redeemed
+refereed	most refereed
+referenced	most referenced
+refinancing	most refinancing
+refined	most refined
+reflected	most reflected
+reflecting	most reflecting
+reflective	most reflective
+reflexive	most reflexive
+reformed	most reformed
+reforming	most reforming
+refracted	most refracted
+refreshed	most refreshed
+refreshing	most refreshing
+refrigerated	most refrigerated
+refueling	most refueling
+refurbished	most refurbished
+refused	most refused
+refuted	most refuted
+regal	most regal
+regenerating	most regenerating
+regimented	most regimented
+registered	most registered
+registering	most registering
+regressive	most regressive
+regular	most regular
+regulated	most regulated
+regulating	most regulating
+rehabilitated	most rehabilitated
+rehearsed	most rehearsed
+reigning	most reigning
+reinforced	most reinforced
+reinforcing	most reinforcing
+rejected	most rejected
+rejoicing	most rejoicing
+rejuvenating	most rejuvenating
+relapsed	most relapsed
+relapsing	most relapsing
+relaxed	most relaxed
+relaxing	most relaxing
+released	most released
+releasing	most releasing
+relentless	most relentless
+reliable	most reliable
+reliant	most reliant
+relieved	most relieved
+relieving	most relieving
+religious	most religious
+relocated	most relocated
+remembered	most remembered
+remixed	most remixed
+remodeled	most remodeled
+remodeling	most remodeling
+remorseless	most remorseless
+removable	most removable
+rendered	most rendered
+rending	most rending
+renewed	most renewed
+renovated	most renovated
+renowned	most renowned
+rented	most rented
+repaired	most repaired
+repeated	most repeated
+repeating	most repeating
+repetitive	most repetitive
+replaceable	most replaceable
+reported	most reported
+reporting	most reporting
+representative	most representative
+representing	most representing
+repressed	most repressed
+reprinted	most reprinted
+reproduced	most reproduced
+reproducing	most reproducing
+reptilian	most reptilian
+repulsive	most repulsive
+reputable	most reputable
+reputed	most reputed
+requested	most requested
+requesting	most requesting
+required	most required
+rescued	most rescued
+researched	most researched
+reserved	most reserved
+residential	most residential
+resilient	most resilient
+resisted	most resisted
+resisting	most resisting
+resolute	most resolute
+resolved	most resolved
+resonant	most resonant
+resonating	most resonating
+resounding	most resounding
+respectable	most respectable
+respected	most respected
+respectful	most respectful
+responding	most responding
+responsible	most responsible
+responsive	most responsive
+rested	most rested
+restful	most restful
+resting	most resting
+restless	most restless
+restored	most restored
+restrained	most restrained
+restraining	most restraining
+restricted	most restricted
+restricting	most restricting
+restrictive	most restrictive
+restructured	most restructured
+retailing	most retailing
+retained	most retained
+retaining	most retaining
+retarded	most retarded
+retentive	most retentive
+reticent	most reticent
+retired	most retired
+retrieved	most retrieved
+retrograde	most retrograde
+returning	most returning
+revealed	most revealed
+revealing	most revealing
+revelatory	most revelatory
+reveling	most reveling
+reverberating	most reverberating
+revered	most revered
+reverenced	most reverenced
+reverent	most reverent
+reversed	most reversed
+reviewed	most reviewed
+reviewing	most reviewing
+reviled	most reviled
+revised	most revised
+revitalized	most revitalized
+revitalizing	most revitalizing
+revived	most revived
+reviving	most reviving
+revolting	most revolting
+revolving	most revolving
+revved	most revved
+rewarded	most rewarded
+rewarding	most rewarding
+rhyming	most rhyming
+rhythmic	most rhythmic
+ridden	most ridden
+riddled	most riddled
+ridged	most ridged
+ridiculous	most ridiculous
+riding	most riding
+rigged	most rigged
+rigging	most rigging
+righteous	most righteous
+rigid	most rigid
+rigorous	most rigorous
+ringed	most ringed
+ringing	most ringing
+ripened	most ripened
+ripped	most ripped
+ripping	most ripping
+rising	most rising
+ritualistic	most ritualistic
+ritualized	most ritualized
+riveted	most riveted
+riveting	most riveting
+roaming	most roaming
+roasted	most roasted
+roasting	most roasting
+rocked	most rocked
+rocking	most rocking
+rolled	most rolled
+rollicking	most rollicking
+rolling	most rolling
+romantic	most romantic
+romanticized	most romanticized
+rooted	most rooted
+rooting	most rooting
+rotating	most rotating
+rounded	most rounded
+roused	most roused
+rousing	most rousing
+routed	most routed
+routine	most routine
+routing	most routing
+rowing	most rowing
+royal	most royal
+rubbery	most rubbery
+rubbing	most rubbing
+rudimentary	most rudimentary
+ruffled	most ruffled
+ruggedized	most ruggedized
+ruined	most ruined
+ruinous	most ruinous
+ruled	most ruled
+ruling	most ruling
+rumbling	most rumbling
+rumpled	most rumpled
+running	most running
+rural	most rural
+rushing	most rushing
+rusted	most rusted
+rustic	most rustic
+ruthless	most ruthless
+rutted	most rutted
+rutting	most rutting
+sacked	most sacked
+sacred	most sacred
+sacrificed	most sacrificed
+sacrificing	most sacrificing
+saddening	most saddening
+safeguarded	most safeguarded
+sagacious	most sagacious
+sailing	most sailing
+salaried	most salaried
+salient	most salient
+salted	most salted
+salvaged	most salvaged
+sampling	most sampling
+sanctified	most sanctified
+sanctioned	most sanctioned
+sanctioning	most sanctioning
+sanding	most sanding
+sanitary	most sanitary
+sanitized	most sanitized
+satisfied	most satisfied
+satisfying	most satisfying
+saturated	most saturated
+saved	most saved
+saving	most saving
+savored	most savored
+savory	most savory
+sawing	most sawing
+scalable	most scalable
+scalding	most scalding
+scaled	most scaled
+scaling	most scaling
+scandalous	most scandalous
+scanned	most scanned
+scanning	most scanning
+scared	most scared
+scarlet	most scarlet
+scarred	most scarred
+scarring	most scarring
+scathing	most scathing
+scattered	most scattered
+scattering	most scattering
+scented	most scented
+scheduled	most scheduled
+scheduling	most scheduling
+schematic	most schematic
+scheming	most scheming
+scholarly	most scholarly
+schooling	most schooling
+scientific	most scientific
+scintillating	most scintillating
+scoffed	most scoffed
+scorching	most scorching
+scored	most scored
+scoring	most scoring
+scorned	most scorned
+scourged	most scourged
+scouting	most scouting
+scrambled	most scrambled
+scrambling	most scrambling
+scratched	most scratched
+scratching	most scratching
+screamed	most screamed
+screaming	most screaming
+screened	most screened
+screening	most screening
+screwed	most screwed
+scripted	most scripted
+scripting	most scripting
+scrolling	most scrolling
+sculpted	most sculpted
+sculpting	most sculpting
+seafaring	most seafaring
+seagoing	most seagoing
+sealed	most sealed
+sealing	most sealing
+seamless	most seamless
+searching	most searching
+searing	most searing
+seasoned	most seasoned
+seaworthy	most seaworthy
+secluded	most secluded
+secondary	most secondary
+secreted	most secreted
+secretive	most secretive
+secular	most secular
+secured	most secured
+securing	most securing
+sedate	most sedate
+sedentary	most sedentary
+seducing	most seducing
+seductive	most seductive
+seeded	most seeded
+seeking	most seeking
+seething	most seething
+segmented	most segmented
+segregated	most segregated
+segregating	most segregating
+seized	most seized
+selected	most selected
+selecting	most selecting
+selective	most selective
+selfish	most selfish
+selfless	most selfless
+selling	most selling
+senior	most senior
+sensational	most sensational
+sensationalized	most sensationalized
+sensing	most sensing
+sensitive	most sensitive
+sensitized	most sensitized
+sensual	most sensual
+sensuous	most sensuous
+sentenced	most sentenced
+sentencing	most sentencing
+sentimental	most sentimental
+separated	most separated
+separating	most separating
+sequenced	most sequenced
+sequestered	most sequestered
+sequined	most sequined
+serialized	most serialized
+serious	most serious
+serrated	most serrated
+served	most served
+serviceable	most serviceable
+serving	most serving
+set	most set
+setting	most setting
+settled	most settled
+settling	most settling
+severed	most severed
+sewing	most sewing
+sexless	most sexless
+sexual	most sexual
+shaded	most shaded
+shading	most shading
+shadowed	most shadowed
+shaken	most shaken
+shaking	most shaking
+shamed	most shamed
+shaming	most shaming
+shapeless	most shapeless
+shaping	most shaping
+shared	most shared
+sharing	most sharing
+shattered	most shattered
+shattering	most shattering
+shaved	most shaved
+shaving	most shaving
+shed	most shed
+shedding	most shedding
+shelled	most shelled
+sheltered	most sheltered
+shelving	most shelving
+shielding	most shielding
+shifted	most shifted
+shifting	most shifting
+shimmering	most shimmering
+shining	most shining
+shinning	most shinning
+shipping	most shipping
+shivering	most shivering
+shocked	most shocked
+shocking	most shocking
+shooting	most shooting
+shopping	most shopping
+shortlived	most shortlived
+shot	most shot
+shouted	most shouted
+shouting	most shouting
+shredded	most shredded
+shredding	most shredding
+shrinking	most shrinking
+shriveled	most shriveled
+shrivelled	most shrivelled
+shrouded	most shrouded
+shrunken	most shrunken
+shuffling	most shuffling
+shunned	most shunned
+shuttered	most shuttered
+sickening	most sickening
+sidesplitting	most sidesplitting
+sightseeing	most sightseeing
+signaling	most signaling
+signalling	most signalling
+signed	most signed
+significant	most significant
+signing	most signing
+silenced	most silenced
+silent	most silent
+silver	most silver
+simpering	most simpering
+simplified	most simplified
+simulated	most simulated
+simulating	most simulating
+sinewy	most sinewy
+singing	most singing
+singular	most singular
+sinister	most sinister
+sinking	most sinking
+sinuous	most sinuous
+sitting	most sitting
+sizzling	most sizzling
+skateboarding	most skateboarding
+skating	most skating
+skeptical	most skeptical
+skewed	most skewed
+skiing	most skiing
+skilled	most skilled
+skillful	most skillful
+skimming	most skimming
+skinning	most skinning
+skipped	most skipped
+skipping	most skipping
+skittish	most skittish
+slammed	most slammed
+slamming	most slamming
+slanted	most slanted
+slashing	most slashing
+slated	most slated
+slaughtered	most slaughtered
+slaughtering	most slaughtering
+sleeping	most sleeping
+slicing	most slicing
+sliding	most sliding
+slimming	most slimming
+slipped	most slipped
+sloped	most sloped
+sloping	most sloping
+sluggish	most sluggish
+slumbering	most slumbering
+smashed	most smashed
+smashing	most smashing
+smiling	most smiling
+smoked	most smoked
+smoking	most smoking
+smoldering	most smoldering
+smoothed	most smoothed
+smoothing	most smoothing
+smothered	most smothered
+smouldering	most smouldering
+smuggled	most smuggled
+smuggling	most smuggling
+snapped	most snapped
+snappish	most snappish
+snarling	most snarling
+sneaking	most sneaking
+sneering	most sneering
+sniping	most sniping
+sniveling	most sniveling
+snoring	most snoring
+soaked	most soaked
+soaring	most soaring
+sobering	most sobering
+sociable	most sociable
+social	most social
+socializing	most socializing
+sodden	most sodden
+soiled	most soiled
+soldering	most soldering
+solicited	most solicited
+solicitous	most solicitous
+solidified	most solidified
+solitary	most solitary
+solved	most solved
+somber	most somber
+sombre	most sombre
+songful	most songful
+songwriting	most songwriting
+sonorous	most sonorous
+soothing	most soothing
+sophisticated	most sophisticated
+soporific	most soporific
+sorrowful	most sorrowful
+sorted	most sorted
+sorting	most sorting
+soulful	most soulful
+soulless	most soulless
+spacious	most spacious
+spamming	most spamming
+sparing	most sparing
+sparked	most sparked
+sparkling	most sparkling
+spartan	most spartan
+spawning	most spawning
+speaking	most speaking
+specialized	most specialized
+specializing	most specializing
+specific	most specific
+specified	most specified
+spectacular	most spectacular
+speeding	most speeding
+spellbinding	most spellbinding
+spelling	most spelling
+spending	most spending
+spent	most spent
+spherical	most spherical
+spiced	most spiced
+spiked	most spiked
+spineless	most spineless
+spinning	most spinning
+spirited	most spirited
+spiritual	most spiritual
+splintered	most splintered
+splitting	most splitting
+spoiled	most spoiled
+sponsored	most sponsored
+sponsoring	most sponsoring
+spontaneous	most spontaneous
+spoofing	most spoofing
+spooked	most spooked
+sporadic	most sporadic
+spotless	most spotless
+spotted	most spotted
+sprawling	most sprawling
+sprayed	most sprayed
+spraying	most spraying
+spread	most spread
+spreading	most spreading
+spruce	most spruce
+spun	most spun
+spurned	most spurned
+squat	most squat
+squeezable	most squeezable
+squeezed	most squeezed
+stabile	most stabile
+stabilizing	most stabilizing
+stacked	most stacked
+stacking	most stacking
+staged	most staged
+staggering	most staggering
+staging	most staging
+stagnant	most stagnant
+stained	most stained
+staining	most staining
+stalked	most stalked
+stalking	most stalking
+stamped	most stamped
+stamping	most stamping
+standardized	most standardized
+standing	most standing
+starched	most starched
+staring	most staring
+starring	most starring
+starting	most starting
+startled	most startled
+startling	most startling
+starved	most starved
+starving	most starving
+stated	most stated
+static	most static
+stationary	most stationary
+statuesque	most statuesque
+stayed	most stayed
+steadfast	most steadfast
+stealing	most stealing
+steamed	most steamed
+steaming	most steaming
+steering	most steering
+stemmed	most stemmed
+stepped	most stepped
+stereotyped	most stereotyped
+sterile	most sterile
+sticking	most sticking
+stifled	most stifled
+stifling	most stifling
+stigmatized	most stigmatized
+stimulated	most stimulated
+stimulating	most stimulating
+stinging	most stinging
+stinking	most stinking
+stirred	most stirred
+stirring	most stirring
+stitching	most stitching
+stocked	most stocked
+stocking	most stocking
+stoic	most stoic
+stolid	most stolid
+stomping	most stomping
+stoned	most stoned
+stopping	most stopping
+storming	most storming
+storytelling	most storytelling
+straightforward	most straightforward
+strained	most strained
+straining	most straining
+straitlaced	most straitlaced
+stranded	most stranded
+strapped	most strapped
+strategic	most strategic
+stratified	most stratified
+streamed	most streamed
+streaming	most streaming
+streamlined	most streamlined
+streetwise	most streetwise
+strengthened	most strengthened
+strengthening	most strengthening
+strenuous	most strenuous
+stressed	most stressed
+stressful	most stressful
+stretched	most stretched
+stretching	most stretching
+striated	most striated
+striking	most striking
+stringed	most stringed
+striped	most striped
+stripping	most stripping
+struck	most struck
+structured	most structured
+struggling	most struggling
+stuck	most stuck
+studied	most studied
+studying	most studying
+stuffed	most stuffed
+stuffing	most stuffing
+stumbling	most stumbling
+stunned	most stunned
+stunning	most stunning
+stunted	most stunted
+stupefying	most stupefying
+stuttering	most stuttering
+styled	most styled
+styling	most styling
+stylish	most stylish
+stylized	most stylized
+subcontracting	most subcontracting
+subdued	most subdued
+subjective	most subjective
+submerged	most submerged
+submissive	most submissive
+subservient	most subservient
+subsidized	most subsidized
+substantial	most substantial
+substantiated	most substantiated
+suburban	most suburban
+succeeding	most succeeding
+successful	most successful
+succulent	most succulent
+sucking	most sucking
+sudden	most sudden
+suffered	most suffered
+suffering	most suffering
+sufficient	most sufficient
+suffocating	most suffocating
+sugared	most sugared
+suggesting	most suggesting
+suited	most suited
+sumptuous	most sumptuous
+sunburned	most sunburned
+sunk	most sunk
+sunken	most sunken
+supercharged	most supercharged
+superficial	most superficial
+superior	most superior
+supernatural	most supernatural
+superstitious	most superstitious
+supervised	most supervised
+supplemented	most supplemented
+supplying	most supplying
+supporting	most supporting
+supportive	most supportive
+suppressed	most suppressed
+surefooted	most surefooted
+surfed	most surfed
+surfing	most surfing
+surgical	most surgical
+surprised	most surprised
+surprising	most surprising
+surreal	most surreal
+surreptitious	most surreptitious
+surrounding	most surrounding
+surveyed	most surveyed
+surveying	most surveying
+surviving	most surviving
+susceptible	most susceptible
+suspected	most suspected
+suspended	most suspended
+suspenseful	most suspenseful
+suspicious	most suspicious
+sustained	most sustained
+sustaining	most sustaining
+swaggering	most swaggering
+swallowed	most swallowed
+swapped	most swapped
+swashbuckling	most swashbuckling
+swearing	most swearing
+sweating	most sweating
+sweeping	most sweeping
+sweetened	most sweetened
+swelling	most swelling
+sweltering	most sweltering
+swept	most swept
+swimming	most swimming
+swinging	most swinging
+switched	most switched
+switching	most switching
+swollen	most swollen
+sworn	most sworn
+symbolic	most symbolic
+symmetric	most symmetric
+symmetrical	most symmetrical
+sympathetic	most sympathetic
+synchronized	most synchronized
+syncopated	most syncopated
+syndicated	most syndicated
+synthesizing	most synthesizing
+synthetic	most synthetic
+syrupy	most syrupy
+systematic	most systematic
+taciturn	most taciturn
+tactile	most tactile
+tactless	most tactless
+tagging	most tagging
+tailored	most tailored
+talented	most talented
+talentless	most talentless
+talismanic	most talismanic
+talkative	most talkative
+talking	most talking
+tamed	most tamed
+tangible	most tangible
+tangled	most tangled
+tanned	most tanned
+tantalizing	most tantalizing
+taped	most taped
+tapered	most tapered
+tapped	most tapped
+tapping	most tapping
+targeted	most targeted
+targeting	most targeting
+tarnished	most tarnished
+tasteful	most tasteful
+tasteless	most tasteless
+tattered	most tattered
+tattooed	most tattooed
+taught	most taught
+taunting	most taunting
+taxable	most taxable
+taxed	most taxed
+taxing	most taxing
+taxpaying	most taxpaying
+teaching	most teaching
+teasing	most teasing
+technical	most technical
+tedious	most tedious
+teeming	most teeming
+teenaged	most teenaged
+teething	most teething
+telemarketing	most telemarketing
+telescoping	most telescoping
+televised	most televised
+temperamental	most temperamental
+temperate	most temperate
+tempered	most tempered
+tempestuous	most tempestuous
+temporary	most temporary
+tempting	most tempting
+tenacious	most tenacious
+tended	most tended
+tending	most tending
+tentative	most tentative
+tenuous	most tenuous
+tenured	most tenured
+terminated	most terminated
+terminating	most terminating
+terrible	most terrible
+terrified	most terrified
+terrifying	most terrifying
+territorial	most territorial
+terrorized	most terrorized
+terrorizing	most terrorizing
+tested	most tested
+testing	most testing
+tethered	most tethered
+textured	most textured
+theatrical	most theatrical
+themed	most themed
+theorized	most theorized
+theorizing	most theorizing
+thermosetting	most thermosetting
+thickheaded	most thickheaded
+thieving	most thieving
+thinking	most thinking
+thinning	most thinning
+thoroughbred	most thoroughbred
+thoughtful	most thoughtful
+thoughtless	most thoughtless
+thrashing	most thrashing
+threaded	most threaded
+threatened	most threatened
+threatening	most threatening
+thrilling	most thrilling
+thriving	most thriving
+throbbing	most throbbing
+thronged	most thronged
+throwing	most throwing
+thrown	most thrown
+thrusting	most thrusting
+thumping	most thumping
+thundering	most thundering
+thunderous	most thunderous
+thwarted	most thwarted
+ticked	most ticked
+ticketed	most ticketed
+tickling	most tickling
+tied	most tied
+tiled	most tiled
+tilted	most tilted
+timed	most timed
+timeless	most timeless
+timesaving	most timesaving
+timing	most timing
+tinned	most tinned
+tinted	most tinted
+tipped	most tipped
+tipping	most tipping
+tireless	most tireless
+tiresome	most tiresome
+tiring	most tiring
+titillating	most titillating
+titled	most titled
+toasted	most toasted
+tolerant	most tolerant
+tolerated	most tolerated
+toned	most toned
+toning	most toning
+toothed	most toothed
+toothless	most toothless
+toothsome	most toothsome
+topical	most topical
+topped	most topped
+tormented	most tormented
+tormenting	most tormenting
+torpid	most torpid
+tortured	most tortured
+torturing	most torturing
+torturous	most torturous
+tossed	most tossed
+totemic	most totemic
+tottering	most tottering
+touching	most touching
+touring	most touring
+towed	most towed
+towering	most towering
+towing	most towing
+toxic	most toxic
+traceable	most traceable
+traced	most traced
+tracing	most tracing
+tracked	most tracked
+tracking	most tracking
+tractable	most tractable
+traded	most traded
+trading	most trading
+traditional	most traditional
+trafficked	most trafficked
+trafficking	most trafficking
+tragic	most tragic
+trailing	most trailing
+trained	most trained
+training	most training
+trampled	most trampled
+tranquil	most tranquil
+tranquilizing	most tranquilizing
+transcendent	most transcendent
+transferred	most transferred
+transferring	most transferring
+transforming	most transforming
+transient	most transient
+transistorized	most transistorized
+transitioning	most transitioning
+translated	most translated
+translating	most translating
+translucent	most translucent
+transmitted	most transmitted
+transmitting	most transmitting
+transparent	most transparent
+transplanted	most transplanted
+transportable	most transportable
+transported	most transported
+transporting	most transporting
+trapped	most trapped
+trapping	most trapping
+trashed	most trashed
+traumatic	most traumatic
+traumatized	most traumatized
+traumatizing	most traumatizing
+traveling	most traveling
+traversed	most traversed
+trawling	most trawling
+treacherous	most treacherous
+treasured	most treasured
+treated	most treated
+treating	most treating
+trekking	most trekking
+trembling	most trembling
+tremendous	most tremendous
+trenchant	most trenchant
+trifling	most trifling
+triggered	most triggered
+trimmed	most trimmed
+trimming	most trimming
+tripped	most tripped
+trolling	most trolling
+troubled	most troubled
+troubleshooting	most troubleshooting
+troublesome	most troublesome
+troubling	most troubling
+trucking	most trucking
+trusted	most trusted
+trustful	most trustful
+trusting	most trusting
+truthful	most truthful
+tumbling	most tumbling
+tumultuous	most tumultuous
+tuned	most tuned
+tuneful	most tuneful
+tuning	most tuning
+tunneling	most tunneling
+turbulent	most turbulent
+turgid	most turgid
+turning	most turning
+tutoring	most tutoring
+tweaked	most tweaked
+tweaking	most tweaking
+twee	most twee
+twisted	most twisted
+twisting	most twisting
+typed	most typed
+typesetting	most typesetting
+typing	most typing
+tyrannical	most tyrannical
+ubiquitous	most ubiquitous
+unabashed	most unabashed
+unabridged	most unabridged
+unacceptable	most unacceptable
+unadorned	most unadorned
+unaffiliated	most unaffiliated
+unalloyed	most unalloyed
+unalterable	most unalterable
+unaltered	most unaltered
+unambiguous	most unambiguous
+unambitious	most unambitious
+unanswered	most unanswered
+unanticipated	most unanticipated
+unappetizing	most unappetizing
+unapproachable	most unapproachable
+unarmed	most unarmed
+unassuming	most unassuming
+unattached	most unattached
+unattainable	most unattainable
+unattractive	most unattractive
+unauthorized	most unauthorized
+unbalanced	most unbalanced
+unbearable	most unbearable
+unbecoming	most unbecoming
+unbelievable	most unbelievable
+unbelieving	most unbelieving
+unbending	most unbending
+unbiased	most unbiased
+unblemished	most unblemished
+unbounded	most unbounded
+unbreakable	most unbreakable
+unbridled	most unbridled
+unbuttoned	most unbuttoned
+uncaring	most uncaring
+unceasing	most unceasing
+uncensored	most uncensored
+uncertain	most uncertain
+unchallenged	most unchallenged
+unchallenging	most unchallenging
+unchangeable	most unchangeable
+unchanging	most unchanging
+uncharitable	most uncharitable
+uncharted	most uncharted
+unchecked	most unchecked
+uncivilized	most uncivilized
+unclassified	most unclassified
+unclean	most unclean
+unclear	most unclear
+uncluttered	most uncluttered
+uncomfortable	most uncomfortable
+uncommitted	most uncommitted
+uncommon	most uncommon
+uncommunicative	most uncommunicative
+uncompensated	most uncompensated
+uncomplaining	most uncomplaining
+uncomplicated	most uncomplicated
+uncompressed	most uncompressed
+uncompromising	most uncompromising
+unconcerned	most unconcerned
+unconscious	most unconscious
+uncontested	most uncontested
+uncontrollable	most uncontrollable
+uncontrolled	most uncontrolled
+uncontroversial	most uncontroversial
+unconventional	most unconventional
+unconvinced	most unconvinced
+unconvincing	most unconvincing
+uncorrupted	most uncorrupted
+uncouth	most uncouth
+uncovered	most uncovered
+uncredited	most uncredited
+unctuous	most unctuous
+uncultivated	most uncultivated
+uncultured	most uncultured
+undated	most undated
+undaunted	most undaunted
+undecided	most undecided
+undeclared	most undeclared
+undefeated	most undefeated
+undefiled	most undefiled
+undefined	most undefined
+undemocratic	most undemocratic
+undeniable	most undeniable
+underachieving	most underachieving
+underdeveloped	most underdeveloped
+underexposed	most underexposed
+underlined	most underlined
+underlying	most underlying
+undermining	most undermining
+underperforming	most underperforming
+underprepared	most underprepared
+underprivileged	most underprivileged
+underqualified	most underqualified
+understanding	most understanding
+understated	most understated
+undertaken	most undertaken
+undervalued	most undervalued
+underwriting	most underwriting
+undeserved	most undeserved
+undesirable	most undesirable
+undesired	most undesired
+undetected	most undetected
+undeveloped	most undeveloped
+undiagnosed	most undiagnosed
+undifferentiated	most undifferentiated
+undignified	most undignified
+undiluted	most undiluted
+undisciplined	most undisciplined
+undiscovered	most undiscovered
+undisguised	most undisguised
+undisputed	most undisputed
+undistinguished	most undistinguished
+undisturbed	most undisturbed
+undivided	most undivided
+undocumented	most undocumented
+undoubted	most undoubted
+undressed	most undressed
+undulating	most undulating
+undying	most undying
+unearned	most unearned
+unedifying	most unedifying
+unedited	most unedited
+uneducated	most uneducated
+unemotional	most unemotional
+unemployed	most unemployed
+unencumbered	most unencumbered
+unending	most unending
+unenthusiastic	most unenthusiastic
+unequal	most unequal
+unequivocal	most unequivocal
+unerring	most unerring
+unethical	most unethical
+uneven	most uneven
+uneventful	most uneventful
+unexpected	most unexpected
+unexplained	most unexplained
+unexplored	most unexplored
+unfaithful	most unfaithful
+unfathomable	most unfathomable
+unfeeling	most unfeeling
+unfettered	most unfettered
+unfiltered	most unfiltered
+unfinished	most unfinished
+unflagging	most unflagging
+unflappable	most unflappable
+unflattering	most unflattering
+unflinching	most unflinching
+unfocused	most unfocused
+unfolded	most unfolded
+unforeseeable	most unforeseeable
+unforgettable	most unforgettable
+unforgiving	most unforgiving
+unformed	most unformed
+unfortunate	most unfortunate
+unfounded	most unfounded
+unfree	most unfree
+unfulfilled	most unfulfilled
+ungainly	most ungainly
+ungrammatical	most ungrammatical
+ungrateful	most ungrateful
+unhelpful	most unhelpful
+unhindered	most unhindered
+unhinged	most unhinged
+unhurried	most unhurried
+unidentified	most unidentified
+unified	most unified
+uniform	most uniform
+uniformed	most uniformed
+unifying	most unifying
+unimaginative	most unimaginative
+unimportant	most unimportant
+unimpressive	most unimpressive
+uninformative	most uninformative
+uninformed	most uninformed
+uninhabited	most uninhabited
+uninhibited	most uninhibited
+uninitiated	most uninitiated
+uninspired	most uninspired
+uninspiring	most uninspiring
+uninsured	most uninsured
+unintelligent	most unintelligent
+unintelligible	most unintelligible
+unintended	most unintended
+unintentional	most unintentional
+uninteresting	most uninteresting
+uninterrupted	most uninterrupted
+uninvited	most uninvited
+uninviting	most uninviting
+uninvolved	most uninvolved
+unionized	most unionized
+unique	most unique
+unitary	most unitary
+united	most united
+unjust	most unjust
+unjustified	most unjustified
+unknowing	most unknowing
+unlawful	most unlawful
+unleashed	most unleashed
+unlettered	most unlettered
+unleveraged	most unleveraged
+unlicensed	most unlicensed
+unlimited	most unlimited
+unlined	most unlined
+unlisted	most unlisted
+unloaded	most unloaded
+unlocked	most unlocked
+unlovable	most unlovable
+unloved	most unloved
+unmanageable	most unmanageable
+unmanly	most unmanly
+unmanned	most unmanned
+unmarked	most unmarked
+unmarried	most unmarried
+unmatched	most unmatched
+unmistakable	most unmistakable
+unmitigated	most unmitigated
+unmoderated	most unmoderated
+unmotivated	most unmotivated
+unmoved	most unmoved
+unnamed	most unnamed
+unnatural	most unnatural
+unnecessary	most unnecessary
+unneeded	most unneeded
+unnerving	most unnerving
+unnoticeable	most unnoticeable
+unnoticed	most unnoticed
+unobtrusive	most unobtrusive
+unopened	most unopened
+unorganized	most unorganized
+unpaid	most unpaid
+unparalleled	most unparalleled
+unpatriotic	most unpatriotic
+unpaved	most unpaved
+unplanned	most unplanned
+unpleasant	most unpleasant
+unpolished	most unpolished
+unpopular	most unpopular
+unpredictable	most unpredictable
+unprejudiced	most unprejudiced
+unprepared	most unprepared
+unpretentious	most unpretentious
+unprincipled	most unprincipled
+unproductive	most unproductive
+unprofessional	most unprofessional
+unprovoked	most unprovoked
+unpublished	most unpublished
+unqualified	most unqualified
+unquestioned	most unquestioned
+unquestioning	most unquestioning
+unraveling	most unraveling
+unreachable	most unreachable
+unreal	most unreal
+unrealistic	most unrealistic
+unrealized	most unrealized
+unreasonable	most unreasonable
+unreasoning	most unreasoning
+unrecognizable	most unrecognizable
+unrecognized	most unrecognized
+unreconstructed	most unreconstructed
+unrefined	most unrefined
+unreflecting	most unreflecting
+unreformed	most unreformed
+unregulated	most unregulated
+unreleased	most unreleased
+unrelenting	most unrelenting
+unreliable	most unreliable
+unremarkable	most unremarkable
+unremitting	most unremitting
+unrequited	most unrequited
+unresolved	most unresolved
+unresponsive	most unresponsive
+unrestrained	most unrestrained
+unrestricted	most unrestricted
+unrestrictive	most unrestrictive
+unrewarding	most unrewarding
+unrivaled	most unrivaled
+unromantic	most unromantic
+unruffled	most unruffled
+unsanitary	most unsanitary
+unsatisfied	most unsatisfied
+unsavory	most unsavory
+unsavoury	most unsavoury
+unscheduled	most unscheduled
+unscientific	most unscientific
+unscripted	most unscripted
+unscrupulous	most unscrupulous
+unsealed	most unsealed
+unsecured	most unsecured
+unsentimental	most unsentimental
+unsettled	most unsettled
+unsettling	most unsettling
+unsightly	most unsightly
+unsigned	most unsigned
+unsociable	most unsociable
+unsolicited	most unsolicited
+unsolved	most unsolved
+unsophisticated	most unsophisticated
+unsparing	most unsparing
+unspoiled	most unspoiled
+unstable	most unstable
+unsteady	most unsteady
+unstinting	most unstinting
+unstoppable	most unstoppable
+unstructured	most unstructured
+unsubstantial	most unsubstantial
+unsubstantiated	most unsubstantiated
+unsubtle	most unsubtle
+unsuited	most unsuited
+unsullied	most unsullied
+unsupported	most unsupported
+unsurpassed	most unsurpassed
+unsuspecting	most unsuspecting
+unswerving	most unswerving
+unsympathetic	most unsympathetic
+untalented	most untalented
+untamed	most untamed
+untested	most untested
+unthinkable	most unthinkable
+unthinking	most unthinking
+unthreatening	most unthreatening
+untiring	most untiring
+untouchable	most untouchable
+untouched	most untouched
+untrained	most untrained
+untreated	most untreated
+untrustworthy	most untrustworthy
+untruthful	most untruthful
+untutored	most untutored
+unvarnished	most unvarnished
+unvarying	most unvarying
+unwanted	most unwanted
+unwarranted	most unwarranted
+unwavering	most unwavering
+unwelcome	most unwelcome
+unwelcomed	most unwelcomed
+unwieldy	most unwieldy
+unwilling	most unwilling
+unwitting	most unwitting
+unworldly	most unworldly
+unyielding	most unyielding
+updated	most updated
+upfront	most upfront
+upheld	most upheld
+upholstered	most upholstered
+uplifting	most uplifting
+uploaded	most uploaded
+upright	most upright
+uprising	most uprising
+uprooted	most uprooted
+upstanding	most upstanding
+upwelling	most upwelling
+urbanized	most urbanized
+urgent	most urgent
+usurping	most usurping
+uttered	most uttered
+vacant	most vacant
+vacationing	most vacationing
+vaccinated	most vaccinated
+vacillating	most vacillating
+vacuous	most vacuous
+valiant	most valiant
+valid	most valid
+validated	most validated
+valuable	most valuable
+valued	most valued
+valueless	most valueless
+vandalized	most vandalized
+vanilla	most vanilla
+vanished	most vanished
+vanishing	most vanishing
+vaporous	most vaporous
+varied	most varied
+variegated	most variegated
+vascularized	most vascularized
+vaulting	most vaulting
+vegetated	most vegetated
+veiled	most veiled
+vending	most vending
+venerated	most venerated
+venomous	most venomous
+vented	most vented
+ventilated	most ventilated
+ventilating	most ventilating
+venturing	most venturing
+verdant	most verdant
+verified	most verified
+versatile	most versatile
+versed	most versed
+vertical	most vertical
+vested	most vested
+vexing	most vexing
+viable	most viable
+vibrant	most vibrant
+vibrating	most vibrating
+vicious	most vicious
+victimized	most victimized
+videotaped	most videotaped
+viewing	most viewing
+vigilant	most vigilant
+vigorous	most vigorous
+vindictive	most vindictive
+violated	most violated
+violating	most violating
+violent	most violent
+violet	most violet
+viral	most viral
+virile	most virile
+virtuous	most virtuous
+virulent	most virulent
+visible	most visible
+visited	most visited
+visiting	most visiting
+visual	most visual
+vital	most vital
+vivacious	most vivacious
+vivifying	most vivifying
+vocal	most vocal
+voiceless	most voiceless
+void	most void
+volatile	most volatile
+volcanic	most volcanic
+volunteering	most volunteering
+voluptuous	most voluptuous
+vomiting	most vomiting
+voracious	most voracious
+voting	most voting
+vulnerable	most vulnerable
+wading	most wading
+wagering	most wagering
+waiting	most waiting
+wakeful	most wakeful
+walking	most walking
+walled	most walled
+wandering	most wandering
+wanted	most wanted
+warehousing	most warehousing
+warmed	most warmed
+warmhearted	most warmhearted
+warming	most warming
+warmongering	most warmongering
+warning	most warning
+warped	most warped
+warring	most warring
+washed	most washed
+washing	most washing
+wasteful	most wasteful
+wasting	most wasting
+watchful	most watchful
+watching	most watching
+watered	most watered
+waterlogged	most waterlogged
+watermarking	most watermarking
+waterproof	most waterproof
+waterproofing	most waterproofing
+watertight	most watertight
+watery	most watery
+waved	most waved
+wavering	most wavering
+waving	most waving
+waxing	most waxing
+weakening	most weakening
+weaponized	most weaponized
+wearied	most wearied
+wearing	most wearing
+weathered	most weathered
+weaving	most weaving
+wedded	most wedded
+wee	most wee
+weeding	most weeding
+weeping	most weeping
+weighing	most weighing
+weighted	most weighted
+welcome	most welcome
+welcomed	most welcomed
+welcoming	most welcoming
+welded	most welded
+welding	most welding
+western	most western
+whaling	most whaling
+wheeled	most wheeled
+whimsical	most whimsical
+whining	most whining
+whipped	most whipped
+whispered	most whispered
+wholehearted	most wholehearted
+wholesome	most wholesome
+widespread	most widespread
+widowed	most widowed
+winding	most winding
+windsurfing	most windsurfing
+winemaking	most winemaking
+winged	most winged
+wintering	most wintering
+wired	most wired
+wireless	most wireless
+wiring	most wiring
+wiry	most wiry
+wistful	most wistful
+withered	most withered
+withering	most withering
+witnessed	most witnessed
+wizened	most wizened
+wonderful	most wonderful
+wooded	most wooded
+wooden	most wooden
+wooing	most wooing
+worked	most worked
+worn	most worn
+worried	most worried
+worrisome	most worrisome
+worrying	most worrying
+worshiped	most worshiped
+worshipped	most worshipped
+worthless	most worthless
+wound	most wound
+wounded	most wounded
+wounding	most wounding
+woven	most woven
+wrapped	most wrapped
+wrapping	most wrapping
+wrecked	most wrecked
+wrenching	most wrenching
+wrestling	most wrestling
+wrinkled	most wrinkled
+writing	most writing
+written	most written
+wronged	most wronged
+xenophobic	most xenophobic
+yawning	most yawning
+yearning	most yearning
+yelled	most yelled
+yelling	most yelling
+yielding	most yielding
+youthful	most youthful
+zealous	most zealous
+zipped	most zipped
+zippered	most zippered
