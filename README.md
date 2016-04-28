@@ -116,4 +116,7 @@ The NOC distribution contains a variety of spreadsheets, each one a triple store
 
 Veale's The NOC List.xlsx
 
+Veale's vehicle fleet.xlsx
+
+Veale's weapon arsenal.xlsx
 
