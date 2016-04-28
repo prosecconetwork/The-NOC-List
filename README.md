@@ -91,4 +91,17 @@ If #MonicaLewinsky is #Lucifer in a stained blue dress, who in #TheNewTestament 
 When it comes to #TheDemocrats, is #HillaryClinton just #UriahHeap in a pant suit? She is ambitious yet grasping, and controversial too
 
 
-Well, you get the idea. This data and code should make it easy enough for you to generate some interesting pop-cultural outputs of your own for use in stories, jokes, tweets, etc. Feel free to add to the data (or correct any mistakes you may find).
+All of the knowledge in the NOC is stored as a collection of semantic triples. 
+Now, one can use XML, RDF, RDFS or OWL to store a collection of semantic triples, but the core of the triple stays the same regardless of the formalism we use to encode it. So why bother with a complex syntactic sugar for the sake of formalistic appearances? When it comes to maintaining and editing and sharing a large body of semantic triples the most flexible format is a spreadsheet. 
+As mundane as it may sound, a spreadsheet is perfect for this kind of representation work. 
+
+Every cell, representing as it does a value-containing intersection of a named column and a named row, represents a single triple. We can share spreadsheets easily (and post them on the Web as Google docs for communal editing) and cut-and-paste relevant parts with abandon. 
+So every piece of information in Scéalextricis to be found in a spreadsheet. Each sheet can be saved as a tab-separated-values text file for easy processing by Java and Python programs, and we encourage you to add new columns and rows to each one, and to create new spreadsheets of your own with complementary forms of knowledge.
+
+Consider a semantic relationdhip P(X, Y) where P is a predicate that holds between X and Y.  We can represent a collection of triples of the form P(X, Y) in a spreadsheet with a column labelled P, a row whose first (and key) value is X, and a cell at the intersection of this row and the column labelled P that contains the value Y. This cell may contain multiple values Y1, Y2 ... Yn, each separated by commas, so this cell would represent a group of predications P(X, Y1), P(X, Y2) ... P(X, Yn)
+
+The NOC distribution contains a variety of spreadsheets, each one a triple store that stores its semantic triples in this fashion. The following are the main files in the distribution:
+
+Veale's The NOC List.xlsx
+
+
