@@ -1,4 +1,11 @@
 # The-NOC-List
+
+Created by Tony Veale for use by the CC community. No warranty is offered or implied. Whe publishing work based in whole or in part on these resources, please cite the following paper as a reference for the NOC approach and knowledge resource:
+
+Veale, T. (2016). Round Up The Usual Suspects: Knowledge-Based Metaphor Generation. In Proceedings of the Meta4NLP Workshop on Metaphor at NAACL-2016, the annual meeting of the North American Association for Computational Linguistics. San Diego, California.
+
+The NOC List
+
 The Non-Official Characterization (NOC) List is a knowledge-base containing semantic triples about famous people, living and dead, fictional and real, for use in story generation, joke generation, metaphor generation and other computational creativity generation systems.
 
 The NOC List is a large knowledge-base (approx. 30k triples) of pop-culture knowledge about famous individuals, whether living or dead and fictional or real. It was designed to act as a rich source of knowledge for automated metaphor generation and story-telling in Computational Creativity systems such as Twitterbots. This README describes the current state of the knowledge-base (which I call the NOC List, for Non-Official Characterizations List, in a nod to the McGuffin in the first Mission Impossible movie).
