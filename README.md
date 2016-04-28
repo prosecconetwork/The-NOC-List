@@ -21,17 +21,29 @@ The slides in the README directory offer the best overall introduction to the kn
 The class KnowledgeBaseModule.java is designed so that a single instance contains all the information in a single spreadsheet/TSV file. So a different instance is created for each of the data files in the knowledge-base. This is an extract from the class PersonOfInterest.java, which uses the data to generate interesting things:
 
 NOC = new KnowledgeBaseModule(kDir + “Veale’s The NOC List.txt”, 0);
+
 CATS = new KnowledgeBaseModule(kDir + “Veale’s Category Hierarchy.txt”, 0);
+
 CLOTHES = new KnowledgeBaseModule(kDir + “Veale’s clothing line.txt”, 1);
+
 CREATIONS = new KnowledgeBaseModule(kDir + “Veale’s creations.txt”, 0);
+
 DOMAINS = new KnowledgeBaseModule(kDir + “Veale’s domains.txt”, 0);
+
 WORLDS = new KnowledgeBaseModule(kDir + “Veale’s fictional worlds.txt”, 0);
+
 VEHICLES = new KnowledgeBaseModule(kDir + “Veale’s vehicle fleet.txt”, 1);
+
 WEAPONS = new KnowledgeBaseModule(kDir + “Veale’s weapon arsenal.txt”, 1);
+
 PLACES = new KnowledgeBaseModule(kDir + “Veale’s place elements.txt”, 0);
+
 SUPERLATIVES = new KnowledgeBaseModule(kDir + “superlatives.txt”, 0);
+
 COMPARATIVES = new KnowledgeBaseModule(kDir + “comparatives.txt”, 0);
+
 ANTONYMS = new KnowledgeBaseModule(kDir + “antonyms.txt”, 0);
+
 PAST_PERFECTS = new KnowledgeBaseModule(kDir + “past perfects.txt”, 0);
 
 Choose kDir to point to the TSV Lists subdirectory of the DATA directory and the above modules should load cleanly.
