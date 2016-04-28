@@ -103,7 +103,7 @@ If #MonicaLewinsky is #Lucifer in a stained blue dress, who in #TheNewTestament 
 When it comes to #TheDemocrats, is #HillaryClinton just #UriahHeap in a pant suit? She is ambitious yet grasping, and controversial too
 
 
-All of the knowledge in the NOC is stored as a collection of semantic triples. 
+All of the knowledge in the NOC and its various modules is stored as a collection of semantic triples. 
 Now, one can use XML, RDF, RDFS or OWL to store a collection of semantic triples, but the core of the triple stays the same regardless of the formalism we use to encode it. So why bother with a complex syntactic sugar for the sake of formalistic appearances? When it comes to maintaining and editing and sharing a large body of semantic triples the most flexible format is a spreadsheet. 
 As mundane as it may sound, a spreadsheet is perfect for this kind of representation work. 
 
@@ -112,7 +112,7 @@ So every piece of information in Scéalextricis to be found in a spreadsheet. Ea
 
 Consider a semantic relationdhip P(X, Y) where P is a predicate that holds between X and Y.  We can represent a collection of triples of the form P(X, Y) in a spreadsheet with a column labelled P, a row whose first (and key) value is X, and a cell at the intersection of this row and the column labelled P that contains the value Y. This cell may contain multiple values Y1, Y2 ... Yn, each separated by commas, so this cell would represent a group of predications P(X, Y1), P(X, Y2) ... P(X, Yn)
 
-The NOC distribution contains a variety of spreadsheets, each one a triple store that stores its semantic triples in this fashion. The following are the main files in the distribution:
+The NOC distribution contains a variety of spreadsheets, each one a triple store that stores its semantic triples in this fashion. The following are the main spreadsheets in the distribution (the TSV Lists directory contains text file equivalents in which the spreadsheets have been saved in tab-separated-values [TSV] format):
 
 Veale's The NOC List.xlsx
 
@@ -137,6 +137,10 @@ This triple-store provides useful detail on the clothing items associated with c
 Veale's creations.xlsx
 
 This triple-store provides useful detail on the creations associated with characters in the central NOC triple-store above. For instance, Seth McFarlane is the creator of Family Guy and this triple-store indicates that Family Guy is a TV show
+
+Veale's Fictional Worlds.xlsx
+
+Family Guy is also a fictional world in which a variety of characters live and interact.  This triple-store characterizes the fictional worlds associated with the characters of the main NOC triple-store.
 
 Veale's domains.xlsx
 
