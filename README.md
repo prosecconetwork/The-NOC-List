@@ -116,7 +116,7 @@ The NOC distribution contains a variety of spreadsheets, each one a triple store
 
 Veale's The NOC List.xlsx
 
-This spreadsheet encodes the central triple-store in which chaarcters are defined. Other triple-stores/spreadsheets in the NOC distribution provide further detail on the concepts used in this central triple-store. The first and key column provides the names of the characters, one row per character. Other columns then contain attributes of each character and related ideas, such as Gender, Political leaning, Address, Spouse, Opponent, Weapon, Vehicle, Typical Activities, Typical Clothing, Group Affiliation,  Domain, Fictive status (real or fictional?),  Creator (if fictional), Taxonomic Category, Positive Talking Points and Negative Talking Points
+This spreadsheet encodes the central triple-store in which characters are defined. Other triple-stores/spreadsheets in the NOC distribution provide further detail on the concepts used in this central triple-store. The first and key column provides the names of the characters, one row per character. Other columns then contain attributes of each character and related ideas, such as Gender, Political leaning, Address, Spouse, Opponent, Weapon, Vehicle, Typical Activities, Typical Clothing, Group Affiliation,  Domain, Fictive status (real or fictional?),  Creator (if fictional), Taxonomic Category, Positive Talking Points and Negative Talking Points
 
 Veale's vehicle fleet.xlsx
 
@@ -148,7 +148,7 @@ This triple-store provides useful detail on the genres and domains associated wi
 
 Veale's category hierarchy.xlsx
 
-This triple-store provides useful detail on the taxonomic categories associated with characters in the central NOC triple-store above. In effect, it clusters these categories into broader categories to form a semantic hierarcgy or IS-A hierarchy in the old-fashioned AI sense.
+This triple-store provides useful detail on the taxonomic categories associated with characters in the central NOC triple-store above. In effect, it clusters these categories into broader categories to form a semantic hierarchy or IS-A hierarchy in the old-fashioned AI sense.
 
 
 
