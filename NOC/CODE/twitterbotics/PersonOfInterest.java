@@ -3,14 +3,15 @@ package twitterbotics;
 import java.io.FileOutputStream;
 import java.io.OutputStreamWriter;
 import java.util.Random;
+import java.util.StringTokenizer;
 import java.util.Vector;
 import java.util.Hashtable;
 
-import com.sun.j3d.utils.behaviors.picking.Intersect;
+
 
 // Use the knowledge-base(s) of famous people (real and fictional) to generate apt comparisons
 
-public class PersonOfInterest 
+public class PersonOfInterest extends Dribbler
 {
 	static Random DICE 						 = new Random();
 	
@@ -40,6 +41,7 @@ public class PersonOfInterest
 	
 	private Hashtable NEG_QUALITIES 		 = null;
 	private Hashtable POS_QUALITIES 		 = null;
+	private Hashtable ALL_QUALITIES 		 = null;
 	
 
 	private Vector attributeFields 			 = null;
@@ -71,8 +73,10 @@ public class PersonOfInterest
 		PAST_PERFECTS = new KnowledgeBaseModule(knowledgeDir + "past perfects.txt", 0);
 		POS_QUALITIES = NOC.getInvertedField("Positive Talking Points");
 		NEG_QUALITIES = NOC.getInvertedField("Negative Talking Points");
-
-		allPeople       = NOC.getKeyConcepts();
+		ALL_QUALITIES = NOC.getInvertedField("Positive Talking Points");
+		ALL_QUALITIES = NOC.getInvertedField("Negative Talking Points", ALL_QUALITIES);
+		
+		allPeople       = NOC.getAllFrames();
 		
 		fictionalPeople = NOC.getAllKeysWithFieldValue("Fictive Status", "fictional");
 		realPeople      = NOC.difference(allPeople, fictionalPeople);
@@ -84,9 +88,355 @@ public class PersonOfInterest
 		
 		attributeFields = new Vector();
 		attributeFields.add("Negative Talking Points");
-		attributeFields.add("Positive Talking Points");
+		attributeFields.add("Positive Talking Points");		
 	}
 	
+	
+
+	
+	
+	//-----------------------------------------------------------------------------------------------//
+	//-----------------------------------------------------------------------------------------------//
+	// Generate Hulk Smash tweets
+	//-----------------------------------------------------------------------------------------------//
+	//-----------------------------------------------------------------------------------------------//
+
+	public void generateHulkSmashTweets(String tweetDir)
+	{
+		Vector exemplars = NOC.getAllFrames();
+		
+		openDribbleFile(tweetDir + "NOC Hulk tweets.idx");
+		
+
+		for (int e = 0; e < exemplars.size(); e++)
+		{
+			String exemplar   = (String)exemplars.elementAt(e);
+			
+			if (exemplar.indexOf("Hulk") >= 0) continue;
+			
+			String pronoun    = "he";
+			String possPro	  = "His";
+			
+					
+			if (NOC.hasFieldValue("Gender", exemplar, "female"))
+			{
+				pronoun = "she";
+				possPro = "Her";
+			}
+			
+			Vector vehicles   = NOC.getFieldValues("Vehicle of Choice", exemplar);
+			Vector weapons    = NOC.getFieldValues("Weapon of Choice", exemplar);
+			Vector actions    = NOC.getFieldValues("Typical Activity", exemplar);
+			
+			if (actions == null) continue;
+			
+			for (int a = 0; a < actions.size(); a++)
+			{
+				String action = (String)actions.elementAt(a);
+			
+				String hate   = "Hulk hate puny humans who tweet about " + action + ".";
+				
+				if (vehicles != null)
+				{
+					for (int v = 0; v < vehicles.size(); v++)
+					{
+						String vehicle = (String)vehicles.elementAt(v);
+								
+						String smash   = "Hulk smash " + NOC.hashtagify(exemplar) + " and the " + vehicle + " " + pronoun + " rode in on.";
+						
+						String tweet   = hate + "\t|" + smash;
+						
+						if (tweet.length() <= 140)
+							printlnDribbleFile(getDribblePosition() + "\t" + NOC.hashtagify(exemplar) + "\t" + tweet);
+					}
+				}
+				
+				if (weapons != null)
+				{
+					for (int w = 0; w < weapons.size(); w++)
+					{
+						String weapon = (String)weapons.elementAt(w);
+						
+						if (weapon.indexOf((int)' ') < 0)
+							weapon = "puny " + weapon;
+								
+						String smash   = "Hulk smash " + NOC.hashtagify(exemplar) + " first. " +  possPro + " " + weapon + " not frighten Hulk.";
+						
+						String tweet   = hate + "\t|" + smash;
+						
+						if (tweet.length() <= 140)
+							printlnDribbleFile(getDribblePosition() + "\t" + NOC.hashtagify(exemplar) + "\t" + tweet);
+					}
+				}
+				
+			}
+		}
+		
+		closeDribbleFile();
+	}
+	
+	
+	//-----------------------------------------------------------------------------------------------//
+	//-----------------------------------------------------------------------------------------------//
+	// Generate Epitaphs
+	//-----------------------------------------------------------------------------------------------//
+	//-----------------------------------------------------------------------------------------------//
+
+	public void generateEpitaphs(String tweetDir)
+	{
+		Vector exemplars = NOC.getAllFrames();
+		
+		openDribbleFile(tweetDir + "NOC epitaph tweets.idx");
+		
+		KnowledgeBaseModule affordTenses = new KnowledgeBaseModule(knowledgeDir + "Veale's affordances.txt", 0);
+		
+		for (int e = 0; e < exemplars.size(); e++)
+		{
+			String exemplar   = (String)exemplars.elementAt(e);
+			
+			String pronoun    = "he";
+			String possPro	  = "his";
+			
+			String canonicalName = NOC.getFirstValue("Canonical Name", exemplar), firstName = canonicalName;
+			
+			if (canonicalName == null) continue;
+					
+			if (canonicalName.indexOf((int)' ') > 0)
+				firstName = canonicalName.substring(0, canonicalName.indexOf((int)' '));
+					
+			if (NOC.hasFieldValue("Gender", exemplar, "female"))
+			{
+				pronoun = "she";
+				possPro = "her";
+			}
+			
+			Vector vehicles   = NOC.getFieldValues("Vehicle of Choice", exemplar);
+			Vector weapons    = NOC.getFieldValues("Weapon of Choice", exemplar);
+			Vector opponents  = NOC.getFieldValues("Opponent", exemplar);
+			Vector actors     = NOC.getFieldValues("Portrayed By", exemplar);
+			Vector actions    = NOC.getFieldValues("Typical Activity", exemplar);
+			
+			if (vehicles != null && vehicles.size() > 0)
+			{
+				for (int v  = 0; v < vehicles.size(); v++)
+				{
+					String vehicle = (String)vehicles.elementAt(v);
+					
+					Vector affordances = VEHICLES.getFieldValues("Affordances", vehicle);
+					
+					if (affordances == null) continue;
+					
+					if (affordances.contains("driving"))			
+						printlnDribbleFile(getDribblePosition() + "\t" + NOC.hashtagify(exemplar) + "\t" +
+										   "I came, I saw, I ran them over in my " + vehicle + "|\t" +
+										   "(Suggested epitaph for " + NOC.hashtagify(exemplar) + ")");
+					else
+					if (affordances.contains("flying"))			
+						printlnDribbleFile(getDribblePosition() + "\t" + NOC.hashtagify(exemplar) + "\t" +
+										   "I came, I saw, I dive-bomed them from my " + vehicle + "|\t" +
+										   "(Suggested epitaph for " + NOC.hashtagify(exemplar) + ")");
+					
+				}
+			}
+			
+			if (actions != null && actions.size() > 0)
+			{
+				for (int ac  = 0; ac < actions.size(); ac++)
+				{
+					String action = (String)actions.elementAt(ac);
+					
+					String epitaph =    "Here lies but the body of " + firstName + 
+										",|may " + possPro + " soul forever go on " + action + ".|\t" +
+										"(Suggested epitaph for " + NOC.hashtagify(exemplar) + ")";
+					
+					if (epitaph.length() <= 140)
+						printlnDribbleFile(getDribblePosition() + "\t" + NOC.hashtagify(exemplar) + "\t" +  epitaph);
+					
+				}
+			}
+			
+			if (weapons != null && weapons.size() > 0)
+			{
+				for (int w  = 0; w < weapons.size(); w++)
+				{
+					String weapon = (String)weapons.elementAt(w);
+					
+					Vector affordances = WEAPONS.getFieldValues("Affordances", weapon);
+					
+					if (affordances == null) continue;
+					
+					String det = WEAPONS.getFirstValue("Determiner", weapon);
+					
+					if (det == null) 
+						det = "";
+					else
+						det = det + " ";
+					
+					for (int a = 0; a < affordances.size(); a++)
+					{
+						String affordance = (String)affordances.elementAt(a);
+						
+						Vector pastTenses = affordTenses.getFieldValues("Past Tense", affordance);
+						
+						if (pastTenses == null) continue;
+						
+						for (int pt = 0; pt < pastTenses.size(); pt++)
+						{
+							String pastTense = (String)pastTenses.elementAt(pt);
+							String head      = pastTense.substring(0, pastTense.indexOf((int)' '));
+							String tail      = pastTense.substring(head.length()+1);
+							
+							printlnDribbleFile(getDribblePosition() + "\t" + NOC.hashtagify(exemplar) + "\t" +
+									   		   "I came, I saw, I " + head + " them all " + tail + " " + det + weapon + "|\t" +
+									   		   "(Suggested epitaph for " + NOC.hashtagify(exemplar) + ")");
+							
+							if (opponents != null)
+							{
+								for (int o = 0; o < opponents.size(); o++)
+								{
+									String opponent = (String)opponents.elementAt(o);
+									
+									printlnDribbleFile(getDribblePosition() + "\t" + NOC.hashtagify(exemplar) + "\t" +
+									   		   "I came, I saw, I " + head + " " + NOC.hashtagify(opponent) + " " + tail + " " + det + weapon + "|\t" +
+									   		   "(Suggested epitaph for " + NOC.hashtagify(exemplar) + ")");
+								}
+							}
+							
+							if (actors != null)
+							{
+								for (int ac = 0; ac < actors.size(); ac++)
+								{
+									String actor = (String)actors.elementAt(ac);
+									
+									printlnDribbleFile(getDribblePosition() + "\t" + NOC.hashtagify(exemplar) + "\t" +
+									   		   "I came, I saw, I " + head + " them all " + tail + " " + NOC.hashtagify(exemplar) + "'s " + weapon + "|\t" +
+									   		   "(Suggested epitaph for " + NOC.hashtagify(actor) + ")");
+								}
+							}
+						}
+					}
+				}
+			}
+		}
+		
+		closeDribbleFile();
+	}
+	
+	//-----------------------------------------------------------------------------------------------//
+	//-----------------------------------------------------------------------------------------------//
+	// Generate Blends of Good and Bad Qualities
+	//-----------------------------------------------------------------------------------------------//
+	//-----------------------------------------------------------------------------------------------//
+
+	public void generateGoodBadBlends(String tweetDir)
+	{
+		Vector exemplars = NOC.getAllFrames();
+		
+		Vector posFields = new Vector();  posFields.add("Positive Talking Points");
+		Vector negFields = new Vector();  negFields.add("Negative Talking Points");
+		
+		openDribbleFile(tweetDir + "NOC blend tweets.idx");
+		
+		for (int e = 0; e < exemplars.size(); e++)
+		{
+			String exemplar = (String)exemplars.elementAt(e);
+			
+			Vector posSims  = NOC.getSimilarConcepts(exemplar, posFields, 2);
+			
+			if (posSims == null || posSims.size() < 2) continue;
+			
+			Vector negSims  = NOC.getSimilarConcepts(exemplar, negFields, 2);
+			
+			if (negSims == null || negSims.size() < 2) continue;
+			
+			for (int p = 0; p < posSims.size(); p++)
+			{
+				String posOther  = (String)posSims.elementAt(p);
+				
+				Vector posShared = NOC.getOverlappingFields(exemplar, posOther, posFields);
+				
+				for (int n = 0; n < negSims.size(); n++)
+				{
+					String negOther  = (String)negSims.elementAt(n);
+					
+					if (negOther.equals(posOther)) continue;
+					
+					Vector negShared = NOC.getOverlappingFields(exemplar, negOther, negFields);
+					
+					int unique = 0;
+					
+					for (int t = 0; t < negShared.size(); t++)
+					{
+						if (!NOC.hasFieldValue("Negative Talking Points", posOther, (String)negShared.elementAt(t)))
+							unique++;
+					}
+					
+					for (int t = 0; t < posShared.size(); t++)
+					{
+						if (!NOC.hasFieldValue("Positive Talking Points", negOther, (String)posShared.elementAt(t)))
+							unique++;
+					}
+					
+					if (unique < 3) continue;  // we don't want posOther and negOther to overlap too much
+					
+					String tweet = NOC.hashtagify(exemplar) + " combines the best of " + NOC.hashtagify(posOther) 
+											+ " and the worst of " + NOC.hashtagify(negOther)
+											+ ":\t" + condenseQualityList(posShared) + " yet also " + condenseQualityList(negShared);
+					
+					String pronoun = "He";
+					
+					if (NOC.hasFieldValue("Gender", exemplar, "female"))
+						pronoun = "She";
+					
+					if (tweet.length() <= 136 - pronoun.length())
+						tweet = replaceWith(tweet, ":\t", ":\t" + pronoun + " is ");
+					
+					if (tweet.length() <= 140)
+						printlnDribbleFile(getDribblePosition() + "\t" 
+										    + NOC.hashtagify(exemplar) + "Or" + NOC.hashtagify(posOther).substring(1) + " " 
+										    + NOC.hashtagify(exemplar) + "Or" + NOC.hashtagify(negOther).substring(1) + "\t"
+										    + tweet);
+				}
+			}
+		}
+		
+		closeDribbleFile();
+	}
+	
+	private String condenseQualityList(Vector qualities)
+	{
+		if (qualities == null || qualities.size() == 0)
+			return "";
+		
+		StringBuffer condensed = new StringBuffer();
+		
+		for (int q = 0; q < qualities.size(); q++)
+		{
+			String quality = (String)qualities.elementAt(q);
+			
+			int delimiter  = quality.indexOf((int)'=');
+			
+			if (delimiter > 0)
+				quality = quality.substring(delimiter+1);
+			
+			if (q == 0)
+				condensed.append(quality);
+			else
+			if (q == 1 && qualities.size() == 2)
+				condensed.append(" and ").append(quality);
+			else
+			if (q == 1 && qualities.size() > 2)
+				condensed.append(", ").append(quality);
+			else
+			if (q == 2)
+			{
+				condensed.append(" and ").append(quality);
+				break;
+			}
+		}
+		
+		return condensed.toString();
+	}
 	
 	//-----------------------------------------------------------------------------------------------//
 	//-----------------------------------------------------------------------------------------------//
@@ -101,9 +451,11 @@ public class PersonOfInterest
 	
 	public void generateDreamConflicts(String tweetDir)
 	{
-		Vector exemplars = NOC.getKeyConcepts();
+		Vector exemplars = NOC.getAllFrames();
 		
 		openDribbleFile(tweetDir + "dream conflict tweets.idx");
+				
+		KnowledgeBaseModule dreamKB = new KnowledgeBaseModule("/Users/tonyveale/Desktop/Lexical Resources/Moods/Veale's Dream Symbols.idx");
 
 		String preamble = "I dreamt I was ";
 
@@ -180,11 +532,24 @@ public class PersonOfInterest
 										String tags      = "#" + Character.toUpperCase(pos.charAt(0)) + pos.substring(1) + "Or" +
 																	Character.toUpperCase(opposite.charAt(0)) + opposite.substring(1);
 										
+										Vector normInterps = getDreamInterpretationsFor(exemplar, dreamKB);
+										
+										if (normInterps == null)
+											normInterps = getDreamInterpretationsFor(instance, dreamKB);
+										
+										if (normInterps == null)
+											normInterps = getDreamInterpretationsFor(weapon, dreamKB);
+										
+										if (normInterps == null) continue;
+										
+										String normInterp = (String)normInterps.elementAt(DICE.nextInt(normInterps.size()));
+										
 										if (dream.length() < 130)
 											dream = "Last night " + dream;
 										
 										if (dream.length() <= 140 && followup.length() <= 140)
-											printlnDribbleFile(getDribblePosition() + "\t" + tags + "\t" + dream + "\t" + followup);
+											printlnDribbleFile(getDribblePosition() + "\t" + tags + "\t" + dream + "\t" + followup + "\t" 
+															  + "Well, " + Character.toLowerCase(normInterp.charAt(0)) + normInterp.substring(1));
 									}
 								}
 							}
@@ -198,6 +563,58 @@ public class PersonOfInterest
 	}
 
 	
+	
+	private Vector getDreamInterpretationsFor(String text, KnowledgeBaseModule dreamKB)
+	{
+		Vector symbols = getDreamSymbolsIn(text, dreamKB);
+		
+		if (symbols == null || symbols.size() == 0) return null;
+		
+		Vector allInterps = new Vector();
+		
+		for (int s = 0; s < symbols.size(); s++)
+		{
+			String symbol = (String)symbols.elementAt(s);
+			
+			Vector interps = dreamKB.getFieldValues("Interpretation", symbol);
+			
+			if (interps == null) continue;
+			
+			for (int i = 0; i < interps.size(); i++)
+				allInterps.add(interps.elementAt(i));
+		}
+		
+		return allInterps;
+	}
+	
+	
+	
+	
+	private Vector getDreamSymbolsIn(String text, KnowledgeBaseModule dreamKB)
+	{
+		Vector symbols = new Vector();
+
+		if (dreamKB.getFieldValues("Interpretation", text) != null)
+			symbols.add(text);
+		
+		StringTokenizer tokens = new StringTokenizer(text, " ,;'.()", false);
+		
+		while (tokens.hasMoreTokens())
+		{
+			String symbol = tokens.nextToken();
+			
+			if (dreamKB.getFieldValues("Interpretation", symbol) != null)
+			{
+				if (symbols == null) symbols = new Vector();
+				
+				symbols.add(symbol);
+			}
+		}
+		
+		return symbols;
+	}
+	
+	
 	//-----------------------------------------------------------------------------------------------//
 	//-----------------------------------------------------------------------------------------------//
 	//  Generate Nietzschean  "What Doesn't Kill You" metaphors
@@ -210,7 +627,7 @@ public class PersonOfInterest
 
 	public void generateNietzscheanTweets(String tweetDir)
 	{
-		Vector exemplars = NOC.getKeyConcepts();
+		Vector exemplars = NOC.getAllFrames();
 		
 		openDribbleFile(tweetDir + "Nietzschean tweets.idx");
 
@@ -265,14 +682,14 @@ public class PersonOfInterest
 						if (ytweet.length() <= 140)
 							printlnDribbleFile(getDribblePosition() + "\t" + NOC.hashtagify(exemplar) + "\t" + ytweet);
 						
-						Vector opposites = ANTONYMS.getFieldValues("Antonym", pos);
+						Vector<String> opposites = ANTONYMS.getFieldValues("Antonym", pos);
 						
 						if (opposites != null)
 						{
 							for (int o = 0; o < opposites.size(); o++)
 							{
 								String opposite  = (String)opposites.elementAt(o);
-								Vector instances = (Vector)NEG_QUALITIES.get(opposite);
+								Vector instances = (Vector<String>)NEG_QUALITIES.get(opposite);
 								
 								if (instances == null) continue;
 								
@@ -339,7 +756,7 @@ public class PersonOfInterest
 	
 	public void makeOthersLookGood(String tweetDir)
 	{
-		Vector exemplars = NOC.getKeyConcepts();
+		Vector exemplars = NOC.getAllFrames();
 		
 		openDribbleFile(tweetDir + "relative perspective tweets.idx");
 
@@ -407,7 +824,7 @@ public class PersonOfInterest
 
 	public void generateShakespeareanTweets(String tweetDir)
 	{
-		Vector exemplars = NOC.getKeyConcepts();
+		Vector exemplars = NOC.getAllFrames();
 		
 		openDribbleFile(tweetDir + "clothes maketh the man tweets.idx");
 
@@ -547,21 +964,6 @@ public class PersonOfInterest
 	}
 	
 	
-	// Do in-line string replacement
-	
-	private String replaceWith(String whole, String before, String after)
-	{
-		int where = whole.indexOf(before);
-		
-		while (where >= 0)
-		{
-			whole = whole.substring(0, where) + after + whole.substring(where + before.length());
-			
-			where = whole.indexOf(before, where + after.length());
-		}
-		
-		return whole;
-	}
 
 	
 	//-----------------------------------------------------------------------------------------------//
@@ -1496,100 +1898,9 @@ public class PersonOfInterest
 	}
 	
 	
-	//--------------------------------------------------------------------------//
-	//--------------------------------------------------------------------------//
-	//  Manage a dribble file for recording output
-	//--------------------------------------------------------------------------//
-	//--------------------------------------------------------------------------//
 
-	private FileOutputStream   dribbleStream  = null;
-	private OutputStreamWriter dribbleFile    = null;
-	
-	private void openDribbleFile(String filename)
-	{
-		try {
-			dribbleStream = new FileOutputStream(filename);
-			dribbleFile   = new OutputStreamWriter(dribbleStream, "UTF-8");
-		}
-		catch (Exception e)
-		{
-			e.printStackTrace();
-		}
-	}
 	
 	
-	
-	private void closeDribbleFile()
-	{
-		try {
-			if (dribbleFile != null)
-			{
-				dribbleFile.flush();
-				dribbleFile.close();
-			}
-		}
-		catch (Exception e)
-		{
-			//e.printStackTrace();
-		}
-	}
-	
-	
-	private long getDribblePosition()
-	{
-		try {
-			if (dribbleStream == null)
-				return 0;
-			else
-				return dribbleStream.getChannel().position();
-		}
-		catch (Exception e)
-		{
-			e.printStackTrace();
-			
-			return -1;
-		}
-	}
-	
-	
-	private void printlnDribbleFile(String line)
-	{
-		try {
-			if (dribbleFile != null)
-			{
-				dribbleFile.write(line);
-				dribbleFile.write("\n");
-				dribbleFile.flush();
-			}
-			
-			System.out.println(line);
-		}
-		catch (Exception e)
-		{
-			e.printStackTrace();
-		}
-	}
-	
-	
-	private void printDribbleFile(String line)
-	{
-		try {
-			if (dribbleFile != null)
-			{
-				dribbleFile.write(line);
-				dribbleFile.flush();
-			}
-			
-			System.out.print(line);
-		}
-		catch (Exception e)
-		{
-			e.printStackTrace();
-		}
-	}
-	
-	
-
 	//-----------------------------------------------------------------------------------------------//
 	//-----------------------------------------------------------------------------------------------//
 	//   Application Stub
@@ -1599,21 +1910,50 @@ public class PersonOfInterest
 	public static void main(String[] args)
 	{
 		String kdir = "/Users/tonyveale/Dropbox/CodeCamp2015/DATA/TSV Lists/";
-		String tdir = "/Users/tonyveale/Desktop/Lexical Resources/Moods/";		
+		String tdir = "/Users/tonyveale/Desktop/Lexical Resources/Moods/";	
 		
 		PersonOfInterest stereonomicon = new PersonOfInterest(kdir);
 		
-		stereonomicon.generateDreamConflicts(tdir);
+		/*
+		 
+		RelationshipCategorizer relCats = new RelationshipCategorizer(stereonomicon.NOC);
+		Tabular.SymbolMap catMap = relCats.getTexturedCategoryMap();
 		
-		stereonomicon.makeOthersLookGood(tdir);
+		catMap.saveMapping(tdir + "NOC T-Rex membership.idx");
 		
-		stereonomicon.generateNietzscheanTweets(tdir);
 		
-		stereonomicon.generateShakespeareanTweets(tdir);
+		Tabular.SymbolMap relations	= new Tabular.SymbolMap("list of rival categories");
+
+		stereonomicon.instantiateRelationshipsWithNOC(kdir);
 		
-		stereonomicon.walkMileInShoes(tdir);
+		System.out.println("-------------------------------------");
 		
-		stereonomicon.generateXYZs(tdir);
+		Tabular.SymbolMap enemies 	= stereonomicon.getEnemyMap(kdir, relations);
+		
+		Tabular.SymbolMap spouses 	= stereonomicon.getSpouseRelations(enemies);
+		
+		spouses.saveMapping(kdir + "relationship instances.txt");
+		*/
+		
+	
+//		stereonomicon.generateDreamConflicts(tdir);
+
+//		stereonomicon.generateHulkSmashTweets(tdir);
+		
+//		stereonomicon.generateEpitaphs(tdir);
+		
+//		stereonomicon.generateGoodBadBlends(tdir);
+		
+//		stereonomicon.makeOthersLookGood(tdir);
+		
+//		stereonomicon.generateNietzscheanTweets(tdir);
+		
+//		stereonomicon.generateShakespeareanTweets(tdir);
+		
+//		stereonomicon.walkMileInShoes(tdir);
+		
+//		stereonomicon.generateXYZs(tdir);
+		
 	}
 		
 

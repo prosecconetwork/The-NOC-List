@@ -6,10 +6,12 @@ import java.io.IOException;
 import java.io.InputStream;
 import java.io.InputStreamReader;
 import java.util.Hashtable;
+import java.util.Random;
 import java.util.StringTokenizer;
 import java.util.Vector;
 
-import Categorizer.WordTable;
+import tabular.BucketTable;
+
 
 // A class to hold a particular module of a knowledge-base of triples
 // T. Veale, 2015
@@ -17,6 +19,8 @@ import Categorizer.WordTable;
 
 public class KnowledgeBaseModule 
 {
+	private static Random RND 		= new Random();
+
 	private Hashtable kb = new Hashtable();
 	
 	private Vector fieldNames  = new Vector();
@@ -46,14 +50,14 @@ public class KnowledgeBaseModule
 
 	// Get the list of fields that describe concepts (keys) in this knowledge-base module
 	
-	public Vector getFieldNames()
+	public Vector<String> getFieldNames()
 	{
 		return fieldNames;
 	}
 
 	// Get the values associated with a specific field of a key concept
 	
-	public Vector getFieldValues(String fieldName, String key)
+	public Vector<String> getFieldValues(String fieldName, String key)
 	{
 		for (int f = 0; f < fieldNames.size(); f++)
 		{
@@ -106,7 +110,7 @@ public class KnowledgeBaseModule
 	
 	// Return a list of all the key concepts that have fields/values in this knowledge module
 	
-	public Vector getKeyConcepts()
+	public Vector<String> getAllFrames()
 	{
 		Vector longest = null;
 		
@@ -125,9 +129,9 @@ public class KnowledgeBaseModule
 		
 	// return a list of key concepts with a given value in a given field
 	
-	public Vector getAllKeysWithFieldValue(String fieldname, String value)
+	public Vector<String> getAllKeysWithFieldValue(String fieldname, String value)
 	{
-		Vector matchingKeys = new Vector();
+		Vector<String> matchingKeys = new Vector();
 
 		if (value == null) 
 			return matchingKeys;
@@ -161,6 +165,14 @@ public class KnowledgeBaseModule
 	}
 	
 	
+	public String selectRandomlyFrom(Vector<String> choices)
+	{
+		if (choices == null || choices.size() == 0)
+			return null;
+		else
+			return choices.elementAt(RND.nextInt(choices.size()));
+	}
+	
 	//-----------------------------------------------------------------------------------------------//
 	//-----------------------------------------------------------------------------------------------//
 	//   Useful public tools
@@ -171,8 +183,11 @@ public class KnowledgeBaseModule
 	
 	public String hashtagify(String phrase)
 	{
+		if (phrase == null || phrase.length() < 1)
+			return phrase;
+		
 		if (phrase.indexOf((int)' ') < 0)
-			return "#" + phrase;
+			return "#" + Character.toUpperCase(phrase.charAt(0)) + phrase.substring(1);
 		
 		StringBuffer tagged = new StringBuffer("#"); 
 		
@@ -192,6 +207,22 @@ public class KnowledgeBaseModule
 		
 		return tagged.toString();
 	}
+	
+	
+	
+	public String replaceWith(String whole, String before, String after)
+	{
+		int where = whole.indexOf(before);
+		
+		while (where >= 0)
+		{
+			whole = whole.substring(0, where) + after + whole.substring(where + before.length());
+			
+			where = whole.indexOf(before, where + after.length());
+		}
+		
+		return whole;
+	}
 
 	
 	// Get the intersection of two lists of concepts
@@ -203,6 +234,17 @@ public class KnowledgeBaseModule
 		
 		if (v2 == null || v2.size() == 0)
 			return null;
+		
+		if (v1.size()*v2.size() < 1000)
+		{
+			Vector common = new Vector();
+			
+			for (int i = 0; i < v1.size(); i++)
+				if (v2.contains(v1.elementAt(i)))
+					common.add(v1.elementAt(i));
+			
+			return common;
+		}
 		
 		Hashtable seen = new Hashtable();
 		
@@ -285,6 +327,8 @@ public class KnowledgeBaseModule
 		return getInvertedField(givenField, new Hashtable());
 	}
 	
+	
+	
 	public Hashtable getInvertedField(String givenField, Hashtable inversion)
 	{
 		Vector invertedKeys = new Vector();
@@ -336,6 +380,49 @@ public class KnowledgeBaseModule
 		return inversion;
 	}
 	
+	
+	
+	public BucketTable invertFieldInto(String givenField, BucketTable inversion)
+	{
+		Vector invertedKeys = new Vector();
+		
+		inversion.put("*keylist*", invertedKeys);
+		
+		for (int f = 0; f < fieldTables.size(); f++)
+		{
+			String fieldName      = (String)fieldNames.elementAt(f);
+			
+			if (!fieldName.equals(givenField))
+				continue;
+			
+			Hashtable fieldTable  = (Hashtable)fieldTables.elementAt(f);
+			
+			Vector keylist =  (Vector)fieldTable.get("*keylist*"), values = null, entries = null;
+			
+			if (keylist == null) continue;
+			
+			String key = null, value = null;
+			
+			for (int k = 0; k < keylist.size(); k++)
+			{
+				key    = (String)keylist.elementAt(k);
+				values = (Vector)fieldTable.get(key);
+				
+				if (values == null) continue;
+				
+				for (int v = 0; v < values.size(); v++)
+				{
+					value = (String)values.elementAt(v);
+					
+					inversion.put(value, key);
+				}
+			}	
+		}
+		
+		return inversion;
+	}
+	
+	
 	//-----------------------------------------------------------------------------------------------//
 	//-----------------------------------------------------------------------------------------------//
 	//   Return an ordered list of the most similar key concepts to a given key, most similar first
@@ -344,13 +431,25 @@ public class KnowledgeBaseModule
 
 	public Vector getSimilarConcepts(String given)
 	{
-		return getSimilarConcepts(given, fieldNames);
+		return getSimilarConcepts(given, fieldNames, 1);
 	}
 	
 	
+	public Vector getSimilarConcepts(String given, int minSimilarity)
+	{
+		return getSimilarConcepts(given, fieldNames, minSimilarity);
+	}
+
+	
 	public Vector getSimilarConcepts(String given, Vector fieldNames)
 	{
-		Vector keys = getKeyConcepts();
+		return getSimilarConcepts(given, fieldNames, 1);
+	}
+	
+	
+	public Vector getSimilarConcepts(String given, Vector fieldNames, int minSimilarity)
+	{
+		Vector keys = getAllFrames();
 		
 		Vector[] scale = new Vector[fieldNames.size()*10];
 		
@@ -364,7 +463,7 @@ public class KnowledgeBaseModule
 			
 			Vector overlap = getOverlappingFields(given, other, fieldNames);
 			
-			if (overlap == null || overlap.size() == 0) continue;
+			if (overlap == null || overlap.size() < minSimilarity) continue;
 			
 			int simScore = overlap.size();
 			
@@ -467,7 +566,7 @@ public class KnowledgeBaseModule
 		String line = null;
 		
 		try {
-			BufferedReader input = new BufferedReader(new InputStreamReader(stream, "UTF-8"));
+			BufferedReader input = new BufferedReader(new InputStreamReader(stream, "UTF8"));
 			
 			loadFieldNames(input.readLine());
 			
@@ -553,7 +652,7 @@ public class KnowledgeBaseModule
 		{
 			String value = values.nextToken().trim().intern();
 			
-			if (!fieldValues.contains(value))
+			if (value.length() > 0 && !fieldValues.contains(value))
 				fieldValues.add(value);
 		}
 		
@@ -602,7 +701,7 @@ public class KnowledgeBaseModule
 	
 	public static void main(String[] args)
 	{
-		String kdir = "/Users/tonyveale/Dropbox/CodeCamp2015/TSV Lists/";
+		String kdir = "/Users/tonyveale/Dropbox/CodeCamp2015/DATA/TSV Lists/";
 		
 		KnowledgeBaseModule NOC          = new KnowledgeBaseModule(kdir + "Veale's The NOC List.txt", 0);
 		KnowledgeBaseModule CATEGORIES   = new KnowledgeBaseModule(kdir + "Veale's Category Hierarchy.txt", 0);
@@ -618,7 +717,9 @@ public class KnowledgeBaseModule
 		
 		System.out.println(SUPERLATIVES.getFieldValues("Superlative", "expensive"));
 		
-		System.out.println(NOC.getFieldNames());
+		Vector<String> fields = NOC.getFieldNames();
+		
+		System.out.println(fields);
 		
 		System.out.println(NOC.getFieldValues("Portrayed By", "Abraham Lincoln"));
 		
@@ -638,7 +739,7 @@ public class KnowledgeBaseModule
 		System.out.println(CREATIONS.getFieldValues("Creation Action", "Christianity"));
 		System.out.println(CREATIONS.getFieldValues("Creation Type", "Christianity"));
 
-		System.out.println(NOC.getKeyConcepts());
+		System.out.println(NOC.getAllFrames());
 		
 		System.out.println(DOMAINS.getFieldValues("Type", "American history"));
 		
@@ -674,7 +775,4 @@ public class KnowledgeBaseModule
 		System.out.println(NOC.intersect(NOC.getSimilarConcepts("Osama Bin Laden", attributeFields), fictionalCharacters));
 
 	}
-
-	
-	
 }
