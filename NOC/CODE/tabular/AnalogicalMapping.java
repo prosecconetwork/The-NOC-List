@@ -2,7 +2,6 @@ package tabular;
 
 import java.util.Vector;
 
-// Create 
 
 
 public class AnalogicalMapping extends SymbolMap
@@ -10,8 +9,8 @@ public class AnalogicalMapping extends SymbolMap
 	private BucketTable slots 			= new BucketTable("slot to fillers");
 	
 	private SymbolMap kb     			= null;
-	private SymbolMap coordinates 		= null;
-	private BucketTable referenceSet	= null;
+	private SymbolMap coordinates 			= null;
+	private BucketTable referenceSet		= null;
 	
 	private String currentSrc			= null;
 	
@@ -271,25 +270,6 @@ public class AnalogicalMapping extends SymbolMap
 
 	public static void main(String[] args)
 	{
-		String coordname = Categorizer.NGramProcessor.BOOT_DIR + "term to term coordinates.idx";
-		String kbname    = Categorizer.NGramProcessor.Q_DIR + "noun key relations.idx";
-		String mapname   = Categorizer.NGramProcessor.Q_DIR + "analogical mappings.idx";
 		
-		AnalogicalMapping mapper = new AnalogicalMapping(kbname, coordname);
-		
-		BucketTable referenceElements = new BucketTable("terms to salient associations");
-		
-		referenceElements.loadTable(Categorizer.NGramProcessor.Q_DIR + "noun key elements.idx");
-		referenceElements.loadTable(Categorizer.NGramProcessor.LEX_DIR + "rare possessions.idx");
-		referenceElements.loadTable(Categorizer.NGramProcessor.LEX_DIR + "obvious terms.idx");
-		
-		mapper.setReferenceSet(referenceElements);
-		
-	  //mapper.findSimilesWithinLimits(60);
-		mapper.findAnalogiesWithinLimits(80, 80);
-		
-		mapper.saveMapping(mapname);
-		
-		System.out.println("\nFinished.");
 	}
 }
